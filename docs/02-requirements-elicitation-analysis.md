@@ -431,20 +431,20 @@ GlassGo is positioned as the comprehensive solution for the transportation of sp
 
 **Segment 1: Truck Transport Companies**
 
-    Interviews were conducted with operations managers of transport companies using basic digital tools to coordinate their fleets. The information allowed identification of key objective and subjective characteristics for project planning.
+Interviews were conducted with operations managers of transport companies using basic digital tools to coordinate their fleets. The information allowed identification of key objective and subjective characteristics for project planning.
 
-    | Characteristic | Mention | % | Evidence |
-| :---- | :---- | :---- | :---- |
-| **Use of Android smartphones as the main coordination tool** | **3/3** | **100%** | **All three interviewees mention using Android mobile phones for communication, coordination, and route tracking.** |
-| **Use of spreadsheets (Excel) for planning or control** | **2/3** | **66%** | **Percy and Luis refer to using spreadsheets to plan routes and monitor administrative operations.** |
-| **Use of GPS systems for fleet tracking** | **3/3** | **100%** | **All use GPS: Luis (Frotcom), Jordan (Geotab), and Percy (basic GPS).** |
-| **Technological limitations due to cost or lack of training** | **2/3** | **66%** | **Luis and Percy mention that costs and training are obstacles to implementing new digital tools.** |
-| **Interest in advanced monitoring (temperature alerts, impacts, driver fatigue)** | **3/3** | **100%** | **All express interest in having more detailed data and sensors for safety and traceability.** |
-| **Positive predisposition towards digitalization with a practical focus** | **3/3** | **100%** | **All value technology but prioritize utility and operational return over system complexity.** |
-| **Interest in integrating more robust systems (TMS, SAP, Frotcom)** | **2/3** | **66%** | **Luis uses Frotcom and Jordan is migrating to SAP S/4HANA and TMS to automate processes.** |
-| **Use of computers with Windows system** | **3/3** | **100%** | **Explicit mention of using laptops or PCs with Windows for logistics and administrative management.** |
-| **Frequent problems: shrinkage or cargo damage** | **3/3** | **100%** | **Mention losses or damage due to poor road conditions, handling, or poor stacking.** |
-| **High experience in transport and distribution** | **3/3** | **100%** | **All have over 5 years of experience in national transport, logistics, or distribution.** |
+| Characteristics | Mention | % | Evidence |
+| ----- | :---: | :---: | ----- |
+| Use of Android smartphones as main coordination tool | 3/3 | 100% | All three interviewees mention using Android mobile phones for communication, coordination and route tracking. |
+| Use of spreadsheets (Excel) for planning or control | 2/3 | 66% | Percy and Luis report using spreadsheets to plan routes and monitor administrative operations. |
+| Use of GPS systems for fleet tracking | 3/3 | 100% | All use GPS: Luis (Frotcom), Jordan (Geotab) and Percy (basic GPS). |
+| Technological limitations due to cost or lack of training | 2/3 | 66% | Luis and Percy mention that costs and training are obstacles to implementing new digital tools. |
+| Interest in advanced monitoring (temperature alerts, impacts, driver fatigue) | 3/3 | 100% | All express interest in having more detailed data and sensors to ensure safety and traceability. |
+| Positive predisposition toward digitization with practical focus | 3/3 | 100% | All value technology but prioritize usefulness and operational return over system complexity. |
+| Interest in integrating more robust systems (TMS, SAP, Frotcom) | 2/3 | 66% | Luis uses Frotcom and Jordan is in process of migrating to SAP S/4HANA and TMS to automate processes. |
+| Use of Windows-based computers | 3/3 | 100% | There is explicit mention of using laptops or Windows PCs for logistics and administrative tasks. |
+| Frequent problems: losses or damage to cargo | 3/3 | 100% | They mention losses or damage due to poor road conditions, handling or improper stacking. |
+| High experience in transport and distribution sector | 3/3 | 100% | All have over 5 years of experience in transport, logistics or distribution at national level. |
 
 **Insights**
 
@@ -497,29 +497,35 @@ This segment corresponds to small retail merchants with 2 to 3 years of experien
     * There is strong dependence on WhatsApp as a management channel with suppliers, which could be integrated into the GlassGo proposal.
 
     * Their need is less in the fleet and more in inventory management and purchase forecasting, which can be solved with clear, simple reports.
+
 ## 2.3. Needfinding
+
 ### 2.3.1. User Personas
 
-    This section presents three User Personas representing the project's key segments: Freight Carriers, Liquor Distributors, and Bar/Liquor Store Owners. These profiles allow a deep understanding of the needs, motivations, frustrations, and behaviors of potential users of the GlassGo system, a platform seeking to improve traceability, efficiency, and security in the transport of glass-packaged liquors in Peru.
+This section presents three User Personas representing the project's key segments: Freight Carriers, Liquor Distributors, and Bar/Liquor Store Owners. These profiles allow a deep understanding of the needs, motivations, frustrations, and behaviors of potential users of the GlassGo system, a platform seeking to improve traceability, efficiency, and security in the transport of glass-packaged liquors in Peru.
 
-        * **Segment 1: Truck Transport Companies**
+**Segment 1: Truck Transport Companies**
 
-            The User Persona Jorge Mendoza represents independent heavy cargo carriers, responsible for transporting beverages between different cities in the country. Jorge has more than twenty years of experience in the field and works with an aging fleet that causes operational difficulties and losses due to bottle breakage. He has tried some geolocation tools, but none really adapt to local route conditions or his level of digital familiarity. His main motivation is to optimize routes and reduce fuel and maintenance costs, achieving timely deliveries to maintain his reputation and contracts. He seeks a simple, accessible, and reliable solution to monitor his cargo without relying on manual processes or phone calls.
+The User Persona Jorge Mendoza represents independent heavy cargo carriers, responsible for transporting beverages between different cities in the country. Jorge has more than twenty years of experience in the field and works with an aging fleet that causes operational difficulties and losses due to bottle breakage. He has tried some geolocation tools, but none really adapt to local route conditions or his level of digital familiarity. His main motivation is to optimize routes and reduce fuel and maintenance costs, achieving timely deliveries to maintain his reputation and contracts. He seeks a simple, accessible, and reliable solution to monitor his cargo without relying on manual processes or phone calls.
 
-        ![UP1](../src/images/chapter2/needfinding/User-Persona1.png)
+*Respective image 1*
+![UP1](../src/images/chapter2/needfinding/User-Persona1.png)
 
-        * **Segment 2: Liquor Suppliers**
+**Segment 2: Liquor Suppliers**
 
-            The User Persona Andrea Flores represents liquor distributors, responsible for ensuring orders arrive complete and in good condition. Andrea manages distribution logistics for bars and restaurants in Lima, frequently facing losses due to partial thefts or damaged bottles during transport. Although she has implemented some control systems, these are often expensive or not adaptable to her company's needs. Her main motivation is to have total cargo traceability and minimize risks in each delivery, ensuring client trust. She seeks a platform offering real-time visibility, automatic alerts, and simple reports to make quick decisions without relying on multiple communication channels.
+The User Persona Andrea Flores represents liquor distributors, responsible for ensuring orders arrive complete and in good condition. Andrea manages distribution logistics for bars and restaurants in Lima, frequently facing losses due to partial thefts or damaged bottles during transport. Although she has implemented some control systems, these are often expensive or not adaptable to her company's needs. Her main motivation is to have total cargo traceability and minimize risks in each delivery, ensuring client trust. She seeks a platform offering real-time visibility, automatic alerts, and simple reports to make quick decisions without relying on multiple communication channels.
 
-        ![UP2](../src/images/chapter2/needfinding/User-Persona2.png)
+*Respective image 2*
+![UP2](../src/images/chapter2/needfinding/User-Persona2.png)
 
-        * **Segment 3: Business Owners**
+**Segment 3: Business Owners**
 
-            The User Persona José Álvarez represents bar and liquor store owners, who depend on supplier punctuality to maintain sales flow. José manages a bar in Miraflores and has had to deal with late or incomplete deliveries that directly affect his inventory and promotions. He has tried to control orders using spreadsheets and messaging, but these methods are inefficient and inaccurate. His main motivation is to have a system providing transparency and punctuality in orders, allowing better purchase planning and avoiding losses due to lack of stock. He seeks an intuitive, visual, and easily accessible tool to receive real-time delivery notifications and maintain direct communication with suppliers.
+The User Persona José Álvarez represents bar and liquor store owners, who depend on supplier punctuality to maintain sales flow. José manages a bar in Miraflores and has had to deal with late or incomplete deliveries that directly affect his inventory and promotions. He has tried to control orders using spreadsheets and messaging, but these methods are inefficient and inaccurate. His main motivation is to have a system providing transparency and punctuality in orders, allowing better purchase planning and avoiding losses due to lack of stock. He seeks an intuitive, visual, and easily accessible tool to receive real-time delivery notifications and maintain direct communication with suppliers.
 
-        ![UP3](../src/images/chapter2/needfinding/User-Persona3.png)
-        
+*Respective image 3*
+![UP3](../src/images/chapter2/needfinding/User-Persona3.png)
+    
+
 ### 2.3.2. User Task Matrix
 
 * **Segment 1: Truck Transport Companies**
@@ -605,3 +611,102 @@ This segment corresponds to small retail merchants with 2 to 3 years of experien
   *María Fernanda Ruiz - Retail Business Administrator*
 
     ![Empathy Mapping Segment 3](../src/images/chapter2/needfinding/empathy-3.png)
+
+## 2.4. Big Picture EventStorming
+
+![EventStorming](../src/images/chapter2/big-picture-eventstorming/big-picture-event-storming.png)
+
+## 2.5. Ubiquitous Language
+
+| Identity & Access Management |  |  |
+| :---- | :---- | :---- |
+| **Term (English)** | **Term (Spanish)** | **Definition (in Spanish)** |
+| User | Usuario | Persona que interactúa con la aplicación. Puede ser cliente o administrador. |
+| Register User | Registrar usuario | Acción de crear una cuenta nueva en el sistema. |
+| Login | Iniciar sesión | Proceso de autenticación para acceder al sistema. |
+| Credentials | Credenciales | Conjunto de datos (correo, contraseña) para la autenticación. |
+| User registered | Usuario registrado | Evento que indica que una nueva cuenta ha sido creada. |
+
+   
+
+| Profiles & Preferences Management |  |  |
+| :---- | :---- | :---- |
+| **Term (English)** | **Term (Spanish)** | **Definition (in Spanish)** |
+| Profile | Perfil | Información personal del usuario (nombre, correo, teléfono, etc.). |
+| Preferences | Preferencias | Configuración personalizada definida por el usuario. |
+| Profile created | Perfil creado | Evento que indica que se creó un perfil asociado a un usuario. |
+| Preferences updated | Preferencias actualizadas | Evento que indica que el usuario cambió su configuración. |
+
+   
+
+   
+
+| Payments & Subscriptions |  |  |
+| :---- | :---- | :---- |
+| **Term (English)** | **Term (Spanish)** | **Definition (in Spanish)** |
+| Subscription | Suscripción | Relación activa entre cliente y plan de servicios. |
+| Subscription started | Suscripción iniciada | Evento que indica el inicio de un plan contratado. |
+| Payment | Pago | Transacción financiera para habilitar un servicio o renovar la suscripción. |
+| Payment processed | Pago procesado | Evento que confirma que un pago fue realizado exitosamente. |
+| Plan | Plan | Conjunto de servicios con un precio definido. |
+| Grace Period | Periodo de gracia | Tiempo extra permitido antes de cancelar un servicio por falta de pago. |
+
+   
+
+   
+
+| Service Planning |  |  |
+| :---- | :---- | :---- |
+| **Term (English)** | **Term (Spanish)** | **Definition (in Spanish)** |
+| Service | Servicio | Actividad que la plataforma organiza para atender al cliente. |
+| Schedule service | Programar servicio | Acción de definir fecha y hora para un servicio. |
+| Service planned | Servicio planificado | Evento que confirma la programación de un servicio. |
+| Administrator | Administrador | Actor responsable de planificar y supervisar servicios. |
+
+   
+
+   
+
+| Service Execution & Monitoring |  |  |
+| :---- | :---- | :---- |
+| **Term (English)** | **Term (Spanish)** | **Definition (in Spanish)** |
+| Execute service | Ejecutar servicio | Acción de poner en marcha un servicio planificado. |
+| Service executed | Servicio ejecutado | Evento que indica que el servicio fue completado. |
+| Monitoring | Monitoreo | Proceso de supervisión en tiempo real de los servicios activos. |
+| Notification sent | Notificación enviada | Evento que informa al usuario sobre el estado del servicio. |
+
+   
+
+   
+
+| Dashboard & Analytics |  |  |
+| :---- | :---- | :---- |
+| **Term (English)** | **Term (Spanish)** | **Definition (in Spanish)** |
+| Dashboard | Panel de control | Vista centralizada con métricas y reportes del sistema. |
+| Analytics | Analítica | Proceso de análisis de datos para generar insights. |
+| Report | Reporte | Documento con resultados y métricas del negocio. |
+| Report generated | Reporte generado | Evento que confirma que se creó un reporte. |
+
+   
+
+   
+
+| Loyalty & Engagement |  |  |
+| :---- | :---- | :---- |
+| **Term (English)** | **Term (Spanish)** | **Definition (in Spanish)** |
+| Loyalty Program | Programa de fidelización | Sistema que premia al cliente por su interacción. |
+| Loyalty points | Puntos de fidelidad | Beneficios acumulados por el cliente. |
+| Accumulate points | Acumular puntos | Acción de añadir puntos al programa de fidelización. |
+| Loyalty points accumulated | Puntos de fidelidad acumulados | Evento que indica que los puntos fueron sumados. |
+
+   
+
+   
+
+| External Systems |  |  |
+| :---- | :---- | :---- |
+| **Term (English)** | **Term (Spanish)** | **Definition (in Spanish)** |
+| Payment Gateway | Pasarela de pagos | Servicio externo que procesa transacciones financieras. |
+| External Provider | Proveedor externo | Actor o empresa que ejecuta servicios subcontratados. |
+| Notification Service | Servicio de notificaciones | Sistema externo que envía correos, SMS o push. |
+| Logistics Partner | Socio logístico | Entidad que apoya en la ejecución o entrega de servicios. |
