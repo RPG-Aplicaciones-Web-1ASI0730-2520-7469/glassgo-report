@@ -565,7 +565,7 @@ La arquitectura de software orientada al dominio (DDD) se centra en modelar el s
   * **PayPal :** Pasarela de pagos para cobrar las membresías.  
   * **Twilio:** Servicio de notificaciones para el envío de SMS, emails o notificaciones push.
 
-  ![][image73]
+  ![context-diagram](../src/images/chapter4/domain-driven-software-arquitecture/context-diagram.png)
 
 ### 4.6.3. Software Architecture Container Diagrams
 
@@ -576,56 +576,110 @@ La arquitectura de software orientada al dominio (DDD) se centra en modelar el s
   * **API REST:** API REST para acceso a datos y lógica de negocio  
   * **DB:** Base de datos relacional
 
-  ![][image74]
+  ![container-diagram](../src/images/chapter4/domain-driven-software-arquitecture/container-diagram.png)
 
 
 ### 4.6.4. Software Architecture Components Diagrams
 
-* Components:  
-  * **(component 1):** (description 1\)  
-  * **(component 2):** (description 2\)  
-  * **(component 3):** (description 3\)
+* **Web Application Component Diagram:**
+  ![component-diagram1](../src/images/chapter4/domain-driven-software-arquitecture/component-diagram1.png)
+
+* **Web Application Component Diagram:**
+  ![component-diagram2](../src/images/chapter4/domain-driven-software-arquitecture/component-diagram2.png)
+
+* **Profile Preferences Component Diagram:**
+  ![component-diagram3](../src/images/chapter4/domain-driven-software-arquitecture/component-diagram3.png)
+
+* **Payments Subscriptions Component Diagram:**
+  ![component-diagram4](../src/images/chapter4/domain-driven-software-arquitecture/component-diagram4.png)
+
+* **Service Planning Component Diagram:**
+  ![component-diagram5](../src/images/chapter4/domain-driven-software-arquitecture/component-diagram5.png)
+
+* **Service Execution Component Diagram:**
+  ![component-diagram6](../src/images/chapter4/domain-driven-software-arquitecture/component-diagram6.png)
+
+* **Dashboard Analytics Component Diagram:**
+  ![component-diagram7](../src/images/chapter4/domain-driven-software-arquitecture/component-diagram7.png)
+
+* **Loyalty Engagement Component Diagram:**
+  ![component-diagram8](../src/images/chapter4/domain-driven-software-arquitecture/component-diagram8.png)
+
+* **System Administration Component Diagram:**
+  ![component-diagram9](../src/images/chapter4/domain-driven-software-arquitecture/component-diagram9.png)
 
 ## 4.7. Software Object-Oriented Design
 
-  El diseño orientado a objetos busca representar las entidades principales de GlassGo mediante clases que encapsulan atributos y métodos, favoreciendo la reutilización y escalabilidad.
+  El Diseño Orientado a Objetos se centra en la estructura lógica del dominio GlassGo, utilizando diagramas de clases UML para definir entidades, servicios y sus relaciones. Cada diagrama representa cómo interactúan las clases dentro de un contexto delimitado, encapsulando atributos y métodos coherentes con sus responsabilidades.
 
 ### 4.7.1. Class Diagrams
 
-  ![][image75]
+**Vistas Especificas por Bounded Context**
+
+  * **Identity Access Class Diagram:**
+    ![class-diagram1](../src/images/chapter4/software-object-oriented-design/class-diagram1.png)
+  
+  * **Profile Preferences Class Diagram:**
+    ![class-diagram2](../src/images/chapter4/software-object-oriented-design/class-diagram2.png)
+  
+  * **Payment Subscription Class Diagram:**
+    ![class-diagram3](../src/images/chapter4/software-object-oriented-design/class-diagram3.png)
+
+  * **Service Planning Class Diagram:**
+    ![class-diagram4](../src/images/chapter4/software-object-oriented-design/class-diagram4.png)
+  
+  * **Service Execution Monitoring Class Diagram:**
+    ![class-diagram5](../src/images/chapter4/software-object-oriented-design/class-diagram5.png)
+
+  * **Dashboard Analytics Class Diagram:**
+    ![class-diagram6](../src/images/chapter4/software-object-oriented-design/class-diagram6.png)
+
+  * **Loyalty Engagement Class Diagram:**
+    ![class-diagram7](../src/images/chapter4/software-object-oriented-design/class-diagram7.png)
+
+  * **System Administration Class Diagram:**
+    ![class-diagram8](../src/images/chapter4/software-object-oriented-design/class-diagram8.png)
 
 ## 4.8. Database Design
 
+El diseño de la base de datos define la estructura relacional utilizada por el sistema GlassGo para garantizar la persistencia e integridad de los datos en todos los contextos delimitados.
+
+
 ### 4.8.1. Database Diagrams
 
-  ![][image76]
+* **Global View:**
+  ![global-view](../src/images/chapter4/database-design/global-view.png)
 
+* **Vistas Especificas por Bounded Context:**
 
+  * **Identity Access Database Diagram:**
 
+    ![database-diagram1](../src/images/chapter4/database-design/database-diagram1.png)
+  
+  * **Profile Preferences Database Diagram:**
 
+    ![database-diagram2](../src/images/chapter4/database-design/database-diagram2.png)
 
+  * **Payment Subscriptions Database Diagram:**
 
+    ![database-diagram3](../src/images/chapter4/database-design/database-diagram3.png)
+  
+  * **Service Planning Database Diagram:**
 
+    ![database-diagram4](../src/images/chapter4/database-design/database-diagram4.png)
 
+  * **Service Execution Monitoring Database Diagram:**
 
+    ![database-diagram5](../src/images/chapter4/database-design/database-diagram5.png)
 
+  * **Dashboard Analytics Database Diagram:**
 
+    ![database-diagram6](../src/images/chapter4/database-design/database-diagram7.png)
 
+  * **Loyalty Engagement Database Diagram:**
 
+    ![database-diagram7](../src/images/chapter4/database-design/database-diagram7.png)
 
+  * **System Administration Database Diagram:**
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-    
+    ![database-diagram8](../src/images/chapter4/database-design/database-diagram8.png)
