@@ -439,8 +439,42 @@ Presents the system's visual identity before entering the main panel.
 Domain-Driven Design (DDD) focuses on modeling the system based on key business processes: secure transport of liquor in glass containers, shipment traceability, and transport condition monitoring. This approach allows each part of the software to faithfully reflect business logic, facilitating scalability and maintenance of GlassGo, RPG startup's main product.
 
 ### 4.6.1. Design-Level EventStorming
+* global vision
 
-![](../src/images/chapter4/information-architecture/GlassGo%20-%20EventStorming%20(1).jpg)
+  ![event_storming_global](../src/images/chapter4/information-architecture/GlassGo%20-%20EventStorming%20(1).jpg)
+
+* Specific Views by Bounded Context:
+  * **Identity Access**
+
+  ![identity_&_access_management](../src/diagrams/eventstorming/design-level/Identity_Access_Management.png)
+
+  * **Profiles Preferences**
+
+  ![profile_&_preferences](../src/diagrams/eventstorming/design-level/Profile_Preferences.png)
+
+  * **Payments Subscriptions**
+
+  ![payments_&_subscriptions](../src/diagrams/eventstorming/design-level/Payments_Subscriptions.png)
+
+  * **Service Planning**
+
+  ![service_planning](../src/diagrams/eventstorming/design-level/Service_Planning.png)
+
+  * **Service Execution**
+
+  ![service_execution_&_monitoring](../src/diagrams/eventstorming/design-level/Service_Execution_Monitoring.png)
+
+  * **Dashboard Analytics**
+
+  ![dashboard_&_analytics](../src/diagrams/eventstorming/design-level/Dashboard_Analytics.png)
+
+  * **Loyalty Engagement**
+
+  ![loyalty_&_engagement](../src/diagrams/eventstorming/design-level/Loyalty_Engagement.png)
+
+  * **System Administration**
+
+  ![system_administration](../src/diagrams/eventstorming/design-level/System_Administration.png)
 
 ### 4.6.2. Software Architecture Context Diagram
 
