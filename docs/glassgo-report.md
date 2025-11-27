@@ -1124,9 +1124,9 @@ The *Product Backlog* is the prioritized list of features, improvements, and tec
 # **Chapter IV: Product Design**
 ## **4.1. Style Guidelines**
 
-  <p style="text-align: justify;">
-    A style guidelines is a set of rules and standards that define how documents, web content, and software should be written, designed, and presented. Below are the specifications of the parameters implemented in the project structure.
-  </p>
+<p style="text-align: justify;">
+  A style guidelines is a set of rules and standards that define how documents, web content, and software should be written, designed, and presented. Below are the specifications of the parameters implemented in the project structure.
+</p>
 
 ### **4.1.1. General Style Guidelines**
 
@@ -1136,7 +1136,7 @@ The *Product Backlog* is the prioritized list of features, improvements, and tec
   </p>
 
   <p align="center">
-    <img src="../src/images/general/Logos_type.png" width="50%">
+    <img src="../src/images/chapter4/style-guidelines/general/branding.png" width="50%">
   </p>
 
 - **Typography**
@@ -1145,8 +1145,8 @@ The *Product Backlog* is the prioritized list of features, improvements, and tec
   </p>
 
   <p align="center">
-      <img src="../src/images/general/Letter.png" width="25%">
-      <img src="../src/images/general/Letter2.png" width="25%">
+      <img src="../src/images/chapter4/style-guidelines/general/typography-1.png" width="25%">
+      <img src="../src/images/chapter4/style-guidelines/general/typography-2.png" width="25%">
   </p>
 
 
@@ -1161,10 +1161,10 @@ The *Product Backlog* is the prioritized list of features, improvements, and tec
   - Black → *#000000*
 
   <p align="center">
-    <img src="../src/images/general/Blue.png" width="24%">
-    <img src="../src/images/general/Gris.png" width="24%">
-    <img src="../src/images/general/White.png" width="24%">
-    <img src="../src/images/general/Black.png" width="24%">
+    <img src="../src/images/chapter4/style-guidelines/general/blue.png" width="24%">
+    <img src="../src/images/chapter4/style-guidelines/general/gray.png" width="24%">
+    <img src="../src/images/chapter4/style-guidelines/general/white.png" width="24%">
+    <img src="../src/images/chapter4/style-guidelines/general/black.png" width="24%">
   </p>
 
 - **Spacing**
@@ -1174,7 +1174,7 @@ The *Product Backlog* is the prioritized list of features, improvements, and tec
   </p>
 
   <p align="center">
-    <img src="../src/images/general/(image).png" width="25%">
+    <img src="../src/images/chapter4/style-guidelines/general/spacing.png" width="50%">
   </p>
 
 ### **4.1.2. Web Style Guidelines**
@@ -1190,37 +1190,129 @@ The *Product Backlog* is the prioritized list of features, improvements, and tec
 ## **4.2. Information Architecture**
 ### **4.2.1. Organization Systems**
 
-- **Main Menu**
+- **Main Menu:**
 
-  | **Topic** | **Definition** |
-  | :---: | ----- |
-  | Home page | The homepage can display an overview of the service and highlight key features. |
-  | Log in | The page where users can log into their session. If they don't have an account, there's a section to register for free in the web service. |
-  | Technical support | The page provides a space for users to share their questions, technical assistance, or complaints about the system. |
+    <table align="center">
+    <thead>
+        <tr>
+        <th style="text-align:center;">Topic</th>
+        <th style="text-align:center;">Definition</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+        <td style="text-align:center;">Home page</td>
+        <td style="text-align:justify;">
+            The homepage can display an overview of the service and highlight key features.
+        </td>
+        </tr>
+        <tr>
+        <td style="text-align:center;">Log in</td>
+        <td style="text-align:justify;">
+            The page where users can log into their session. If they don't have an account, there's a section to register for free in the web service.
+        </td>
+        </tr>
+        <tr>
+        <td style="text-align:center;">Technical support</td>
+        <td style="text-align:justify;">
+            The page provides a space for users to share their questions, technical assistance, or complaints about the system.
+        </td>
+        </tr>
+    </tbody>
+    </table>
 
-- **Subscription Page**
+- **Subscription Page:**
 
-  | **Topic** | **Definition** |
-  | :---: | ----- |
-  | Transport Company Plan | Plan for companies seeking a partnership with a distributor. Benefits include: preferential rates, advanced reports, and priority support. |
-  | Finished Goods Distributor Plan | Plan for distributors seeking a logistics solution to properly manage their resources. |
-  | Market Plan | Individual plan for common businesses such as restaurants, bars, and liquor stores. |
+    <table align="center">
+    <thead>
+        <tr>
+        <th style="text-align:center;">Topic</th>
+        <th style="text-align:center;">Definition</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+        <td style="text-align:center;">Transport Company Plan</td>
+        <td style="text-align:justify;">
+            Plan for companies seeking a partnership with a distributor. Benefits include: preferential rates, advanced reports, and priority support.
+        </td>
+        </tr>
+        <tr>
+        <td style="text-align:center;">Finished Goods Distributor Plan</td>
+        <td style="text-align:justify;">
+            Plan for distributors seeking a logistics solution to properly manage their resources.
+        </td>
+        </tr>
+        <tr>
+        <td style="text-align:center;">Market Plan</td>
+        <td style="text-align:justify;">
+            Individual plan for common businesses such as restaurants, bars, and liquor stores.
+        </td>
+        </tr>
+    </tbody>
+    </table>
 
-- **Login Page**
+- **Login Page:**
 
-  | **Topic** | **Definition** |
-  | :---: | ----- |
-  | Registration and Authentication | Plan for companies seeking a partnership with a distributor. Benefits include: preferential rates, advanced reports, and priority support. |
+    <table align="center">
+    <thead>
+        <tr>
+        <th style="text-align:center;">Topic</th>
+        <th style="text-align:center;">Definition</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+        <td style="text-align:center;">Registration and Authentication</td>
+        <td style="text-align:justify;">
+            Plan for companies seeking a partnership with a distributor. Benefits include: preferential rates, advanced reports, and priority support.
+        </td>
+        </tr>
+    </tbody>
+    </table>
 
-- **Other Pages and Functions**
+- **Other Pages and Functions:**
 
-  | **Topic** | **Definition** |
-  | :---: | ----- |
-  | User Profile | The homepage can display an overview of the service and highlight key features. |
-  | Settings | The page where users can log into their session. If they don't have an account, there's a section to register for free. |
-  | About Us | The page provides a space for users to share their questions, technical assistance, or complaints. |
-  | Navigation Bar | A clear and consistent navigation bar at the top of each page facilitates navigation between main sections. |
-  | Responsive Design | The application must be easy to use on both desktop and mobile devices, adapting the user interface to screen size. |
+    <table align="center">
+    <thead>
+        <tr>
+        <th style="text-align:center;">Topic</th>
+        <th style="text-align:center;">Definition</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+        <td style="text-align:center;">User Profile</td>
+        <td style="text-align:justify;">
+            The homepage can display an overview of the service and highlight key features.
+        </td>
+        </tr>
+        <tr>
+        <td style="text-align:center;">Settings</td>
+        <td style="text-align:justify;">
+            The page where users can log into their session. If they don't have an account, there's a section to register for free.
+        </td>
+        </tr>
+        <tr>
+        <td style="text-align:center;">About Us</td>
+        <td style="text-align:justify;">
+            The page provides a space for users to share their questions, technical assistance, or complaints.
+        </td>
+        </tr>
+        <tr>
+        <td style="text-align:center;">Navigation Bar</td>
+        <td style="text-align:justify;">
+            A clear and consistent navigation bar at the top of each page facilitates navigation between main sections.
+        </td>
+        </tr>
+        <tr>
+        <td style="text-align:center;">Responsive Design</td>
+        <td style="text-align:justify;">
+            The application must be easy to use on both desktop and mobile devices, adapting the user interface to screen size.
+        </td>
+        </tr>
+    </tbody>
+    </table>
 
 ### **4.2.2. Labeling Systems**
 
@@ -1228,11 +1320,34 @@ The *Product Backlog* is the prioritized list of features, improvements, and tec
   For labeling systems, we have chosen to organize content through headers that group sections users can access. This way, users know where to click to access the corresponding sections.
 </p>
 
-| **Topic** | **Definition** |
-| :---: | ----- |
-| Home page | Main section users will reach when entering the web application link. |
-| Subscription | In this section, users can view available plans and rates. |
-| Technical support | This section provides users with all channels through which they can contact us. |
+<table align="center">
+  <thead>
+    <tr>
+      <th style="text-align:center;">Topic</th>
+      <th style="text-align:center;">Definition</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align:center;">Home page</td>
+      <td style="text-align:justify;">
+        Main section users will reach when entering the web application link.
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:center;">Subscription</td>
+      <td style="text-align:justify;">
+        In this section, users can view available plans and rates.
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:center;">Technical support</td>
+      <td style="text-align:justify;">
+        This section provides users with all channels through which they can contact us.
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 ### **4.2.3. SEO Tags and Meta Tags**
 
@@ -1372,105 +1487,111 @@ The *Product Backlog* is the prioritized list of features, improvements, and tec
 - **Wireframe 1: Landing page overview**
 
   <p align="center">
-    <img src="../src/images/chapter4/landing-page-ui/wireframes/wireframe-1.png" width="60%">
+    <img src="../src/images/chapter4/landing-page-ui/wireframes/overview.png" width="60%">
   </p>
 
-- **Wireframe 2: Header and main menu**
+- **Wireframe 2: What we offer to clients**
 
   <p align="center">
-    <img src="../src/images/chapter4/landing-page-ui/wireframes/wireframe-2.png" width="60%">
+    <img src="../src/images/chapter4/landing-page-ui/wireframes/about-us.png" width="60%">
   </p>
 
 - **Wireframe 3: Benefits and features section**
 
   <p align="center">
-    <img src="../src/images/chapter4/landing-page-ui/wireframes/wireframe-3.png" width="60%">
+    <img src="../src/images/chapter4/landing-page-ui/wireframes/benefits.png" width="60%">
   </p>
 
-- **Wireframe 4: Services details**
+- **Wireframe 4: Testimonials from our audience**
 
   <p align="center">
-    <img src="../src/images/chapter4/landing-page-ui/wireframes/wireframe-4.png" width="60%">
+    <img src="../src/images/chapter4/landing-page-ui/wireframes/testimonies.png" width="60%">
   </p>
 
-- **Wireframe 5: Registration and subscription process**
+- **Wireframe 5: Frequently asked questions about the company**
 
   <p align="center">
-    <img src="../src/images/chapter4/landing-page-ui/wireframes/wireframe-5.png" width="60%">
+    <img src="../src/images/chapter4/landing-page-ui/wireframes/faq.png" width="60%">
   </p>
 
-- **Wireframe 6: Testimonials and success stories**
+- **Wireframe 6: There is a guide on how to use the web application**
 
   <p align="center">
-    <img src="../src/images/chapter4/landing-page-ui/wireframes/wireframe-6.png" width="60%">
+    <img src="../src/images/chapter4/landing-page-ui/wireframes/tutorial.png" width="60%">
   </p>
 
-- **Wireframe 7: FAQ and support**
+- **Wireframe 7: Support**
 
   <p align="center">
-    <img src="../src/images/chapter4/landing-page-ui/wireframes/wireframe-7.png" width="60%">
+    <img src="../src/images/chapter4/landing-page-ui/wireframes/contact-us.png" width="60%">
   </p>
 
-- **Wireframe 8: Footer and contact links**
+- **Wireframe 8: Download our product**
 
   <p align="center">
-    <img src="../src/images/chapter4/landing-page-ui/wireframes/wireframe-8.png" width="60%">
+    <img src="../src/images/chapter4/landing-page-ui/wireframes/donwloading-zone.png" width="60%">
+  </p>
+
+- **Mockup 9: Footer with contact links**
+
+  <p align="center">
+    <img src="../src/images/chapter4/landing-page-ui/wireframes/footer.png" width="60%">
   </p>
 
 ### **4.3.2. Landing Page Mock-up**
 
-- **Mockup 1: Landing page main view**
+- **Wireframe 1: Landing page overview**
 
   <p align="center">
-    <img src="../src/images/chapter4/landing-page-ui/mockups/mockup-1.png" width="60%">
+    <img src="../src/images/chapter4/landing-page-ui/mockups/overview.png" width="60%">
   </p>
 
-- **Mockup 2: Header with navigation menu**
-  
+- **Wireframe 2: What we offer to clients**
+
   <p align="center">
-    <img src="../src/images/chapter4/landing-page-ui/mockups/mockup-2.png" width="60%">
+    <img src="../src/images/chapter4/landing-page-ui/mockups/about-us.png" width="60%">
   </p>
 
-- **Mockup 3: Benefits and value proposition section**
-  
+- **Wireframe 3: Benefits and features section**
+
   <p align="center">
-    <img src="../src/images/chapter4/landing-page-ui/mockups/mockup-3.png" width="60%">
+    <img src="../src/images/chapter4/landing-page-ui/mockups/benefits.png" width="60%">
   </p>
 
-- **Mockup 4: Services and features details**
-  
+- **Wireframe 4: Testimonials from our audience**
+
   <p align="center">
-    <img src="../src/images/chapter4/landing-page-ui/mockups/mockup-4.png" width="60%">
+    <img src="../src/images/chapter4/landing-page-ui/mockups/testimonies.png" width="60%">
   </p>
 
-- **Mockup 5: Registration and subscription process**
-  
+- **Wireframe 5: Frequently asked questions about the company**
+
   <p align="center">
-    <img src="../src/images/chapter4/landing-page-ui/mockups/mockup-5.png" width="60%">
+    <img src="../src/images/chapter4/landing-page-ui/mockups/faq.png" width="60%">
   </p>
 
-- **Mockup 6: Testimonials and success stories**
+- **Wireframe 6: There is a guide on how to use the web application**
 
   <p align="center">
-    <img src="../src/images/chapter4/landing-page-ui/mockups/mockup-6.png" width="60%">
+    <img src="../src/images/chapter4/landing-page-ui/mockups/tutorial.png" width="60%">
   </p>
 
-- **Mockup 7: FAQ and support**
+- **Wireframe 7: Support**
 
   <p align="center">
-    <img src="../src/images/chapter4/landing-page-ui/mockups/mockup-7.png" width="60%">
+    <img src="../src/images/chapter4/landing-page-ui/mockups/contact-us.png" width="60%">
   </p>
 
-- **Mockup 8: Footer with contact links**
+- **Wireframe 8: Download our product**
 
   <p align="center">
-    <img src="../src/images/chapter4/landing-page-ui/mockups/mockup-8.png" width="60%">
+    <img src="../src/images/chapter4/landing-page-ui/mockups/donwloading-zone.png" width="60%">
   </p>
 
-- **Mockup 9: Responsive view on mobile devices**
+- **Mockup 9: Footer with contact links**
 
   <p align="center">
-    <img src="../src/images/chapter4/landing-page-ui/mockups/mockup-9.png" width="60%">
+    <img src="../src/images/chapter4/landing-page-ui/mockups/footer.png" width="60%">
   </p>
 
 ## **4.4. Web Applications UX/UI Design**
@@ -1552,7 +1673,6 @@ The *Product Backlog* is the prioritized list of features, improvements, and tec
   <p align="center">
     <img src="../src/images/chapter4/web-applications-ui/wireframes/s2,3-create-order.png" width="60%">
   </p>
-
 
   <p align="center">
     <img src="../src/images/chapter4/web-applications-ui/wireframes/s2,3-tracking.png" width="60%">
@@ -1746,182 +1866,285 @@ The *Product Backlog* is the prioritized list of features, improvements, and tec
     <img src="../src/images/chapter4/web-applications-ui/userflow-diagrams/userflow-diagram.png" width="60%">
   </p>
 
-## 4.5. Web Applications Prototyping
+## **4.5. Web Applications Prototyping**
 
   > [Prototyping - GlassGo](https://www.figma.com/design/nV0UrH5YsFXu9run93EmRm/GlassGo?node-id=0-1&t=2SDCRONXUcQzrQsj-1)
 
-## 4.6. Domain-Driven Software Architecture
+## **4.6. Domain-Driven Software Architecture**
 
-Domain-Driven Design (DDD) focuses on modeling the system based on key business processes: secure transport of liquor in glass containers, shipment traceability, and transport condition monitoring. This approach allows each part of the software to faithfully reflect business logic, facilitating scalability and maintenance of GlassGo, RPG startup's main product.
+  <p style="text-align: justify;">
+    Domain-Driven Design (DDD) focuses on modeling the system based on key business processes: secure transport of liquor in glass containers, shipment traceability, and transport condition monitoring. This approach allows each part of the software to faithfully reflect business logic, facilitating scalability and maintenance of GlassGo, RPG startup's main product.
+  </p>
 
-### 4.6.1. Design-Level EventStorming
-* global vision
+### **4.6.1. Design-Level EventStorming**
+- **Global vision:**
 
-  ![event_storming_global](../src/images/chapter4/information-architecture/GlassGo%20-%20EventStorming%20(1).jpg)
+  <p align="center">
+    <img src="../src/images/chapter4/domain-driven-software-arquitecture/eventstorming/glassgo-eventstorming.png" width="60%">
+  </p>
 
-* Specific Views by Bounded Context:
-  * **Identity Access**
+- **Specific Views by Bounded Context:**
 
-  ![identity_&_access_management](../src/diagrams/eventstorming/design-level/Identity_Access_Management.png)
+  - **Identity Access:**
 
-  * **Profiles Preferences**
+    <p align="center">
+      <img src="../src/images/chapter4/domain-driven-software-arquitecture/eventstorming/identity-access.png" width="60%">
+    </p>
 
-  ![profile_&_preferences](../src/diagrams/eventstorming/design-level/Profile_Preferences.png)
+  - **Profiles Preferences:**
+    
+    <p align="center">
+      <img src="../src/images/chapter4/domain-driven-software-arquitecture/eventstorming/profiles-preferences.png" width="60%">
+    </p>
 
-  * **Payments Subscriptions**
+  - **Payments Subscriptions:**
+    
+    <p align="center">
+      <img src="../src/images/chapter4/domain-driven-software-arquitecture/eventstorming/payments-subscriptions.png" width="60%">
+    </p>
 
-  ![payments_&_subscriptions](../src/diagrams/eventstorming/design-level/Payments_Subscriptions.png)
+  - **Service Planning:**
+    
+    <p align="center">
+      <img src="../src/images/chapter4/domain-driven-software-arquitecture/eventstorming/service-planning.png" width="60%">
+    </p>
 
-  * **Service Planning**
+  - **Service Execution:**
 
-  ![service_planning](../src/diagrams/eventstorming/design-level/Service_Planning.png)
+    <p align="center">
+      <img src="../src/images/chapter4/domain-driven-software-arquitecture/eventstorming/service-monitoring.png" width="60%">
+    </p>
 
-  * **Service Execution**
+  - **Dashboard Analytics:**
+    
+    <p align="center">
+      <img src="../src/images/chapter4/domain-driven-software-arquitecture/eventstorming/dashboard-analytics.png" width="60%">
+    </p>
 
-  ![service_execution_&_monitoring](../src/diagrams/eventstorming/design-level/Service_Execution_Monitoring.png)
+  - **Loyalty Engagement:**
+    
+    <p align="center">
+      <img src="../src/images/chapter4/domain-driven-software-arquitecture/eventstorming/loyalty-engagement.png" width="60%">
+    </p>
 
-  * **Dashboard Analytics**
+  - **System Administration:**
+    
+    <p align="center">
+      <img src="../src/images/chapter4/domain-driven-software-arquitecture/eventstorming/system-administration.png" width="60%">
+    </p>
 
-  ![dashboard_&_analytics](../src/diagrams/eventstorming/design-level/Dashboard_Analytics.png)
+### **4.6.2. Software Architecture Context Diagram**
 
-  * **Loyalty Engagement**
+- **Person:**
 
-  ![loyalty_&_engagement](../src/diagrams/eventstorming/design-level/Loyalty_Engagement.png)
+  - **Carrier:** Drives the truck and uses mobile app to view routes, record trip start/end, and receive impact alerts.
+  - **Distributor:** Supervises shipments from offices. Reviews web dashboard, downloads reports.
+  - **Business Owner:** End customer who wants to know if their order will arrive on time and unbroken.
+  - **RPG Administrator:** Startup staff for internal management, support, and maintenance.
 
-  * **System Administration**
+- **Software System:**
 
-  ![system_administration](../src/diagrams/eventstorming/design-level/System_Administration.png)
-
-### 4.6.2. Software Architecture Context Diagram
-
-* Person:
-  * **Carrier:** Drives the truck and uses mobile app to view routes, record trip start/end, and receive impact alerts.
-  * **Distributor:** Supervises shipments from offices. Reviews web dashboard, downloads reports.
-  * **Business Owner:** End customer who wants to know if their order will arrive on time and unbroken.
-  * **RPG Administrator:** Startup staff for internal management, support, and maintenance.
-* Software System:
-  * **GlassGo:** Central system offering traceability, route optimization, and monitoring.
-  * **Google Maps:** Platform providing a REST API for geo-referential information.
-  * **PayPal:** Payment gateway for membership charges.
-  * **Twilio:** Notification service for sending SMS, emails, or push notifications.
-
-![context-diagram](../src/images/chapter4/domain-driven-software-arquitecture/context-diagram.png)
-
-### 4.6.3. Software Architecture Container Diagrams
-
-* Container:
-  * **Mobile App:** Mobile application
-  * **Landing Page:** Landing page
-  * **Web App:** Web application
-  * **API REST:** REST API for data access and business logic
-  * **DB:** Relational database
-
-![container-diagram](../src/images/chapter4/domain-driven-software-arquitecture/container-diagram.png)
+  - **GlassGo:** Central system offering traceability, route optimization, and monitoring.
+  - **Google Maps:** Platform providing a REST API for geo-referential information.
+  - **PayPal:** Payment gateway for membership charges.
+  - **Twilio:** Notification service for sending SMS, emails, or push notifications.
 
 
-### 4.6.4. Software Architecture Components Diagrams
+<p align="center">
+  <img src="../src/images/chapter4/domain-driven-software-arquitecture/contex-diagram/context-diagram.png" width="60%">
+</p>
 
-* **Web Application Component Diagram:**
-  ![component-diagram1](../src/images/chapter4/domain-driven-software-arquitecture/component-diagram1.png)
+### **4.6.3. Software Architecture Container Diagram**
 
-* **Web Application Component Diagram:**
-  ![component-diagram2](../src/images/chapter4/domain-driven-software-arquitecture/component-diagram2.png)
+- **Container:**
 
-* **Profile Preferences Component Diagram:**
-  ![component-diagram3](../src/images/chapter4/domain-driven-software-arquitecture/component-diagram3.png)
+  - **Mobile App:** Mobile application
+  - **Landing Page:** Landing page
+  - **Web App:** Web application
+  - **API REST:** REST API for data access and business logic
+  - **DB:** Relational database
 
-* **Payments Subscriptions Component Diagram:**
-  ![component-diagram4](../src/images/chapter4/domain-driven-software-arquitecture/component-diagram4.png)
+<p align="center">
+  <img src="../src/images/chapter4/domain-driven-software-arquitecture/container-diagram/container-diagram.png" width="60%">
+</p>
 
-* **Service Planning Component Diagram:**
-  ![component-diagram5](../src/images/chapter4/domain-driven-software-arquitecture/component-diagram5.png)
+### **4.6.4. Software Architecture Components Diagrams**
 
-* **Service Execution Component Diagram:**
-  ![component-diagram6](../src/images/chapter4/domain-driven-software-arquitecture/component-diagram6.png)
-
-* **Dashboard Analytics Component Diagram:**
-  ![component-diagram7](../src/images/chapter4/domain-driven-software-arquitecture/component-diagram7.png)
-
-* **Loyalty Engagement Component Diagram:**
-  ![component-diagram8](../src/images/chapter4/domain-driven-software-arquitecture/component-diagram8.png)
-
-* **System Administration Component Diagram:**
-  ![component-diagram9](../src/images/chapter4/domain-driven-software-arquitecture/component-diagram9.png)
-
-## 4.7. Software Object-Oriented Design
-
-Object-Oriented Design focuses on the logical structure of the GlassGo domain, using UML class diagrams to define entities, services, and their relationships. Each diagram represents how classes interact within a bounded context, encapsulating attributes and methods coherent with their responsibilities.
-
-### 4.7.1. Class Diagrams
-
-**Specific Views by Bounded Context**
-
-  * **Identity Access Class Diagram:**
-    ![class-diagram1](../src/images/chapter4/software-object-oriented-design/class-diagram1.png)
+- **Web Application Component Diagram:**
   
-  * **Profile Preferences Class Diagram:**
-    ![class-diagram2](../src/images/chapter4/software-object-oriented-design/class-diagram2.png)
+  <p align="center">
+    <img src="../src/images/chapter4/domain-driven-software-arquitecture/components-diagrams/web-application.png" width="60%">
+  </p>
+
+- **Identity Access:**
+
+  <p align="center">
+    <img src="../src/images/chapter4/domain-driven-software-arquitecture/components-diagrams/identity-access.png" width="60%">
+  </p>
+
+- **Profiles Preferences Component Diagram:**
+
+  <p align="center">
+    <img src="../src/images/chapter4/domain-driven-software-arquitecture/components-diagrams/profiles-preferences.png" width="60%">
+  </p>
+
+- **Payments Subscriptions Component Diagram:**
+
+  <p align="center">
+    <img src="../src/images/chapter4/domain-driven-software-arquitecture/components-diagrams/payments-subscriptions.png" width="60%">
+  </p>
+
+- **Service Planning Component Diagram:**
+
+  <p align="center">
+    <img src="../src/images/chapter4/domain-driven-software-arquitecture/components-diagrams/service-planning.png" width="60%">
+  </p>
+
+- **Service Execution Component Diagram:**
+
+  <p align="center">
+    <img src="../src/images/chapter4/domain-driven-software-arquitecture/components-diagrams/service-monitoring.png" width="60%">
+  </p>
+
+- **Dashboard Analytics Component Diagram:**
+
+  <p align="center">
+    <img src="../src/images/chapter4/domain-driven-software-arquitecture/components-diagrams/dashboard-analytics.png" width="60%">
+  </p>
+
+- **Loyalty Engagement Component Diagram:**
+
+  <p align="center">
+    <img src="../src/images/chapter4/domain-driven-software-arquitecture/components-diagrams/loyalty-engagement.png" width="60%">
+  </p>
+
+- **System Administration Component Diagram:**
+
+  <p align="center">
+    <img src="../src/images/chapter4/domain-driven-software-arquitecture/components-diagrams/system-administration.png" width="60%">
+  </p>
+
+## **4.7. Software Object-Oriented Design**
+
+  <p style="text-align: justify;">
+    Object-Oriented Design focuses on the logical structure of the GlassGo domain, using UML class diagrams to define entities, services, and their relationships. Each diagram represents how classes interact within a bounded context, encapsulating attributes and methods coherent with their responsibilities.
+  </p>
+
+### **4.7.1. Class Diagrams**
+
+- **Specific Views by Bounded Context:**
+
+  - **Identity Access Class Diagram:**
+
+    <p align="center">
+      <img src="../src/images/chapter4/software-object-oriented-design/class-diagrams/identity-access.png" width="60%">
+    </p>
   
-  * **Payment Subscription Class Diagram:**
-    ![class-diagram3](../src/images/chapter4/software-object-oriented-design/class-diagram3.png)
+  - **Profiles Preferences Class Diagram:**
 
-  * **Service Planning Class Diagram:**
-    ![class-diagram4](../src/images/chapter4/software-object-oriented-design/class-diagram4.png)
+    <p align="center">
+      <img src="../src/images/chapter4/software-object-oriented-design/class-diagrams/profiles-preferences.png" width="60%">
+    </p>
   
-  * **Service Execution Monitoring Class Diagram:**
-    ![class-diagram5](../src/images/chapter4/software-object-oriented-design/class-diagram5.png)
+  - **Payment Subscription Class Diagram:**
 
-  * **Dashboard Analytics Class Diagram:**
-    ![class-diagram6](../src/images/chapter4/software-object-oriented-design/class-diagram6.png)
+    <p align="center">
+      <img src="../src/images/chapter4/software-object-oriented-design/class-diagrams/payments-subscriptions.png" width="60%">
+    </p>
 
-  * **Loyalty Engagement Class Diagram:**
-    ![class-diagram7](../src/images/chapter4/software-object-oriented-design/class-diagram7.png)
-
-  * **System Administration Class Diagram:**
-    ![class-diagram8](../src/images/chapter4/software-object-oriented-design/class-diagram8.png)
-
-## 4.8. Database Design
-
-The database design defines the relational structure used by the GlassGo system to ensure data persistence and integrity across all bounded contexts.
-
-### 4.8.1. Database Diagrams
-
-* **Global View:**
-  ![global-view](../src/images/chapter4/database-design/global-view.png)
-
-* **Every Bounded Context's view:**
-
-  * **Identity Access Database Diagram:**
-
-    ![database-diagram1](../src/images/chapter4/database-design/database-diagram1.png)
+  - **Service Planning Class Diagram:**
   
-  * **Profile Preferences Database Diagram:**
-
-    ![database-diagram2](../src/images/chapter4/database-design/database-diagram2.png)
-
-  * **Payment Subscriptions Database Diagram:**
-
-    ![database-diagram3](../src/images/chapter4/database-design/database-diagram3.png)
+    <p align="center">
+      <img src="../src/images/chapter4/software-object-oriented-design/class-diagrams/service-planning.png" width="60%">
+    </p>
   
-  * **Service Planning Database Diagram:**
+  - **Service Execution Monitoring Class Diagram:**
 
-    ![database-diagram4](../src/images/chapter4/database-design/database-diagram4.png)
+    <p align="center">
+      <img src="../src/images/chapter4/software-object-oriented-design/class-diagrams/service-monitoring.png" width="60%">
+    </p>
 
-  * **Service Execution Monitoring Database Diagram:**
+  - **Dashboard Analytics Class Diagram:**
 
-    ![database-diagram5](../src/images/chapter4/database-design/database-diagram5.png)
+    <p align="center">
+      <img src="../src/images/chapter4/software-object-oriented-design/class-diagrams/dashboard-analytics.png" width="60%">
+    </p>
 
-  * **Dashboard Analytics Database Diagram:**
+  - **Loyalty Engagement Class Diagram:**
 
-    ![database-diagram6](../src/images/chapter4/database-design/database-diagram7.png)
+    <p align="center">
+      <img src="../src/images/chapter4/software-object-oriented-design/class-diagrams/loyalty-engagement.png" width="60%">
+    </p>
 
-  * **Loyalty Engagement Database Diagram:**
+  - **System Administration Class Diagram:**
 
-    ![database-diagram7](../src/images/chapter4/database-design/database-diagram7.png)
+    <p align="center">
+      <img src="../src/images/chapter4/software-object-oriented-design/class-diagrams/system-administration.png" width="60%">
+    </p>
 
-  * **System Administration Database Diagram:**
+## **4.8. Database Design**
 
-    ![database-diagram8](../src/images/chapter4/database-design/database-diagram8.png)
+  <p style="text-align: justify;">
+    The database design defines the relational structure used by the GlassGo system to ensure data persistence and integrity across all bounded contexts.
+  </p>
+
+### **4.8.1. Database Diagrams**
+
+- **Global View:**
+
+  <p align="center">
+    <img src="../src/images/chapter4/database-design/database-diagrams/glassgo-database.png" width="60%">
+  </p>
+
+- **Every Bounded Context's view:**
+
+  - **Identity Access Database Diagram:**
+
+    <p align="center">
+      <img src="../src/images/chapter4/database-design/database-diagrams/identity-access.png" width="60%">
+    </p>
+  
+  - **Profiles Preferences Database Diagram:**
+  
+    <p align="center">
+      <img src="../src/images/chapter4/database-design/database-diagrams/profiles-preferences.png" width="60%">
+    </p>
+
+  - **Payment Subscriptions Database Diagram:**
+  
+    <p align="center">
+      <img src="../src/images/chapter4/database-design/database-diagrams/payments-subscriptions.png" width="60%">
+    </p>
+  
+  - **Service Planning Database Diagram:**
+  
+    <p align="center">
+      <img src="../src/images/chapter4/database-design/database-diagrams/service-planning.png" width="60%">
+    </p>
+
+  - **Service Execution Monitoring Database Diagram:**
+  
+    <p align="center">
+      <img src="../src/images/chapter4/database-design/database-diagrams/service-monitoring.png" width="60%">
+    </p>
+
+  - **Dashboard Analytics Database Diagram:**
+  
+    <p align="center">
+      <img src="../src/images/chapter4/database-design/database-diagrams/dashboard-analytics.png" width="60%">
+    </p>
+
+  - **Loyalty Engagement Database Diagram:**
+  
+    <p align="center">
+      <img src="../src/images/chapter4/database-design/database-diagrams/loyalty-engagement.png" width="60%">
+    </p>
+
+  - **System Administration Database Diagram:**
+  
+    <p align="center">
+      <img src="../src/images/chapter4/database-design/database-diagrams/system-administration.png" width="60%">
+    </p>
 
 # 5. Chapter V: Product Implementation, Validation & Deployment
 
