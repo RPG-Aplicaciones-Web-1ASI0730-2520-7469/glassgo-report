@@ -12,3 +12,13 @@ Thumbs.db
 
 # Build outputs
 *.pdf
+
+# IDE / Editor
+.idea/
+.vscode/
+*.suo
+*.ntvs_analysis.dat
+*.njsproj
+*.sln
+*.sw?
+*.iml
