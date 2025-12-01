@@ -1,3 +1,5 @@
+<div style="page-break-after: always;"></div>
+
 # **Bibliography**
 
 ## Libros y Publicaciones Académicas de UX Design

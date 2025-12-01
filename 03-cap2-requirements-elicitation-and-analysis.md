@@ -1,3 +1,5 @@
+<div style="page-break-after: always;"></div>
+
 # **Chapter II: Requiremnts Elicitation & Analysis**
 ## **2.1. Competitors**
 
