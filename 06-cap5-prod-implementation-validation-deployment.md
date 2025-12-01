@@ -211,9 +211,9 @@ Cross-review of progress, detailed commit logging, and documentation of changes 
 
 ![TCIDS](src/assets/chapter5/sprints/sprint1/team-collaboration-insights-during-sprint.png)
 
-5.2.2 Sprint 2
+### 5.2.2 Sprint 2
 
-5.2.2.1. Sprint Planning 2
+#### 5.2.2.1. Sprint Planning 2
 
 | Sprint \# | Sprint 2 |
 | ----- | ----- |
@@ -230,7 +230,7 @@ Cross-review of progress, detailed commit logging, and documentation of changes 
 | Sprint 2 Velocity | 30 |
 | Sum of Story Points | 28 |
 
-5.2.2.2 Aspect Leaders and Collaborators
+#### 5.2.2.2 Aspect Leaders and Collaborators
 
 Aspect Leaders and Collaborators
 
@@ -247,7 +247,7 @@ Con el fin de mantener una coordinación efectiva y una comunicación fluida ent
 | Vivar Cesar David Ignacio | DarkBeider20 | C | C | C | C | L | C | C |
 | Guillen Giraldo Mike Dylan | FulLHous | C | C | C | L | C | C | C |
 
-5.2.2.3 Sprint Backlog 2
+#### 5.2.2.3 Sprint Backlog 2
 
 El objetivo principal de este Sprint es desarrollar la interfaz frontend de los dashboards para administradores de restaurantes y proveedores, enfocándose en una estructura clara, navegación eficiente y visualización adecuada de datos críticos.
 
@@ -255,7 +255,7 @@ El objetivo principal de este Sprint es desarrollar la interfaz frontend de los 
 
 Trello: [https://trello.com/invite/b/68ffe2b4ec71fc75648c1f28/ATTIdf711a197aade6d0da1e65a2032e1c37292FD061/sprint-backlog-2](https://trello.com/invite/b/68ffe2b4ec71fc75648c1f28/ATTIdf711a197aade6d0da1e65a2032e1c37292FD061/sprint-backlog-2)
 
-5.2.2.4 Development Evidence for Sprint Review
+#### 5.2.2.4 Development Evidence for Sprint Review
 
 En esta sección se presentan los avances realizados durante el Sprint 2, centrado en el desarrollo de los módulos principales de la aplicación web interna de GlassGo.
 
@@ -265,23 +265,11 @@ Durante este sprint se avanzó en la autenticación de usuarios, el diseño del 
 
 1\. Web Application (Frontend): La siguiente tabla resume los commits realizados en el repositorio UI-Topic-Frontend, que incluyen la implementación de la gestión de productos, inventario y resumen, con el fin de mejorar la eficiencia operativa y la trazabilidad de los recursos dentro de los administradores de restaurantes y proveedores.
 
-|  |  |  |  |  |  |
-| :---- | :---- | :---- | :---- | :---- | :---- |
-|  |  |  |  |  |  |
-|  |  |  |  |  |  |
-|  |  |  |  |  |  |
-|  |  |  |  |  |  |
-|  |  |  |  |  |  |
-|  |  |  |  |  |  |
-|  |  |  |  |  |  |
-|  |  |  |  |  |  |
-|  |  |  |  |  |  |
-
-5.2.2.5 Execution Evidence for Sprint Review
+#### 5.2.2.5 Execution Evidence for Sprint Review
 
 A continuación, se presenta el video del frontend de la aplicación web interna. Este demuestra la interacción de los usuarios autenticados con los módulos principales del sistema, incluyendo la navegación por el sidebar, la gestión de productos, el seguimiento de alertas y el control de inventario.
 
-5.2.2.6 Services Documentation Evidence for Sprint Review
+#### 5.2.2.6 Services Documentation Evidence for Sprint Review
 
 Durante este Sprint se avanzó en el desarrollo del frontend interno de GlassGo, habilitando múltiples rutas navegables para los usuarios autenticados (administradores de restaurante y proveedores), en una estructura basada en Vue Router, Domain-Driven Design y componentes cargados dinámicamente. Aunque aún no se han documentado endpoints REST con OpenAPI, se despliegan a continuación los recursos navegables disponibles, que forman parte del ecosistema de consumo de servicios web del sistema.
 
@@ -293,19 +281,9 @@ Estructura basada en Vue Router, DDD y carga lazy de componentes.
 Integración visual con PrimeVue y buenas prácticas de separación por contextos.  
 Rutas accesibles del sistema (Frontend)
 
-|  |  |  |  |  |
-| :---- | :---- | :---- | :---- | :---- |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
+#### 5.2.2.7 Software Deployment Evidence for Sprint Review
 
-5.2.2.7 Software Deployment Evidence for Sprint Review
-
-5.2.2.8 Team Collaboration Insights during Sprint.
+#### 5.2.2.8 Team Collaboration Insights during Sprint.
 
 Durante el sprint, se adoptaron estrategias de colaboración efectivas que permitieron un desarrollo fluido y bien organizado del proyecto. A continuación se detallan las prácticas aplicadas:
 
@@ -317,7 +295,7 @@ La comunicación entre los miembros del equipo fue constante, utilizando la plat
 Se aplicaron buenas prácticas de control de versiones con Git, como descripciones claras en los commits, ramas temáticas, y revisión colaborativa mediante PRs.  
 El equipo también se enfocó en la calidad del código, utilizando estructuras consistentes, siguiendo estándares de codificación, y asegurando coherencia en estilos y convenciones.
 
-5.2.3.1. Sprint Planning 3
+#### 5.2.3.1. Sprint Planning 3
 
 | Sprint \# | Sprint 3 |
 | ----- | ----- |
@@ -334,7 +312,7 @@ El equipo también se enfocó en la calidad del código, utilizando estructuras 
 | Sprint 3 Velocity | 38 |
 | Sum of Story Points | 35 |
 
-5.2.3.2. Aspect Leaders and Collaborators.
+##### 5.2.3.2. Aspect Leaders and Collaborators.
 
 Durante el Sprint 3, se ha definido el desarrollo e integración de los módulos principales del frontend de la aplicación web interna GlassGo y del backend, abarcando funcionalidades clave como la gestión de productos, pedidos, inventario y compras. Estas implementaciones buscan optimizar los procesos internos y mejorar la trazabilidad del inventario, brindando mayor eficiencia a los administradores de restaurantes y su personal.
 
@@ -349,7 +327,7 @@ Con el fin de mantener una coordinación efectiva y una comunicación fluida ent
 | Vivar Cesar David Ignacio | DarkBeider20 | C | C | C | C | L |
 | Guillen Giraldo Mike Dylan | FulLHous | C | C | C | L | C |
 
-5.2.3.3 Sprint Backlog 3  
+##### 5.2.3.3 Sprint Backlog 3  
 El objetivo principal de este Sprint es consolidar una experiencia funcional completa para los distintos perfiles de usuario dentro de la plataforma GlassGo. Se prioriza la mejora de la landing page para comunicar eficazmente la propuesta de valor a nuevos visitantes, así como la habilitación de módulos clave como la gestión de ventas, recetas y pedidos para los administradores de restaurantes, y la gestión de órdenes para los proveedores.
 
 Asimismo, se trabajará en la integración del flujo de pagos por suscripción y en la provisión de APIs REST documentadas, permitiendo al equipo frontend consumir endpoints de forma eficiente para construir las vistas requeridas. Este enfoque integral busca mejorar la usabilidad, operatividad y cohesión entre el frontend y backend, facilitando la validación funcional de la plataforma y avanzando hacia su adopción por parte de los usuarios finales.
@@ -358,16 +336,16 @@ Asimismo, se trabajará en la integración del flujo de pagos por suscripción y
 
 Trello: [https://trello.com/invite/b/68ffe30942dcb480aedf84d2/ATTI14ff021bc259e9ac94812c42ae4680e22318D9BD/sprint-backlog-3](https://trello.com/invite/b/68ffe30942dcb480aedf84d2/ATTI14ff021bc259e9ac94812c42ae4680e22318D9BD/sprint-backlog-3)
 
-5.2.3.4 Development Evidence for Sprint Review
+#### 5.2.3.4 Development Evidence for Sprint Review
 
 Web Services (Backend):
 
 En el backend de la plataforma se realizaron importantes avances enfocados en la gestión de recetas, suministros y lotes. Se implementaron las operaciones CRUD para recetas y el manejo detallado de sus insumos, además de validar y reforzar la integridad de datos mediante objetos de valor específicos. También se añadieron configuraciones para ambientes de desarrollo y producción, y se mejoraron las definiciones de columnas en la base de datos para optimizar el manejo de fechas, precios y cantidades. Se desarrollaron servicios y controladores que facilitan la interacción con los recursos, permitiendo una gestión eficiente y segura de los datos relacionados con el inventario y las operaciones del sistema.
 
-5.2.3.5. Execution Evidence for Sprint Review  
+#### 5.2.3.5. Execution Evidence for Sprint Review  
 A continuación, se muestra un video con los avances realizados durante el Sprint 3, en el cual se trabajó en la landing page, así como en el desarrollo del frontend y backend.
 
-5.2.3.6. Services Documentation Evidence for Sprint Review.
+#### 5.2.3.6. Services Documentation Evidence for Sprint Review.
 
 Durante este sprint se completó al 100% el desarrollo del Landing Page del sistema, consolidando su estructura visual, diseño responsivo, traducción multilenguaje y funcionalidades de navegación. Asimismo, se avanzó de forma significativa en la construcción del frontend del sistema, incluyendo componentes claves como el menú lateral, el dashboard inicial, el módulo de gestión de insumos y la arquitectura modular en Angular bajo DDD (Domain-Driven Design).
 
@@ -381,12 +359,240 @@ Estructura de frontend modular iniciada (menu sidebar, dashboard y componentes b
 Aplicación de buenas prácticas de organización por bounded contexts en Angular.  
 Integración visual basada en Vue con VuePrime y Primeflex.
 
-5.2.3.7. Software Deployment Evidence for Sprint Review
+#### 5.2.3.7. Software Deployment Evidence for Sprint Review
 
 Durante este sprint, se realizaron actividades de despliegue y pruebas de los servicios desarrollados, asegurando que las funcionalidades del sistema estén operativas y accesibles para los usuarios finales. A continuación, se detallan los pasos realizados:
 
-5.2.3.8. Team Collaboration Insights during Sprint
+#### 5.2.3.8. Team Collaboration Insights during Sprint
 
 Seguimos usando ramas específicas para cada sección o funcionalidad (feature/\[nombre-de-seccion\]), permitiendo un trabajo paralelo organizado.
 
 Cada miembro del equipo asumió la responsabilidad de desarrollar una o más boundeds del Backend. Se realizaron commits frecuentes, registrando avances de manera continua y detallada. Las funcionalidades desarrolladas se integraron mediante Pull Requests hacia la rama develop. Se mantuvo una comunicación constante mediante la plataforma Discord para coordinar avances y resolver dudas en tiempo real. Se aplicaron buenas prácticas de programación, control de versiones y colaboración en equipo.
+
+### 5.2.4. Sprint 4
+
+#### 5.2.4.1. Sprint Planning 4\.
+
+| Sprint \#                       | Sprint 3                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
+|---------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Sprint Planning Background      |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
+| Date                            | 2025-11-29                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
+| Time                            | 06:00 pm (GMT-5)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
+| Location                        | Modalidad remota mediante la plataforma Discord                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
+| Prepared By                     | Howard Robles, Guillermo Arturo                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
+| Attendees (to planning meeting) |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
+| Sprint 3 Review Summary         |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
+| Sprint 3 Retrospective Summary  | Durante el Sprint 2, el equipo logró avanzar de forma coordinada y efectiva en el desarrollo de la landing page, sin enfrentar mayores dificultades. Cada integrante cumplió puntualmente con las secciones asignadas, lo que permitió avanzar según lo planificado. La adopción de convenciones comunes en el código y el diseño contribuyó a mantener la coherencia del producto y facilitó la integración entre partes. Como mejora para el siguiente sprint, se acordó implementar revisiones diarias (daily reviews) que permitan alinear mejor los avances, detectar bloqueos tempranos y mejorar la comunicación continua entre miembros. |
+| Sprint Goal & User Stories      |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
+| Sprint 4 Goal                   | Nuestro enfoque está en entregar la primera versión funcional del backend de GlassGo, permitiendo gestionar usuarios, pedidos, rutas y notificaciones, así como exponer APIs seguras para el consumo del frontend. Creemos que esto habilita la operación centralizada y confiable de la plataforma, facilitando la integración y el flujo de información entre todos los actores de la cadena logística. Esto se confirmará cuando el frontend pueda consumir los servicios principales, los datos se almacenen y consulten correctamente, y los usuarios reporten que las funcionalidades clave están disponibles y operativas.                |
+| Sprint 4 Velocity               | 50                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
+| Sum of Story Points             | 47                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
+
+#### 5.2.4.2. Aspect Leaders and Collaborators.
+
+xxx
+
+#### 5.2.4.3. Sprint Backlog 4\.
+
+xxx
+
+#### 5.2.4.4. Development Evidence for Sprint Review.
+
+xxxx
+
+#### 5.2.4.5. Execution Evidence for Sprint Review.
+
+xxx
+
+#### 5.2.4.6. Services Documentation Evidence for Sprint Review.
+
+xxx
+
+#### 5.2.4.7. Software Deployment Evidence for Sprint Review.
+
+xxx
+
+#### 5.2.4.8. Team Collaboration Insights during Sprint.
+
+xxx
+
+## 5.3. Validation Interviews.
+
+### 5.3.1. Diseño de Entrevistas.
+
+To ensure that the application meets the real needs of end users, a validation interview process was designed focused on two key target segments: **business owners** and **liquor suppliers**. Each validation session will include interaction with the **Landing Page** and the **web application** (desktop and mobile), following specific user flows that cover critical system functionalities.
+
+**General Objective**
+
+To validate the usability, comprehension, and usefulness of the system's functionalities through controlled interaction sessions, applying heuristic evaluation principles and collecting qualitative observations.
+
+**Segment 1: Liquor Suppliers**
+
+Elements to validate:
+
+- Purchase order creation.
+- Order tracking.
+- Supplies inventory management.
+- Product table creation.
+- History recording.
+
+User Flows to evaluate:
+
+- **Desktop & Mobile User Flow 1:** Registration and supplies management.
+- **Desktop & Mobile User Flow 4:** Product Overview.
+- **Desktop & Mobile User Flow 5:** Order Viewing.
+- **Desktop & Mobile User Flow 6:** Order Tracking.
+- **Desktop & Mobile User Flow 7:** Supplier Claims.
+
+Activities during the session:
+
+1. Explore the Landing Page and describe their understanding of the product.
+2. Simulate the registration process.
+3. Log into the system and register products in their catalog.
+4. Review received orders.
+5. Comment on the usefulness of the order interface and feedback.
+
+**Validation Tools and Resources**
+
+- **Heuristic Evaluation Format:** Nielsen's 10 heuristic principles will be applied in each session.
+- **Observation instrument:** Checklist + open notes section.
+- **Screen and voice recording:** with prior authorization, for later analysis.
+
+**Segment 3: Business Owners**
+
+Elements to validate:
+
+- Purchase order creation.
+- Order tracking.
+- Supplies inventory management.
+- Product table creation.
+- History recording.
+
+User Flows to evaluate:
+
+- **Desktop & Mobile User Flow 1:** Registration and supplies management.
+- **Desktop & Mobile User Flow 4:** Product Overview.
+- **Desktop & Mobile User Flow 5:** Order Viewing.
+- **Desktop & Mobile User Flow 6:** Order Tracking.
+- **Desktop & Mobile User Flow 7:** Supplier Claims.
+- 
+Activities during the session:
+
+1. Explore the Landing Page and describe their understanding of the product.
+2. Simulate the registration process.
+3. Log into the system and register products in their catalog.
+4. Review received orders.
+5. Comment on the usefulness of the order interface and feedback.
+
+### 5.3.2. Registro de Entrevistas.
+
+Segment 3: Business Owners
+
+**Interview 1:**
+
+* **Name:** Alejandro Rodriguez
+* **Age:** 37 years old
+* **District:** Lima Metropolitana
+* **Timing:** (00:00- 12:39 min)
+
+**![cap5](src/assets/chapter5/Entrevista1.1.png)**
+
+View interview: https://tinyurl.com/3vn4bcyw
+
+**Summary:**
+
+Alejandro Rodríguez, 37 years old, is the owner of a medium-sized bar located in Lima, with several years of operation. His business targets a young and young adult audience. Alejandro projects an organized, analytical personality with an interest in maintaining operational control, although he delegates part of the management to his team. He shows a predisposition to using technology, although he prefers to maintain direct supervision of administrative processes.
+
+### 5.3.3. Evaluación según heurísticas.
+
+**Major:** Software Engineering
+**Course:** Open Source Applications Development
+**Section:** 7327
+**Professor:** Angel Velasquez
+**Auditor:** Guillermo Arturo Howard Robles
+**Client(s):** Alejandro Rodriguez
+
+**Site or App to evaluate:** GlassGo
+
+**Tasks evaluated:**
+
+1. Purchase order creation
+2. Order tracking
+3. Supplies inventory management
+4. Product table creation
+5. History recording
+
+---
+
+**SEVERITY SCALE:**
+
+Errors will be scored taking into account the following severity scale
+
+<table>
+    <tr>
+        <td>Level</td>
+        <td>Description</td>
+    </tr>
+    <tr>
+        <td>1</td>
+        <td>Superficial problem: can be easily overcome by the user or occurs very infrequently. It does not need to be fixed unless time is available.</td>
+    </tr>
+    <tr>
+        <td>2</td>
+        <td>Minor problem: may occur a bit more frequently or is somewhat more difficult for the user to overcome. It should be assigned a low priority to be resolved for the next release.</td>
+    </tr>
+    <tr>
+        <td>3</td>
+        <td>Major problem: occurs frequently or users are unable to resolve it. It is important that they be corrected and should be assigned a high priority.</td>
+    </tr>
+    <tr>
+        <td>4</td>
+        <td>Very serious problem: a high-impact error that prevents the user from continuing to use the tool. It is imperative that it be corrected before launch.</td>
+    </tr>
+</table>
+
+---
+
+**SUMMARY TABLE**
+
+| #  | Problem                                                | Severity Scale | Heuristic / Principle Violated |
+| -- |--------------------------------------------------------|----------------|--------------------------------|
+| 1  | No existen filtros para los productos en el inventario | 3              | Usabilidad: Flexibilidad y eficiencia de uso                  |
+| 2  | Flujo de creacion de reclamos mas concistente          | 3              | Usabilidad: Libertad y control del usuario                  |
+
+---
+
+**PROBLEM DESCRIPTION**
+
+**PROBLEM #1: No existen filtros para los productos en el inventario**
+**Severity:** 3
+**Violated Heuristic:** Usabilidad - Flexibilidad y eficiencia de uso
+**Problem:** Actualmente, el sistema no ofrece opciones de filtrado para los productos en el inventario, lo que dificulta la localización rápida de artículos específicos, especialmente cuando el inventario es extenso.
+**Evidence:** EL usuario indicó: "Para encontrar un producto específico, tengo que desplazarme por toda la lista, lo que consume mucho tiempo y es frustrante."
+**Recommendation:** Implementar funcionalidades de filtrado y búsqueda en la sección de inventario, permitiendo a los usuarios filtrar productos por categorías, nombres, fechas de ingreso, entre otros criterios relevantes. Esto mejorará significativamente la eficiencia en la gestión del inventario.
+
+---
+
+**PROBLEM #2: Flujo de creacion de reclamos mas consistent**
+**Severity:** 3
+**Violated Heuristic:** Usabilidad - Libertad y control del usuario
+**Problem:** El flujo actual para la creación de reclamos no es intuitivo ni consistente, lo que genera confusión entre los usuarios y dificulta la presentación de reclamos de manera efectiva.
+**Evidence:** El usuario indicó: "Para crear un reclamo de un pedido en especifico seria mejor añadir una opcion para que genere el reclamo".
+**Recommendation:** Rediseñar el flujo de creación de reclamos para que sea más intuitivo y consistente. Esto podría incluir la adición de un botón directo en la sección de pedidos para iniciar un reclamo, así como proporcionar instrucciones claras y pasos guiados durante el proceso.
+
+---
+
+## 5.4. Video About-the-Product.
+
+The following video, "About the Product," showcases GlassGo, a technology solution developed to digitize and automate inventory and order management for bars. This video is primarily aimed at visitors to the landing page who want to learn about the business model and key features of the platform, as well as potential users of the applications interested in performing tasks related to the processes supported by the solution.
+
+The video clearly and dynamically communicates the product's purpose, demonstrating how GlassGo helps reduce waste, improve operational efficiency, and strengthen the relationship between business owners and liquor suppliers. It uses a tone consistent with the product's visual and communication style, combining narration, usage demonstrations, and real-world scenarios.
+
+As part of the product validation, a testimonial from a business owner interviewed during the discovery phase is also included.
+
+Below, you will find a screenshot of the video, along with links to the published version on Microsoft Stream and YouTube.
+
+
+https://youtu.be/fgSdkh02vZo
+
+https://tinyurl.com/2nj6czbv
