@@ -132,7 +132,7 @@
 
   <p style="text-align: justify;">
     This problem is persistent and structural. Although technological advances have improved efficiency in other sectors, digitalization in beverage logistics in Peru is slow. The problem occurs daily with each product delivery and intensifies during high-demand seasons <em>(national holidays, year-end, regional campaigns)</em>.
-  </p
+  </p>
 
 - **Why *(Why is it a problem?)***
   
