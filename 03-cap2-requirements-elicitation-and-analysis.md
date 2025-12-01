@@ -53,16 +53,16 @@
   <tr>
     <td colspan="2"></td>
     <td style="padding: 12px; text-align:center; border-bottom: 1px solid;">
-      <img src="../src/assets/chapter2/competitors/competitive-analysis/glassgo.png" style="height:80px;">
+      <img src="src/assets/chapter2/competitors/competitive-analysis/glassgo.png" style="height:80px;">
     </td>
     <td style="padding: 12px; text-align:center; border-bottom: 1px solid;">
-      <img src="../src/assets/chapter2/competitors/competitive-analysis/verizon.png" style="height:80px;">
+      <img src="src/assets/chapter2/competitors/competitive-analysis/verizon.png" style="height:80px;">
     </td>
     <td style="padding: 12px; text-align:center; border-bottom: 1px solid;">
-      <img src="../src/assets/chapter2/competitors/competitive-analysis/frotcom.png" style="height:80px;">
+      <img src="src/assets/chapter2/competitors/competitive-analysis/frotcom.png" style="height:80px;">
     </td>
     <td style="padding: 12px; text-align:center; border-bottom: 1px solid;">
-      <img src="../src/assets/chapter2/competitors/competitive-analysis/sheckwatch.png" style="height:80px;">
+      <img src="src/assets/chapter2/competitors/competitive-analysis/sheckwatch.png" style="height:80px;">
     </td>
   </tr>
   <!-- ===== PROFILE ===== -->
@@ -428,7 +428,7 @@
     - **Screenshot:**
 
       <p align="center">
-        <img src="../src/assets/chapter2/interviews/s1-interview1.jpg" width="50%">
+        <img src="src/assets/chapter2/interviews/s1-interview1.jpg" width="50%">
       </p>
 
     - **URL:**  
@@ -459,7 +459,7 @@
     - **Screenshot:**
 
       <p align="center">
-        <img src="../src/assets/chapter2/interviews/s1-interview2.jpg" width="50%">
+        <img src="src/assets/chapter2/interviews/s1-interview2.jpg" width="50%">
       </p>
 
     - **URL:**  
@@ -498,7 +498,7 @@
     - **Screenshot:**
 
       <p align="center">
-        <img src="../src/assets/chapter2/interviews/s1-interview3.jpg" width="50%">
+        <img src="src/assets/chapter2/interviews/s1-interview3.jpg" width="50%">
       </p>
 
     - **URL:**  
@@ -535,7 +535,7 @@
     - **Screenshot:**  
 
       <p align="center">
-        <img src="../src/assets/chapter2/interviews/s2-interview1.jpg" width="50%">
+        <img src="src/assets/chapter2/interviews/s2-interview1.jpg" width="50%">
       </p>
 
     - **URL:**
@@ -574,7 +574,7 @@
     - **Screenshot:**  
 
       <p align="center">
-        <img src="../src/assets/chapter2/interviews/s2-interview2.jpg" width="50%">
+        <img src="src/assets/chapter2/interviews/s2-interview2.jpg" width="50%">
       </p>
 
     - **URL:**  
@@ -609,7 +609,7 @@
     - **Screenshot:**  
 
       <p align="center">
-        <img src="../src/assets/chapter2/interviews/s2-interview3.jpg" width="50%">
+        <img src="src/assets/chapter2/interviews/s2-interview3.jpg" width="50%">
       </p>
 
     - **URL:**  
@@ -646,7 +646,7 @@
     - **Screenshot:**  
 
       <p align="center">
-        <img src="../src/assets/chapter2/interviews/s3-interview1.jpg" height="50%">
+        <img src="src/assets/chapter2/interviews/s3-interview1.jpg" height="50%">
       </p>
 
     - **URL:**  
@@ -681,7 +681,7 @@
     - **Screenshot:**  
 
       <p align="center">
-        <img src="../src/assets/chapter2/interviews/s3-interview2.jpg" width="50%">
+        <img src="src/assets/chapter2/interviews/s3-interview2.jpg" width="50%">
       </p>
 
     - **URL:**  
@@ -722,7 +722,7 @@
     - **Screenshot:**
 
       <p align="center">
-        <img src="../src/assets/chapter2/interviews/s3-interview3.jpg" width="50%">
+        <img src="src/assets/chapter2/interviews/s3-interview3.jpg" width="50%">
       </p>
 
     - **URL:**
@@ -1137,7 +1137,7 @@
   </p>
 
   <p align="center">
-    <img src="../src/assets/chapter2/needfinding/user-personas/s1-jorge-mendoza.png" width="48%">
+    <img src="src/assets/chapter2/needfinding/user-personas/s1-jorge-mendoza.png" width="48%">
   </p>
 
 - **Segment 2: Liquor Suppliers**
@@ -1147,7 +1147,7 @@
   </p>
 
   <p align="center">
-    <img src="../src/assets/chapter2/needfinding/user-personas/s2-andrea-flores.png" width="50%">
+    <img src="src/assets/chapter2/needfinding/user-personas/s2-andrea-flores.png" width="50%">
   </p>
 
 <div style="page-break-after: always;"></div>
@@ -1159,7 +1159,7 @@
   </p>
 
   <p align="center">
-    <img src="../src/assets/chapter2/needfinding/user-personas/s3-jose-alvarez.png" width="50%">
+    <img src="src/assets/chapter2/needfinding/user-personas/s3-jose-alvarez.png" width="50%">
   </p>
 
 <div style="page-break-after: always;"></div>
@@ -1378,19 +1378,19 @@
 - **Segment 1: Truck Transport Companies**
 
   <p align="center">
-    <img src="../src/assets/chapter2/needfinding/user journey-mapping/s1-journey.png" width="50%">
+    <img src="src/assets/chapter2/needfinding/user journey-mapping/s1-journey.png" width="50%">
   </p>
 
 - **Segment 2: Liquor Suppliers**
 
   <p align="center">
-    <img src="../src/assets/chapter2/needfinding/user journey-mapping/s2-journey.png" width="50%">
+    <img src="src/assets/chapter2/needfinding/user journey-mapping/s2-journey.png" width="50%">
   </p>
 
 - **Segment 3: Business Owners**
 
   <p align="center">
-    <img src="../src/assets/chapter2/needfinding/user journey-mapping/s3-journey.png" width="50%">
+    <img src="src/assets/chapter2/needfinding/user journey-mapping/s3-journey.png" width="50%">
   </p>
 
 <div style="page-break-after: always;"></div>
@@ -1400,7 +1400,7 @@
 - **Segment 1: Truck Transport Companies**
 
   <p align="center">
-    <img src="../src/assets/chapter2/needfinding/empathy-mapping/s1-sandra-haro.png" width="50%">
+    <img src="src/assets/chapter2/needfinding/empathy-mapping/s1-sandra-haro.png" width="50%">
   </p>
 
 <div style="page-break-after: always;"></div>
@@ -1408,7 +1408,7 @@
 - **Segment 2: Liquor Suppliers**
 
   <p align="center">
-    <img src="../src/assets/chapter2/needfinding/empathy-mapping/s2-ricardo-salazar.png" width="50%">
+    <img src="src/assets/chapter2/needfinding/empathy-mapping/s2-ricardo-salazar.png" width="50%">
   </p>
 
 <div style="page-break-after: always;"></div>
@@ -1416,7 +1416,7 @@
 - **Segment 3: Business Owners**
 
   <p align="center">
-    <img src="../src/assets/chapter2/needfinding/empathy-mapping/s3-maria-fernanda.png" width="50%">
+    <img src="src/assets/chapter2/needfinding/empathy-mapping/s3-maria-fernanda.png" width="50%">
   </p>
 
 <div style="page-break-after: always;"></div>
@@ -1424,7 +1424,7 @@
 ## **2.4. Big Picture EventStorming**
 
 <p align="center">
-  <img src="../src/assets/chapter2/big-picture-eventstorming/big-picture-event-storming.png" width="50%">
+  <img src="src/assets/chapter2/big-picture-eventstorming/big-picture-event-storming.png" width="50%">
 </p>
 
 <div style="page-break-after: always;"></div>

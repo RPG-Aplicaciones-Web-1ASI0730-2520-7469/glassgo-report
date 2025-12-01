@@ -14,7 +14,7 @@
   </p>
 
   <p align="center">
-    <img src="../src/assets/chapter4/style-guidelines/general/branding.png" width="50%">
+    <img src="src/assets/chapter4/style-guidelines/general/branding.png" width="50%">
   </p>
 
 - **Typography**
@@ -24,8 +24,8 @@
   </p>
 
   <p align="center">
-      <img src="../src/assets/chapter4/style-guidelines/general/typography-1.png" width="25%">
-      <img src="../src/assets/chapter4/style-guidelines/general/typography-2.png" width="25%">
+      <img src="src/assets/chapter4/style-guidelines/general/typography-1.png" width="25%">
+      <img src="src/assets/chapter4/style-guidelines/general/typography-2.png" width="25%">
   </p>
 
 
@@ -41,10 +41,10 @@
   - Black → *#000000*
 
   <p align="center">
-    <img src="../src/assets/chapter4/style-guidelines/general/blue.png" width="24%">
-    <img src="../src/assets/chapter4/style-guidelines/general/gray.png" width="24%">
-    <img src="../src/assets/chapter4/style-guidelines/general/white.png" width="24%">
-    <img src="../src/assets/chapter4/style-guidelines/general/black.png" width="24%">
+    <img src="src/assets/chapter4/style-guidelines/general/blue.png" width="24%">
+    <img src="src/assets/chapter4/style-guidelines/general/gray.png" width="24%">
+    <img src="src/assets/chapter4/style-guidelines/general/white.png" width="24%">
+    <img src="src/assets/chapter4/style-guidelines/general/black.png" width="24%">
   </p>
 
 - **Spacing**
@@ -54,7 +54,7 @@
   </p>
 
   <p align="center">
-    <img src="../src/assets/chapter4/style-guidelines/general/spacing.png" width="50%">
+    <img src="src/assets/chapter4/style-guidelines/general/spacing.png" width="50%">
   </p>
 
 ### **4.1.2. Web Style Guidelines**
@@ -367,49 +367,49 @@
 - **Wireframe 1: Landing page overview**
 
   <p align="center">
-    <img src="../src/assets/chapter4/landing-page-ui/wireframes/overview.png" width="60%">
+    <img src="src/assets/chapter4/landing-page-ui/wireframes/overview.png" width="60%">
   </p>
 
 - **Wireframe 2: What we offer to clients**
 
   <p align="center">
-    <img src="../src/assets/chapter4/landing-page-ui/wireframes/about-us.png" width="60%">
+    <img src="src/assets/chapter4/landing-page-ui/wireframes/about-us.png" width="60%">
   </p>
 
 - **Wireframe 3: Benefits and features section**
 
   <p align="center">
-    <img src="../src/assets/chapter4/landing-page-ui/wireframes/benefits.png" width="60%">
+    <img src="src/assets/chapter4/landing-page-ui/wireframes/benefits.png" width="60%">
   </p>
 
 - **Wireframe 4: Testimonials from our audience**
 
   <p align="center">
-    <img src="../src/assets/chapter4/landing-page-ui/wireframes/testimonies.png" width="60%">
+    <img src="src/assets/chapter4/landing-page-ui/wireframes/testimonies.png" width="60%">
   </p>
 
 - **Wireframe 5: Frequently asked questions about the company**
 
   <p align="center">
-    <img src="../src/assets/chapter4/landing-page-ui/wireframes/faq.png" width="60%">
+    <img src="src/assets/chapter4/landing-page-ui/wireframes/faq.png" width="60%">
   </p>
 
 - **Wireframe 6: There is a guide on how to use the web application**
 
   <p align="center">
-    <img src="../src/assets/chapter4/landing-page-ui/wireframes/tutorial.png" width="60%">
+    <img src="src/assets/chapter4/landing-page-ui/wireframes/tutorial.png" width="60%">
   </p>
 
 - **Wireframe 7: Support**
 
   <p align="center">
-    <img src="../src/assets/chapter4/landing-page-ui/wireframes/contact-us.png" width="60%">
+    <img src="src/assets/chapter4/landing-page-ui/wireframes/contact-us.png" width="60%">
   </p>
 
 - **Wireframe 8: Download our product**
 
   <p align="center">
-    <img src="../src/assets/chapter4/landing-page-ui/wireframes/donwloading-zone.png" width="60%">
+    <img src="src/assets/chapter4/landing-page-ui/wireframes/donwloading-zone.png" width="60%">
   </p>
 
 - **Mockup 9: Footer with contact links**
@@ -423,55 +423,55 @@
 - **Wireframe 1: Landing page overview**
 
   <p align="center">
-    <img src="../src/assets/chapter4/landing-page-ui/mockups/overview.png" width="60%">
+    <img src="src/assets/chapter4/landing-page-ui/mockups/overview.png" width="60%">
   </p>
 
 - **Wireframe 2: What we offer to clients**
 
   <p align="center">
-    <img src="../src/assets/chapter4/landing-page-ui/mockups/about-us.png" width="60%">
+    <img src="src/assets/chapter4/landing-page-ui/mockups/about-us.png" width="60%">
   </p>
 
 - **Wireframe 3: Benefits and features section**
 
   <p align="center">
-    <img src="../src/assets/chapter4/landing-page-ui/mockups/benefits.png" width="60%">
+    <img src="src/assets/chapter4/landing-page-ui/mockups/benefits.png" width="60%">
   </p>
 
 - **Wireframe 4: Testimonials from our audience**
 
   <p align="center">
-    <img src="../src/assets/chapter4/landing-page-ui/mockups/testimonies.png" width="60%">
+    <img src="src/assets/chapter4/landing-page-ui/mockups/testimonies.png" width="60%">
   </p>
 
 - **Wireframe 5: Frequently asked questions about the company**
 
   <p align="center">
-    <img src="../src/assets/chapter4/landing-page-ui/mockups/faq.png" width="60%">
+    <img src="src/assets/chapter4/landing-page-ui/mockups/faq.png" width="60%">
   </p>
 
 - **Wireframe 6: There is a guide on how to use the web application**
 
   <p align="center">
-    <img src="../src/assets/chapter4/landing-page-ui/mockups/tutorial.png" width="60%">
+    <img src="src/assets/chapter4/landing-page-ui/mockups/tutorial.png" width="60%">
   </p>
 
 - **Wireframe 7: Support**
 
   <p align="center">
-    <img src="../src/assets/chapter4/landing-page-ui/mockups/contact-us.png" width="60%">
+    <img src="src/assets/chapter4/landing-page-ui/mockups/contact-us.png" width="60%">
   </p>
 
 - **Wireframe 8: Download our product**
 
   <p align="center">
-    <img src="../src/assets/chapter4/landing-page-ui/mockups/donwloading-zone.png" width="60%">
+    <img src="src/assets/chapter4/landing-page-ui/mockups/donwloading-zone.png" width="60%">
   </p>
 
 - **Mockup 9: Footer with contact links**
 
   <p align="center">
-    <img src="../src/assets/chapter4/landing-page-ui/mockups/footer.png" width="60%">
+    <img src="src/assets/chapter4/landing-page-ui/mockups/footer.png" width="60%">
   </p>
 
 ## **4.4. Web Applications UX/UI Design**
@@ -483,71 +483,71 @@
 ### **4.4.1. Web Applications Wireframes**
 
   <p align="center">
-    <img src="../src/assets/chapter4/web-applications-ui/wireframes/sign-in.png" width="60%">
+    <img src="src/assets/chapter4/web-applications-ui/wireframes/sign-in.png" width="60%">
   </p>
   
   <p align="center">
-    <img src="../src/assets/chapter4/web-applications-ui/wireframes/sign-in-google.png" width="60%">
+    <img src="src/assets/chapter4/web-applications-ui/wireframes/sign-in-google.png" width="60%">
   </p>
   
   <p align="center">
-    <img src="../src/assets/chapter4/web-applications-ui/wireframes/sign-up.png" width="60%">
+    <img src="src/assets/chapter4/web-applications-ui/wireframes/sign-up.png" width="60%">
   </p>
 
   <p align="center">
-    <img src="../src/assets/chapter4/web-applications-ui/wireframes/sign-up-loading.png" width="60%">
+    <img src="src/assets/chapter4/web-applications-ui/wireframes/sign-up-loading.png" width="60%">
   </p>
      
   <p align="center">
-    <img src="../src/assets/chapter4/web-applications-ui/wireframes/recover-password.png" width="60%">
+    <img src="src/assets/chapter4/web-applications-ui/wireframes/recover-password.png" width="60%">
   </p>
   
   <p align="center">
-    <img src="../src/assets/chapter4/web-applications-ui/wireframes/select-user-role.png" width="60%">
+    <img src="src/assets/chapter4/web-applications-ui/wireframes/select-user-role.png" width="60%">
   </p>
 
   <p align="center">
-    <img src="../src/assets/chapter4/web-applications-ui/wireframes/register-complete.png" width="60%">
+    <img src="src/assets/chapter4/web-applications-ui/wireframes/register-complete.png" width="60%">
   </p>
 
 - **Segment 1: Truck Transport Companies**
   
   <p align="center">
-    <img src="../src/assets/chapter4/web-applications-ui/wireframes/s1-order-requests.png" width="60%">
+    <img src="src/assets/chapter4/web-applications-ui/wireframes/s1-order-requests.png" width="60%">
   </p>
   
   <p align="center">
-    <img src="../src/assets/chapter4/web-applications-ui/wireframes/s1-clients.png" width="60%">
+    <img src="src/assets/chapter4/web-applications-ui/wireframes/s1-clients.png" width="60%">
   </p>
     
   <p align="center">
-    <img src="../src/assets/chapter4/web-applications-ui/wireframes/s1-tracking.png" width="60%">
+    <img src="src/assets/chapter4/web-applications-ui/wireframes/s1-tracking.png" width="60%">
   </p>
 
   <p align="center">
-    <img src="../src/assets/chapter4/web-applications-ui/wireframes/s1-stock-management.png" width="60%">
+    <img src="src/assets/chapter4/web-applications-ui/wireframes/s1-stock-management.png" width="60%">
   </p>
     
   <p align="center">
-    <img src="../src/assets/chapter4/web-applications-ui/wireframes/s1-calendar.png" width="60%">
+    <img src="src/assets/chapter4/web-applications-ui/wireframes/s1-calendar.png" width="60%">
   </p>
     
   <p align="center">
-    <img src="../src/assets/chapter4/web-applications-ui/wireframes/s1-reports.png" width="60%">
+    <img src="src/assets/chapter4/web-applications-ui/wireframes/s1-reports.png" width="60%">
   </p>
     
   <p align="center">
-    <img src="../src/assets/chapter4/web-applications-ui/wireframes/s1-shipping-history.png" width="60%">
+    <img src="src/assets/chapter4/web-applications-ui/wireframes/s1-shipping-history.png" width="60%">
   </p>
     
   <p align="center">
-    <img src="../src/assets/chapter4/web-applications-ui/wireframes/s1-claims-log.png" width="60%">
+    <img src="src/assets/chapter4/web-applications-ui/wireframes/s1-claims-log.png" width="60%">
   </p>
     
 - **Segment 2&3: Liquor Distributors and Business Owners**
 
   <p align="center">
-    <img src="../src/assets/chapter4/web-applications-ui/wireframes/s2,3-home.png" width="60%">
+    <img src="src/assets/chapter4/web-applications-ui/wireframes/s2,3-home.png" width="60%">
   </p>
 
   <p align="center">
@@ -555,27 +555,27 @@
   </p>
 
   <p align="center">
-    <img src="../src/assets/chapter4/web-applications-ui/wireframes/s2,3-tracking.png" width="60%">
+    <img src="src/assets/chapter4/web-applications-ui/wireframes/s2,3-tracking.png" width="60%">
   </p>
 
   <p align="center">
-    <img src="../src/assets/chapter4/web-applications-ui/wireframes/s2,3-inventory.png" width="60%">
+    <img src="src/assets/chapter4/web-applications-ui/wireframes/s2,3-inventory.png" width="60%">
   </p>
 
   <p align="center">
-    <img src="../src/assets/chapter4/web-applications-ui/wireframes/s2,3-calendar.png" width="60%">
+    <img src="src/assets/chapter4/web-applications-ui/wireframes/s2,3-calendar.png" width="60%">
   </p>
 
   <p align="center">
-    <img src="../src/assets/chapter4/web-applications-ui/wireframes/s2,3-reports.png" width="60%">
+    <img src="src/assets/chapter4/web-applications-ui/wireframes/s2,3-reports.png" width="60%">
   </p>
 
   <p align="center">
-    <img src="../src/assets/chapter4/web-applications-ui/wireframes/s2,3-history.png" width="60%">
+    <img src="src/assets/chapter4/web-applications-ui/wireframes/s2,3-history.png" width="60%">
   </p>
 
   <p align="center">
-    <img src="../src/assets/chapter4/web-applications-ui/wireframes/s2,3-claims.png" width="60%">
+    <img src="src/assets/chapter4/web-applications-ui/wireframes/s2,3-claims.png" width="60%">
   </p>
 
 ### **4.4.2. Web Applications Wireflow Diagrams**
@@ -589,7 +589,7 @@
   </p>
 
   <p align="center">
-    <img src="../src/assets/chapter4/web-applications-ui/wireflow-diagrams/wireflow-diagram.png" width="60%">
+    <img src="src/assets/chapter4/web-applications-ui/wireflow-diagrams/wireflow-diagram.png" width="60%">
   </p>
   
   > [Wireflow - GlassGo](https://lucid.app/lucidchart/1d76ffac-1618-4b03-a28f-a5a840f67ac7/edit?viewport_loc=-12591%2C-6613%2C22617%2C11070%2C0_0&invitationId=inv_592714f1-7efd-4777-8053-5ed7aae18f41)
@@ -597,23 +597,23 @@
 ### **4.4.3. Web Applications Mock-ups**
 
   <p align="center">
-    <img src="../src/assets/chapter4/web-applications-ui/mockups/sign-in.png" width="60%">
+    <img src="src/assets/chapter4/web-applications-ui/mockups/sign-in.png" width="60%">
   </p>
   
   <p align="center">
-    <img src="../src/assets/chapter4/web-applications-ui/mockups/sign-in-google.png" width="60%">
+    <img src="src/assets/chapter4/web-applications-ui/mockups/sign-in-google.png" width="60%">
   </p>
   
   <p align="center">
-    <img src="../src/assets/chapter4/web-applications-ui/mockups/sign-up.png" width="60%">
+    <img src="src/assets/chapter4/web-applications-ui/mockups/sign-up.png" width="60%">
   </p>
 
   <p align="center">
-    <img src="../src/assets/chapter4/web-applications-ui/mockups/sign-up-loading.png" width="60%">
+    <img src="src/assets/chapter4/web-applications-ui/mockups/sign-up-loading.png" width="60%">
   </p>
 
   <p align="center">
-    <img src="../src/assets/chapter4/web-applications-ui/mockups/recover-password.png" width="60%">
+    <img src="src/assets/chapter4/web-applications-ui/mockups/recover-password.png" width="60%">
   </p>
   
   <p align="center">
@@ -631,69 +631,69 @@
   </p>
   
   <p align="center">
-    <img src="../src/assets/chapter4/web-applications-ui/mockups/s1-clients.png" width="60%">
+    <img src="src/assets/chapter4/web-applications-ui/mockups/s1-clients.png" width="60%">
   </p>
     
   <p align="center">
-    <img src="../src/assets/chapter4/web-applications-ui/mockups/s1-tracking.png" width="60%">
+    <img src="src/assets/chapter4/web-applications-ui/mockups/s1-tracking.png" width="60%">
   </p>
 
   <p align="center">
-    <img src="../src/assets/chapter4/web-applications-ui/mockups/s1-stock-management.png" width="60%">
+    <img src="src/assets/chapter4/web-applications-ui/mockups/s1-stock-management.png" width="60%">
   </p>
     
   <p align="center">
-    <img src="../src/assets/chapter4/web-applications-ui/mockups/s1-calendar.png" width="60%">
+    <img src="src/assets/chapter4/web-applications-ui/mockups/s1-calendar.png" width="60%">
   </p>
     
   <p align="center">
-    <img src="../src/assets/chapter4/web-applications-ui/mockups/s1-reports.png" width="60%">
+    <img src="src/assets/chapter4/web-applications-ui/mockups/s1-reports.png" width="60%">
   </p>
     
   <p align="center">
-    <img src="../src/assets/chapter4/web-applications-ui/mockups/s1-shipping-history.png" width="60%">
+    <img src="src/assets/chapter4/web-applications-ui/mockups/s1-shipping-history.png" width="60%">
   </p>
     
   <p align="center">
-    <img src="../src/assets/chapter4/web-applications-ui/mockups/s1-claims-log.png" width="60%">
+    <img src="src/assets/chapter4/web-applications-ui/mockups/s1-claims-log.png" width="60%">
   </p>
     
 - **Segment 2&3: Liquor Distributors and Business Owners**
 
   <p align="center">
-    <img src="../src/assets/chapter4/web-applications-ui/mockups/s2,3-home.png" width="60%">
+    <img src="src/assets/chapter4/web-applications-ui/mockups/s2,3-home.png" width="60%">
   </p>
 
   <p align="center">
-    <img src="../src/assets/chapter4/web-applications-ui/mockups/s2,3-create-order.png" width="60%">
+    <img src="src/assets/chapter4/web-applications-ui/mockups/s2,3-create-order.png" width="60%">
   </p>
 
   <p align="center">
-    <img src="../src/assets/chapter4/web-applications-ui/mockups/s2,3-tracking.png" width="60%">
+    <img src="src/assets/chapter4/web-applications-ui/mockups/s2,3-tracking.png" width="60%">
   </p>
 
   <p align="center">
-    <img src="../src/assets/chapter4/web-applications-ui/mockups/s2,3-tracking-complete.png" width="60%">
+    <img src="src/assets/chapter4/web-applications-ui/mockups/s2,3-tracking-complete.png" width="60%">
   </p>
 
   <p align="center">
-    <img src="../src/assets/chapter4/web-applications-ui/mockups/s2,3-inventory.png" width="60%">
+    <img src="src/assets/chapter4/web-applications-ui/mockups/s2,3-inventory.png" width="60%">
   </p>
 
   <p align="center">
-    <img src="../src/assets/chapter4/web-applications-ui/mockups/s2,3-calendar.png" width="60%">
+    <img src="src/assets/chapter4/web-applications-ui/mockups/s2,3-calendar.png" width="60%">
   </p>
 
   <p align="center">
-    <img src="../src/assets/chapter4/web-applications-ui/mockups/s2,3-reports.png" width="60%">
+    <img src="src/assets/chapter4/web-applications-ui/mockups/s2,3-reports.png" width="60%">
   </p>
 
   <p align="center">
-    <img src="../src/assets/chapter4/web-applications-ui/mockups/s2,3-history.png" width="60%">
+    <img src="src/assets/chapter4/web-applications-ui/mockups/s2,3-history.png" width="60%">
   </p>
 
   <p align="center">
-    <img src="../src/assets/chapter4/web-applications-ui/mockups/s2,3-claims.png" width="60%">
+    <img src="src/assets/chapter4/web-applications-ui/mockups/s2,3-claims.png" width="60%">
   </p>
 
 ### **4.4.4. Web Applications User Flow Diagrams**
@@ -701,49 +701,49 @@
 - **Diagram 1: Platform user flow start**
 
   <p align="center">
-    <img src="../src/assets/chapter4/web-applications-ui/userflow-diagrams/userflow-1.png" width="60%">
+    <img src="src/assets/chapter4/web-applications-ui/userflow-diagrams/userflow-1.png" width="60%">
   </p>
 
 - **Diagram 2: Authentication and access process**
 
   <p align="center">
-    <img src="../src/assets/chapter4/web-applications-ui/userflow-diagrams/userflow-2.png" width="60%">
+    <img src="src/assets/chapter4/web-applications-ui/userflow-diagrams/userflow-2.png" width="60%">
   </p>
 
 - **Diagram 3: Main panel navigation**
 
   <p align="center">
-    <img src="../src/assets/chapter4/web-applications-ui/userflow-diagrams/userflow-3.png" width="60%">
+    <img src="src/assets/chapter4/web-applications-ui/userflow-diagrams/userflow-3.png" width="60%">
   </p>
 
 - **Diagram 4: Order management and visualization**
 
   <p align="center">
-    <img src="../src/assets/chapter4/web-applications-ui/userflow-diagrams/userflow-4.png" width="60%">
+    <img src="src/assets/chapter4/web-applications-ui/userflow-diagrams/userflow-4.png" width="60%">
   </p>
 
 - **Diagram 5: Shipment and route tracking**
 
   <p align="center">
-    <img src="../src/assets/chapter4/web-applications-ui/userflow-diagrams/userflow-5.png" width="60%">
+    <img src="src/assets/chapter4/web-applications-ui/userflow-diagrams/userflow-5.png" width="60%">
   </p>
 
 - **Diagram 6: Incident registration and management**
 
   <p align="center">
-    <img src="../src/assets/chapter4/web-applications-ui/userflow-diagrams/userflow-6.png" width="60%">
+    <img src="src/assets/chapter4/web-applications-ui/userflow-diagrams/userflow-6.png" width="60%">
   </p>
 
 - **Diagram 7: Process completion and logout**
 
   <p align="center">
-    <img src="../src/assets/chapter4/web-applications-ui/userflow-diagrams/userflow-7.png" width="60%">
+    <img src="src/assets/chapter4/web-applications-ui/userflow-diagrams/userflow-7.png" width="60%">
   </p>
 
 - **General diagram: Complete platform user flow view**
 
   <p align="center">
-    <img src="../src/assets/chapter4/web-applications-ui/userflow-diagrams/userflow-diagram.png" width="60%">
+    <img src="src/assets/chapter4/web-applications-ui/userflow-diagrams/userflow-diagram.png" width="60%">
   </p>
 
 ## **4.5. Web Applications Prototyping**
@@ -761,7 +761,7 @@
 - **Global vision:**
 
   <p align="center">
-    <img src="../src/assets/chapter4/domain-driven-software-arquitecture/eventstorming/glassgo-eventstorming.png" width="60%">
+    <img src="src/assets/chapter4/domain-driven-software-arquitecture/eventstorming/glassgo-eventstorming.png" width="60%">
   </p>
 
 - **Specific Views by Bounded Context:**
@@ -769,49 +769,49 @@
   - **Identity Access:**
 
     <p align="center">
-      <img src="../src/assets/chapter4/domain-driven-software-arquitecture/eventstorming/identity-access.png" width="60%">
+      <img src="src/assets/chapter4/domain-driven-software-arquitecture/eventstorming/identity-access.png" width="60%">
     </p>
 
   - **Profiles Preferences:**
 
     <p align="center">
-      <img src="../src/assets/chapter4/domain-driven-software-arquitecture/eventstorming/profiles-preferences.png" width="60%">
+      <img src="src/assets/chapter4/domain-driven-software-arquitecture/eventstorming/profiles-preferences.png" width="60%">
     </p>
 
   - **Payments Subscriptions:**
 
     <p align="center">
-      <img src="../src/assets/chapter4/domain-driven-software-arquitecture/eventstorming/payments-subscriptions.png" width="60%">
+      <img src="src/assets/chapter4/domain-driven-software-arquitecture/eventstorming/payments-subscriptions.png" width="60%">
     </p>
 
   - **Service Planning:**
 
     <p align="center">
-      <img src="../src/assets/chapter4/domain-driven-software-arquitecture/eventstorming/service-planning.png" width="60%">
+      <img src="src/assets/chapter4/domain-driven-software-arquitecture/eventstorming/service-planning.png" width="60%">
     </p>
 
   - **Service Execution:**
 
     <p align="center">
-      <img src="../src/assets/chapter4/domain-driven-software-arquitecture/eventstorming/service-monitoring.png" width="60%">
+      <img src="src/assets/chapter4/domain-driven-software-arquitecture/eventstorming/service-monitoring.png" width="60%">
     </p>
 
   - **Dashboard Analytics:**
 
     <p align="center">
-      <img src="../src/assets/chapter4/domain-driven-software-arquitecture/eventstorming/dashboard-analytics.png" width="60%">
+      <img src="src/assets/chapter4/domain-driven-software-arquitecture/eventstorming/dashboard-analytics.png" width="60%">
     </p>
 
   - **Loyalty Engagement:**
 
     <p align="center">
-      <img src="../src/assets/chapter4/domain-driven-software-arquitecture/eventstorming/loyalty-engagement.png" width="60%">
+      <img src="src/assets/chapter4/domain-driven-software-arquitecture/eventstorming/loyalty-engagement.png" width="60%">
     </p>
 
   - **System Administration:**
 
     <p align="center">
-      <img src="../src/assets/chapter4/domain-driven-software-arquitecture/eventstorming/system-administration.png" width="60%">
+      <img src="src/assets/chapter4/domain-driven-software-arquitecture/eventstorming/system-administration.png" width="60%">
     </p>
 
 ### **4.6.2. Software Architecture Context Diagram**
@@ -831,7 +831,7 @@
   - **Twilio:** Notification service for sending SMS, emails, or push notifications.
 
 <p align="center">
-  <img src="../src/assets/chapter4/domain-driven-software-arquitecture/contex-diagram/context-diagram.png" width="60%">
+  <img src="src/assets/chapter4/domain-driven-software-arquitecture/contex-diagram/context-diagram.png" width="60%">
 </p>
 
 ### **4.6.3. Software Architecture Container Diagram**
@@ -845,7 +845,7 @@
   - **DB:** Relational database
 
 <p align="center">
-  <img src="../src/assets/chapter4/domain-driven-software-arquitecture/container-diagram/container-diagram.png" width="60%">
+  <img src="src/assets/chapter4/domain-driven-software-arquitecture/container-diagram/container-diagram.png" width="60%">
 </p>
 
 ### **4.6.4. Software Architecture Components Diagrams**
@@ -853,55 +853,55 @@
 - **Web Application Component Diagram:**
   
   <p align="center">
-    <img src="../src/assets/chapter4/domain-driven-software-arquitecture/components-diagrams/web-application.png" width="60%">
+    <img src="src/assets/chapter4/domain-driven-software-arquitecture/components-diagrams/web-application.png" width="60%">
   </p>
 
 - **Identity Access:**
 
   <p align="center">
-    <img src="../src/assets/chapter4/domain-driven-software-arquitecture/components-diagrams/identity-access.png" width="60%">
+    <img src="src/assets/chapter4/domain-driven-software-arquitecture/components-diagrams/identity-access.png" width="60%">
   </p>
 
 - **Profiles Preferences Component Diagram:**
 
   <p align="center">
-    <img src="../src/assets/chapter4/domain-driven-software-arquitecture/components-diagrams/profiles-preferences.png" width="60%">
+    <img src="src/assets/chapter4/domain-driven-software-arquitecture/components-diagrams/profiles-preferences.png" width="60%">
   </p>
 
 - **Payments Subscriptions Component Diagram:**
 
   <p align="center">
-    <img src="../src/assets/chapter4/domain-driven-software-arquitecture/components-diagrams/payments-subscriptions.png" width="60%">
+    <img src="src/assets/chapter4/domain-driven-software-arquitecture/components-diagrams/payments-subscriptions.png" width="60%">
   </p>
 
 - **Service Planning Component Diagram:**
 
   <p align="center">
-    <img src="../src/assets/chapter4/domain-driven-software-arquitecture/components-diagrams/service-planning.png" width="60%">
+    <img src="src/assets/chapter4/domain-driven-software-arquitecture/components-diagrams/service-planning.png" width="60%">
   </p>
 
 - **Service Execution Component Diagram:**
 
   <p align="center">
-    <img src="../src/assets/chapter4/domain-driven-software-arquitecture/components-diagrams/service-monitoring.png" width="60%">
+    <img src="src/assets/chapter4/domain-driven-software-arquitecture/components-diagrams/service-monitoring.png" width="60%">
   </p>
 
 - **Dashboard Analytics Component Diagram:**
 
   <p align="center">
-    <img src="../src/assets/chapter4/domain-driven-software-arquitecture/components-diagrams/dashboard-analytics.png" width="60%">
+    <img src="src/assets/chapter4/domain-driven-software-arquitecture/components-diagrams/dashboard-analytics.png" width="60%">
   </p>
 
 - **Loyalty Engagement Component Diagram:**
 
   <p align="center">
-    <img src="../src/assets/chapter4/domain-driven-software-arquitecture/components-diagrams/loyalty-engagement.png" width="60%">
+    <img src="src/assets/chapter4/domain-driven-software-arquitecture/components-diagrams/loyalty-engagement.png" width="60%">
   </p>
 
 - **System Administration Component Diagram:**
 
   <p align="center">
-    <img src="../src/assets/chapter4/domain-driven-software-arquitecture/components-diagrams/system-administration.png" width="60%">
+    <img src="src/assets/chapter4/domain-driven-software-arquitecture/components-diagrams/system-administration.png" width="60%">
   </p>
 
 ## **4.7. Software Object-Oriented Design**
@@ -917,49 +917,49 @@
   - **Identity Access Class Diagram:**
 
     <p align="center">
-      <img src="../src/assets/chapter4/software-object-oriented-design/class-diagrams/identity-access.png" width="60%">
+      <img src="src/assets/chapter4/software-object-oriented-design/class-diagrams/identity-access.png" width="60%">
     </p>
   
   - **Profiles Preferences Class Diagram:**
 
     <p align="center">
-      <img src="../src/assets/chapter4/software-object-oriented-design/class-diagrams/profiles-preferences.png" width="60%">
+      <img src="src/assets/chapter4/software-object-oriented-design/class-diagrams/profiles-preferences.png" width="60%">
     </p>
   
   - **Payment Subscription Class Diagram:**
 
     <p align="center">
-      <img src="../src/assets/chapter4/software-object-oriented-design/class-diagrams/payments-subscriptions.png" width="60%">
+      <img src="src/assets/chapter4/software-object-oriented-design/class-diagrams/payments-subscriptions.png" width="60%">
     </p>
 
   - **Service Planning Class Diagram:**
   
     <p align="center">
-      <img src="../src/assets/chapter4/software-object-oriented-design/class-diagrams/service-planning.png" width="60%">
+      <img src="src/assets/chapter4/software-object-oriented-design/class-diagrams/service-planning.png" width="60%">
     </p>
   
   - **Service Execution Monitoring Class Diagram:**
 
     <p align="center">
-      <img src="../src/assets/chapter4/software-object-oriented-design/class-diagrams/service-monitoring.png" width="60%">
+      <img src="src/assets/chapter4/software-object-oriented-design/class-diagrams/service-monitoring.png" width="60%">
     </p>
 
   - **Dashboard Analytics Class Diagram:**
 
     <p align="center">
-      <img src="../src/assets/chapter4/software-object-oriented-design/class-diagrams/dashboard-analytics.png" width="60%">
+      <img src="src/assets/chapter4/software-object-oriented-design/class-diagrams/dashboard-analytics.png" width="60%">
     </p>
 
   - **Loyalty Engagement Class Diagram:**
 
     <p align="center">
-      <img src="../src/assets/chapter4/software-object-oriented-design/class-diagrams/loyalty-engagement.png" width="60%">
+      <img src="src/assets/chapter4/software-object-oriented-design/class-diagrams/loyalty-engagement.png" width="60%">
     </p>
 
   - **System Administration Class Diagram:**
 
     <p align="center">
-      <img src="../src/assets/chapter4/software-object-oriented-design/class-diagrams/system-administration.png" width="60%">
+      <img src="src/assets/chapter4/software-object-oriented-design/class-diagrams/system-administration.png" width="60%">
     </p>
 
 ## **4.8. Database Design**
@@ -973,7 +973,7 @@
 - **Global View:**
 
   <p align="center">
-    <img src="../src/assets/chapter4/database-design/database-diagrams/glassgo-database.png" width="60%">
+    <img src="src/assets/chapter4/database-design/database-diagrams/glassgo-database.png" width="60%">
   </p>
 
 - **Every Bounded Context's view:**
@@ -981,47 +981,47 @@
   - **Identity Access Database Diagram:**
 
     <p align="center">
-      <img src="../src/assets/chapter4/database-design/database-diagrams/identity-access.png" width="60%">
+      <img src="src/assets/chapter4/database-design/database-diagrams/identity-access.png" width="60%">
     </p>
   
   - **Profiles Preferences Database Diagram:**
   
     <p align="center">
-      <img src="../src/assets/chapter4/database-design/database-diagrams/profiles-preferences.png" width="60%">
+      <img src="src/assets/chapter4/database-design/database-diagrams/profiles-preferences.png" width="60%">
     </p>
 
   - **Payment Subscriptions Database Diagram:**
   
     <p align="center">
-      <img src="../src/assets/chapter4/database-design/database-diagrams/payments-subscriptions.png" width="60%">
+      <img src="src/assets/chapter4/database-design/database-diagrams/payments-subscriptions.png" width="60%">
     </p>
   
   - **Service Planning Database Diagram:**
   
     <p align="center">
-      <img src="../src/assets/chapter4/database-design/database-diagrams/service-planning.png" width="60%">
+      <img src="src/assets/chapter4/database-design/database-diagrams/service-planning.png" width="60%">
     </p>
 
   - **Service Execution Monitoring Database Diagram:**
   
     <p align="center">
-      <img src="../src/assets/chapter4/database-design/database-diagrams/service-monitoring.png" width="60%">
+      <img src="src/assets/chapter4/database-design/database-diagrams/service-monitoring.png" width="60%">
     </p>
 
   - **Dashboard Analytics Database Diagram:**
   
     <p align="center">
-      <img src="../src/assets/chapter4/database-design/database-diagrams/dashboard-analytics.png" width="60%">
+      <img src="src/assets/chapter4/database-design/database-diagrams/dashboard-analytics.png" width="60%">
     </p>
 
   - **Loyalty Engagement Database Diagram:**
   
     <p align="center">
-      <img src="../src/assets/chapter4/database-design/database-diagrams/loyalty-engagement.png" width="60%">
+      <img src="src/assets/chapter4/database-design/database-diagrams/loyalty-engagement.png" width="60%">
     </p>
 
   - **System Administration Database Diagram:**
   
     <p align="center">
-      <img src="../src/assets/chapter4/database-design/database-diagrams/system-administration.png" width="60%">
+      <img src="src/assets/chapter4/database-design/database-diagrams/system-administration.png" width="60%">
     </p>

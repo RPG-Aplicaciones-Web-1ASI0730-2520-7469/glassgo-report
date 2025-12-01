@@ -4,7 +4,7 @@
 
   - Link de Figma de diseño de la plataforma: https://tinyurl.com/3rwshbb9
 
-    <img src="../src/assets/annexes/AnexoA.png" alt=“Descargar” >
+    <img src="src/assets/annexes/AnexoA.png" alt=“Descargar” >
 
     <div class="page"></div>
 
@@ -18,7 +18,7 @@
 
     - Link de Trello del proyecto Sprint Backlog 4: https://tinyurl.com/2yshdx79
 
-      <img src="../src/assets/annexes/AnexoB.png" alt=“Descargar” >
+      <img src="src/assets/annexes/AnexoB.png" alt=“Descargar” >
 
     <div class="page"></div>
 
@@ -26,6 +26,6 @@
 
   - Link del repositorio Github del proyecto: https://github.com/RPG-Aplicaciones-Web-1ASI0730-2520-7469
 
-    <img src="../src/assets/annexes/Github.png" alt=“Descargar” >
+    <img src="src/assets/annexes/Github.png" alt=“Descargar” >
 
     <div class="page"></div>
