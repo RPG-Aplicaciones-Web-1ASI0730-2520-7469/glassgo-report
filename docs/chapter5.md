@@ -1,3 +1,5 @@
+<div style="page-break-after: always;"></div>
+
 # Chapter V: Product Implementation, Validation & Deployment
 ## 5.1. Software Configuration Management
 
@@ -211,32 +213,32 @@ Cross-review of progress, detailed commit logging, and documentation of changes 
 
 ![TCIDS](../src/assets/chapter5/sprints/sprint1/team-collaboration-insights-during-sprint.png)
 
-5.2.2 Sprint 2
+### 5.2.2 Sprint 2
 
-5.2.2.1. Sprint Planning 2
+#### 5.2.2.1. Sprint Planning 2
 
 | Sprint \# | Sprint 2 |
 | ----- | ----- |
 | Sprint Planning Background |  |
 | Date | 2025-11-11 |
 | Time | 07:00 pm (GMT-5) |
-| Location | Modalidad remota mediante la plataforma Discord |
+| Location | Remote mode via Discord platform |
 | Prepared By | Howard Robles, Guillermo Arturo |
 | Attendees (to planning meeting) |  |
-| Sprint 1 Review Summary | Durante el Sprint 1 se logró implementar casi en su totalidad la Landing Page del sistema GlassGo, desarrollando secciones clave como el header, footer, sección de beneficios y preguntas frecuentes, así como la integración inicial de estilos globales y tipografía. Quedó faltante la funcionalidad de cambio de idioma, la cual será prioridad para el siguiente sprint. El equipo cumplió con los entregables establecidos, respetando el diseño de mockups y la guía de estilos. Se identificaron oportunidades de mejora en la velocidad de desarrollo y gestión de tiempos. |
-| Sprint 1 Retrospective Summary | Durante el Sprint 1, el equipo logró avanzar de forma coordinada y efectiva en el desarrollo de la landing page, sin enfrentar mayores dificultades. Cada integrante cumplió puntualmente con las secciones asignadas, lo que permitió avanzar según lo planificado. La adopción de convenciones comunes en el código y el diseño contribuyó a mantener la coherencia del producto y facilitó la integración entre partes. Como mejora para el siguiente sprint, se acordó implementar revisiones diarias (daily reviews) que permitan alinear mejor los avances, detectar bloqueos tempranos y mejorar la comunicación continua entre miembros. |
+| Sprint 1 Review Summary | During Sprint 1, the GlassGo system Landing Page was almost fully implemented, developing key sections such as the header, footer, benefits section, and frequently asked questions, as well as the initial integration of global styles and typography. The language switching functionality was missing, which will be a priority for the next sprint. The team met the established deliverables, respecting the mockup design and style guide. Opportunities for improvement were identified in development speed and time management. |
+| Sprint 1 Retrospective Summary | During Sprint 1, the team managed to advance in a coordinated and effective manner in the development of the landing page, without facing major difficulties. Each member punctually completed the assigned sections, which allowed progress according to plan. The adoption of common conventions in code and design contributed to maintaining product coherence and facilitated integration between parts. As an improvement for the next sprint, it was agreed to implement daily reviews that allow better alignment of progress, early detection of blockers, and improved continuous communication between members. |
 | Sprint Goal & User Stories |  |
-| Sprint 2 Goal | Nuestro enfoque está en brindar información clara y detallada a los visitantes de la plataforma, así como habilitar la gestión de inventario, configuración de perfil, notificaciones, resumen de datos y gestión deventas para los usuarios del sistema interno. Creemos que esto proporciona mayor comprensión del propósito de la solución a los visitantes y mejora la eficiencia operativa de insumos de los administradores de restaurantes y proveedores. Esto se confirmará cuando los visitantes puedan explorar contenido relevante desde el acceso público, y los usuarios autenticados naveguen por el panel principal y accedan a los módulos de gestión de inventario, configuración de perfil, notificaciones, resumen de datos y ventas del sistema. |
+| Sprint 2 Goal | Our focus is on providing clear and detailed information to platform visitors, as well as enabling inventory management, profile configuration, notifications, data summary, and sales management for internal system users. We believe this provides greater understanding of the solution's purpose to visitors and improves the operational efficiency of supplies for restaurant administrators and suppliers. This will be confirmed when visitors can explore relevant content from public access, and authenticated users navigate the main panel and access the inventory management, profile configuration, notifications, data summary, and system sales modules. |
 | Sprint 2 Velocity | 30 |
 | Sum of Story Points | 28 |
 
-5.2.2.2 Aspect Leaders and Collaborators
+#### 5.2.2.2 Aspect Leaders and Collaborators
 
 Aspect Leaders and Collaborators
 
-Durante el Sprint 2, se ha definido el desarrollo e integración de los módulos principales del frontend de la aplicación web interna GlassGo , abarcando funcionalidades clave como la gestión de productos, pedidos, inventario y compras. Estas implementaciones buscan optimizar los procesos internos y mejorar la trazabilidad del inventario, brindando mayor eficiencia a los administradores de restaurantes y su personal.
+During Sprint 2, the development and integration of the main modules of the GlassGo internal web application frontend has been defined, covering key functionalities such as product, order, inventory, and purchasing management. These implementations seek to optimize internal processes and improve inventory traceability, providing greater efficiency to restaurant administrators and their staff.
 
-Con el fin de mantener una coordinación efectiva y una comunicación fluida entre los integrantes del equipo, se estructuró la matriz de liderazgo y colaboración (LACX), donde se asignó un líder (L) encargado de cada funcionalidad y colaboradores (C) que brindan apoyo en su implementación.
+In order to maintain effective coordination and fluid communication between team members, the leadership and collaboration matrix (LACX) was structured, where a leader (L) in charge of each functionality and collaborators (C) who provide support in its implementation were assigned.
 
 | Team Member (Last Name, First Name) | GitHub Username | Profile & References  | Paymets & Subscriptions  | Loyalty & Engagerment  | Service Planning  | System Administration  | Service Execution & Monitoring | Dashboard & Analytics |
 | ----- | ----- | :---- | :---- | :---- | :---- | :---- | :---- | :---- |
@@ -247,98 +249,76 @@ Con el fin de mantener una coordinación efectiva y una comunicación fluida ent
 | Vivar Cesar David Ignacio | DarkBeider20 | C | C | C | C | L | C | C |
 | Guillen Giraldo Mike Dylan | FulLHous | C | C | C | L | C | C | C |
 
-5.2.2.3 Sprint Backlog 2
+#### 5.2.2.3 Sprint Backlog 2
 
-El objetivo principal de este Sprint es desarrollar la interfaz frontend de los dashboards para administradores de restaurantes y proveedores, enfocándose en una estructura clara, navegación eficiente y visualización adecuada de datos críticos.
-
-![][image3]
+The main objective of this Sprint is to develop the frontend interface of the dashboards for restaurant administrators and suppliers, focusing on a clear structure, efficient navigation, and adequate visualization of critical data.
 
 Trello: [https://trello.com/invite/b/68ffe2b4ec71fc75648c1f28/ATTIdf711a197aade6d0da1e65a2032e1c37292FD061/sprint-backlog-2](https://trello.com/invite/b/68ffe2b4ec71fc75648c1f28/ATTIdf711a197aade6d0da1e65a2032e1c37292FD061/sprint-backlog-2)
 
-5.2.2.4 Development Evidence for Sprint Review
+#### 5.2.2.4 Development Evidence for Sprint Review
 
-En esta sección se presentan los avances realizados durante el Sprint 2, centrado en el desarrollo de los módulos principales de la aplicación web interna de GlassGo.
+This section presents the progress made during Sprint 2, focused on the development of the main modules of the GlassGo internal web application.
 
-El objetivo principal fue implementar funcionalidades claves para la gestión de productos, pedidos, inventario y compras, con el fin de mejorar la eficiencia operativa y la trazabilidad de los recursos dentro de los restaurantes.
+The main objective was to implement key functionalities for product, order, inventory, and purchasing management, in order to improve operational efficiency and resource traceability within restaurants.
 
-Durante este sprint se avanzó en la autenticación de usuarios, el diseño del panel principal y la implementación inicial de tres módulos funcionales clave.
+During this sprint, progress was made in user authentication, main panel design, and initial implementation of three key functional modules.
 
-1\. Web Application (Frontend): La siguiente tabla resume los commits realizados en el repositorio UI-Topic-Frontend, que incluyen la implementación de la gestión de productos, inventario y resumen, con el fin de mejorar la eficiencia operativa y la trazabilidad de los recursos dentro de los administradores de restaurantes y proveedores.
+1\. Web Application (Frontend): The following table summarizes the commits made in the UI-Topic-Frontend repository, which include the implementation of product, inventory, and summary management, in order to improve operational efficiency and resource traceability within restaurant administrators and suppliers.
 
-|  |  |  |  |  |  |
-| :---- | :---- | :---- | :---- | :---- | :---- |
-|  |  |  |  |  |  |
-|  |  |  |  |  |  |
-|  |  |  |  |  |  |
-|  |  |  |  |  |  |
-|  |  |  |  |  |  |
-|  |  |  |  |  |  |
-|  |  |  |  |  |  |
-|  |  |  |  |  |  |
-|  |  |  |  |  |  |
+#### 5.2.2.5 Execution Evidence for Sprint Review
 
-5.2.2.5 Execution Evidence for Sprint Review
+Below is the video of the internal web application frontend. This demonstrates the interaction of authenticated users with the main system modules, including navigation through the sidebar, product management, alert tracking, and inventory control.
 
-A continuación, se presenta el video del frontend de la aplicación web interna. Este demuestra la interacción de los usuarios autenticados con los módulos principales del sistema, incluyendo la navegación por el sidebar, la gestión de productos, el seguimiento de alertas y el control de inventario.
+#### 5.2.2.6 Services Documentation Evidence for Sprint Review
 
-5.2.2.6 Services Documentation Evidence for Sprint Review
+During this Sprint, progress was made in the development of the internal GlassGo frontend, enabling multiple navigable routes for authenticated users (restaurant administrators and suppliers), in a structure based on Vue Router, Domain-Driven Design, and dynamically loaded components. Although REST endpoints have not yet been documented with OpenAPI, the available navigable resources that are part of the system's web services consumption ecosystem are deployed below.
 
-Durante este Sprint se avanzó en el desarrollo del frontend interno de GlassGo, habilitando múltiples rutas navegables para los usuarios autenticados (administradores de restaurante y proveedores), en una estructura basada en Vue Router, Domain-Driven Design y componentes cargados dinámicamente. Aunque aún no se han documentado endpoints REST con OpenAPI, se despliegan a continuación los recursos navegables disponibles, que forman parte del ecosistema de consumo de servicios web del sistema.
+Achievement Description:
 
-Descripción del Logro:
+Completion of the Landing Page and multilanguage implementation.  
+Modular frontend development with specific routes per role (restaurant and supplier).  
+Structure based on Vue Router, DDD, and lazy loading of components.  
+Visual integration with PrimeVue and best practices for separation by contexts.  
+Accessible system routes (Frontend)
 
-Finalización del Landing Page e implementación multilenguaje.  
-Desarrollo modular del frontend con rutas específicas por rol (restaurante y proveedor).  
-Estructura basada en Vue Router, DDD y carga lazy de componentes.  
-Integración visual con PrimeVue y buenas prácticas de separación por contextos.  
-Rutas accesibles del sistema (Frontend)
+#### 5.2.2.7 Software Deployment Evidence for Sprint Review
 
-|  |  |  |  |  |
-| :---- | :---- | :---- | :---- | :---- |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
+#### 5.2.2.8 Team Collaboration Insights during Sprint.
 
-5.2.2.7 Software Deployment Evidence for Sprint Review
+During the sprint, effective collaboration strategies were adopted that allowed for smooth and well-organized project development. The following are the practices applied:
 
-5.2.2.8 Team Collaboration Insights during Sprint.
+Specific branches were created per functionality or section, following the convention feature/\[section-name\]. This facilitated parallel work without conflicts and kept the repository structured.  
+Each member was responsible for the development of one or more frontend sections, distributing the work evenly.  
+Frequent and atomic commits were made, which allowed for detailed tracking of progress and facilitated code review.  
+All functionalities were integrated through pull requests to the develop branch, ensuring quality control through cross-reviews.  
+Communication between team members was constant, using the Discord platform as the main channel for daily coordination, doubt resolution, and technical decision-making.  
+Good version control practices were applied with Git, such as clear commit descriptions, thematic branches, and collaborative review through PRs.  
+The team also focused on code quality, using consistent structures, following coding standards, and ensuring coherence in styles and conventions.
 
-Durante el sprint, se adoptaron estrategias de colaboración efectivas que permitieron un desarrollo fluido y bien organizado del proyecto. A continuación se detallan las prácticas aplicadas:
+### 5.2.3. Sprint 3
 
-Se crearon ramas específicas por funcionalidad o sección, siguiendo la convención feature/\[nombre-de-seccion\]. Esto facilitó un trabajo paralelo sin conflictos y mantuvo el repositorio estructurado.  
-Cada integrante fue responsable del desarrollo de una o más secciones del frontend, distribuyéndose el trabajo de forma equitativa.  
-Se realizaron commits frecuentes y atómicos, lo que permitió un seguimiento detallado del progreso y facilitó la revisión del código.  
-Todas las funcionalidades fueron integradas a través de pull requests hacia la rama develop, garantizando control de calidad mediante revisiones cruzadas.  
-La comunicación entre los miembros del equipo fue constante, utilizando la plataforma Discord como canal principal para coordinación diaria, resolución de dudas y toma de decisiones técnicas.  
-Se aplicaron buenas prácticas de control de versiones con Git, como descripciones claras en los commits, ramas temáticas, y revisión colaborativa mediante PRs.  
-El equipo también se enfocó en la calidad del código, utilizando estructuras consistentes, siguiendo estándares de codificación, y asegurando coherencia en estilos y convenciones.
-
-5.2.3.1. Sprint Planning 3
+#### 5.2.3.1. Sprint Planning 3
 
 | Sprint \# | Sprint 3 |
 | ----- | ----- |
 | Sprint Planning Background |  |
 | Date | 2025-11-12 |
 | Time | 08:00 pm (GMT-5) |
-| Location | Modalidad remota mediante la plataforma Discord |
+| Location | Remote mode via Discord platform |
 | Prepared By | Howard Robles Guillermo Arturo |
 | Attendees (to planning meeting) |  |
-| Sprint 2 Review Summary | Durante el Sprint 2 se logró una mejora significativa en la experiencia de inicio para nuevos usuarios, al rediseñar e integrar la landing page con el frontend principal de la aplicación web GlassGo. Se avanzó considerablemente en el desarrollo del módulo frontend, incorporando funcionalidades clave como la gestión de inventario, notificaciones, analíticas y suscripciones para los perfiles de administradores y proveedores. El equipo demostró una sólida coordinación y colaboración en la implementación de estos componentes, respetando los lineamientos definidos en la planificación. Como oportunidad de mejora, se identificó la necesidad de fortalecer aún más la alineación del equipo con los objetivos priorizados del sprint, para asegurar una entrega aún más consistente en próximos ciclos. |
-| Sprint 2 Retrospective Summary | Durante el Sprint 2, el equipo mantuvo una comunicación fluida y una coordinación efectiva, lo cual permitió avanzar de forma sólida en varios módulos clave del frontend. La integración continua, las revisiones cruzadas de código y la claridad en las responsabilidades asignadas fueron aspectos destacados que facilitaron un buen ritmo de trabajo. Como oportunidad de mejora, se identificó la necesidad de reforzar el seguimiento y cumplimiento de los objetivos priorizados, así como de mejorar la estimación de tiempos en algunos flujos más complejos. También se mencionó la importancia de alinear aún más los esfuerzos individuales con los objetivos de entrega colectivos. |
+| Sprint 2 Review Summary | During Sprint 2, a significant improvement was achieved in the startup experience for new users, by redesigning and integrating the landing page with the main GlassGo web application frontend. Considerable progress was made in frontend module development, incorporating key functionalities such as inventory management, notifications, analytics, and subscriptions for administrator and supplier profiles. The team demonstrated solid coordination and collaboration in implementing these components, respecting the guidelines defined in the planning. As an opportunity for improvement, the need to further strengthen team alignment with prioritized sprint objectives was identified, to ensure even more consistent delivery in future cycles. |
+| Sprint 2 Retrospective Summary | During Sprint 2, the team maintained fluid communication and effective coordination, which allowed for solid progress in several key frontend modules. Continuous integration, cross-code reviews, and clarity in assigned responsibilities were highlighted aspects that facilitated a good work pace. As an opportunity for improvement, the need to reinforce monitoring and compliance with prioritized objectives was identified, as well as to improve time estimation in some more complex flows. The importance of further aligning individual efforts with collective delivery objectives was also mentioned. |
 | Sprint Goal & User Stories |  |
-| Sprint 3 Goal | Nuestro enfoque está en presentar de forma efectiva nuestra propuesta de valor a los nuevos visitantes. También, habilitar la gestión de recetas y pedidos, así como mejorar la sección de ventas, para los administradores de restaurantes; incorporar la gestión de órdenes para los proveedores; y, en general, permitir a ambos segmentos realizar el pago de su suscripción. Asimismo, proporcionar, mediante el API de la plataforma, puntos de accesos a los desarrolladores frontend para que implementen funcionalidades relacionadas con gestión de pedidos, ventas, recetas, inventario, perfil y comentarios. Creemos que esto ofrece a los visitantes mayor confianza hacia el equipo de trabajo y les permite conocer mejor la propuesta de valor. Del mismo modo, mejora los flujos de usuario, al permitir la realización de pagos de suscripción; agiliza las operaciones para los administradores de restaurantes, al facilitar la creación y gestión de ventas, la configuración de recetas y la gestión de pedidos; optimiza el tiempo operativo para los proveedores, al permitir el seguimiento de pedidos. Además, permite a los desarrolladores frontend implementar funcionalidades esenciales de forma más eficiente, incluyendo pedidos, ventas, recetas, inventario, perfil y comentarios. |
+| Sprint 3 Goal | Our focus is on effectively presenting our value proposition to new visitors. Also, enabling recipe and order management, as well as improving the sales section, for restaurant administrators; incorporating order management for suppliers; and, in general, allowing both segments to pay for their subscription. Likewise, providing, through the platform API, access points for frontend developers to implement functionalities related to order management, sales, recipes, inventory, profile, and comments. We believe this offers visitors greater confidence in the work team and allows them to better understand the value proposition. Similarly, it improves user flows by allowing subscription payment processing; streamlines operations for restaurant administrators by facilitating sales creation and management, recipe configuration, and order management; optimizes operational time for suppliers by allowing order tracking. Additionally, it allows frontend developers to implement essential functionalities more efficiently, including orders, sales, recipes, inventory, profile, and comments. |
 | Sprint 3 Velocity | 38 |
 | Sum of Story Points | 35 |
 
-5.2.3.2. Aspect Leaders and Collaborators.
+##### 5.2.3.2. Aspect Leaders and Collaborators.
 
-Durante el Sprint 3, se ha definido el desarrollo e integración de los módulos principales del frontend de la aplicación web interna GlassGo y del backend, abarcando funcionalidades clave como la gestión de productos, pedidos, inventario y compras. Estas implementaciones buscan optimizar los procesos internos y mejorar la trazabilidad del inventario, brindando mayor eficiencia a los administradores de restaurantes y su personal.
+During Sprint 3, the development and integration of the main modules of the GlassGo internal web application frontend and backend has been defined, covering key functionalities such as product, order, inventory, and purchasing management. These implementations seek to optimize internal processes and improve inventory traceability, providing greater efficiency to restaurant administrators and their staff.
 
-Con el fin de mantener una coordinación efectiva y una comunicación fluida entre los integrantes del equipo, se estructuró la matriz de liderazgo y colaboración (LACX), donde se asignó un líder (L) encargado de cada funcionalidad y colaboradores (C) que brindan apoyo en su implementación.
+In order to maintain effective coordination and fluid communication between team members, the leadership and collaboration matrix (LACX) was structured, where a leader (L) in charge of each functionality and collaborators (C) who provide support in its implementation were assigned.
 
 | Team Member (Last Name, First Name) | GitHub Username | Profile & References  | Paymets & Subscriptions  | Loyalty & Engagerment  | Service Planning  | System Administration  |
 | ----- | ----- | :---- | :---- | :---- | :---- | :---- |
@@ -349,44 +329,305 @@ Con el fin de mantener una coordinación efectiva y una comunicación fluida ent
 | Vivar Cesar David Ignacio | DarkBeider20 | C | C | C | C | L |
 | Guillen Giraldo Mike Dylan | FulLHous | C | C | C | L | C |
 
-5.2.3.3 Sprint Backlog 3  
-El objetivo principal de este Sprint es consolidar una experiencia funcional completa para los distintos perfiles de usuario dentro de la plataforma GlassGo. Se prioriza la mejora de la landing page para comunicar eficazmente la propuesta de valor a nuevos visitantes, así como la habilitación de módulos clave como la gestión de ventas, recetas y pedidos para los administradores de restaurantes, y la gestión de órdenes para los proveedores.
+##### 5.2.3.3 Sprint Backlog 3  
+The main objective of this Sprint is to consolidate a complete functional experience for the different user profiles within the GlassGo platform. Priority is given to improving the landing page to effectively communicate the value proposition to new visitors, as well as enabling key modules such as sales, recipe, and order management for restaurant administrators, and order management for suppliers.
 
-Asimismo, se trabajará en la integración del flujo de pagos por suscripción y en la provisión de APIs REST documentadas, permitiendo al equipo frontend consumir endpoints de forma eficiente para construir las vistas requeridas. Este enfoque integral busca mejorar la usabilidad, operatividad y cohesión entre el frontend y backend, facilitando la validación funcional de la plataforma y avanzando hacia su adopción por parte de los usuarios finales.
-
-![][image4]
+Likewise, work will be done on integrating the subscription payment flow and providing documented REST APIs, allowing the frontend team to efficiently consume endpoints to build the required views. This comprehensive approach seeks to improve usability, operability, and cohesion between frontend and backend, facilitating functional validation of the platform and advancing towards its adoption by end users.
 
 Trello: [https://trello.com/invite/b/68ffe30942dcb480aedf84d2/ATTI14ff021bc259e9ac94812c42ae4680e22318D9BD/sprint-backlog-3](https://trello.com/invite/b/68ffe30942dcb480aedf84d2/ATTI14ff021bc259e9ac94812c42ae4680e22318D9BD/sprint-backlog-3)
 
-5.2.3.4 Development Evidence for Sprint Review
+#### 5.2.3.4 Development Evidence for Sprint Review
 
 Web Services (Backend):
 
-En el backend de la plataforma se realizaron importantes avances enfocados en la gestión de recetas, suministros y lotes. Se implementaron las operaciones CRUD para recetas y el manejo detallado de sus insumos, además de validar y reforzar la integridad de datos mediante objetos de valor específicos. También se añadieron configuraciones para ambientes de desarrollo y producción, y se mejoraron las definiciones de columnas en la base de datos para optimizar el manejo de fechas, precios y cantidades. Se desarrollaron servicios y controladores que facilitan la interacción con los recursos, permitiendo una gestión eficiente y segura de los datos relacionados con el inventario y las operaciones del sistema.
+In the platform backend, important advances were made focused on order, supply, and batch management. Detailed handling for supplies was implemented, in addition to validating and reinforcing data integrity through specific value objects. Configurations for development and production environments were also added, and database column definitions were improved to optimize date, price, and quantity handling. Services and controllers were developed that facilitate interaction with resources, allowing efficient and secure management of data related to inventory and system operations.
 
-5.2.3.5. Execution Evidence for Sprint Review  
-A continuación, se muestra un video con los avances realizados durante el Sprint 3, en el cual se trabajó en la landing page, así como en el desarrollo del frontend y backend.
+#### 5.2.3.5. Execution Evidence for Sprint Review  
+Below is a video showing the progress made during Sprint 3, in which work was done on the landing page, as well as frontend and backend development.
 
-5.2.3.6. Services Documentation Evidence for Sprint Review.
+https://youtu.be/fgSdkh02vZo
 
-Durante este sprint se completó al 100% el desarrollo del Landing Page del sistema, consolidando su estructura visual, diseño responsivo, traducción multilenguaje y funcionalidades de navegación. Asimismo, se avanzó de forma significativa en la construcción del frontend del sistema, incluyendo componentes claves como el menú lateral, el dashboard inicial, el módulo de gestión de insumos y la arquitectura modular en Angular bajo DDD (Domain-Driven Design).
+#### 5.2.3.6. Services Documentation Evidence for Sprint Review.
 
-Aunque no se desplegaron endpoints REST aún, se documentan a continuación los recursos y avances relevantes del sprint, junto con evidencia de despliegue y repositorio de código.
+During this sprint, the development of the system Landing Page was completed 100%, consolidating its visual structure, responsive design, multilanguage translation, and navigation functionalities. Likewise, significant progress was made in the construction of the system frontend, including key components such as the side menu, initial dashboard, supplies management module, and modular architecture in Angular under DDD (Domain-Driven Design).
 
-Descripción del Logro:
+Although REST endpoints were not deployed yet, the relevant resources and advances of the sprint are documented below, along with deployment evidence and code repository.
 
-Finalización del Landing Page (100%).  
-Implementación completa de diseño responsivo, i18n, y redirecciones funcionales.  
-Estructura de frontend modular iniciada (menu sidebar, dashboard y componentes base).  
-Aplicación de buenas prácticas de organización por bounded contexts en Angular.  
-Integración visual basada en Vue con VuePrime y Primeflex.
+Achievement Description:
 
-5.2.3.7. Software Deployment Evidence for Sprint Review
+Completion of Landing Page (100%).  
+Complete implementation of responsive design, i18n, and functional redirects.  
+Modular frontend structure initiated (sidebar menu, dashboard, and base components).  
+Application of good organizational practices by bounded contexts in Angular.  
+Visual integration based on Vue with VuePrime and Primeflex.
 
-Durante este sprint, se realizaron actividades de despliegue y pruebas de los servicios desarrollados, asegurando que las funcionalidades del sistema estén operativas y accesibles para los usuarios finales. A continuación, se detallan los pasos realizados:
+#### 5.2.3.7. Software Deployment Evidence for Sprint Review
 
-5.2.3.8. Team Collaboration Insights during Sprint
+During this sprint, deployment and testing activities were carried out for the developed services, ensuring that the system functionalities are operational and accessible to end users. The steps taken are detailed below:
 
-Seguimos usando ramas específicas para cada sección o funcionalidad (feature/\[nombre-de-seccion\]), permitiendo un trabajo paralelo organizado.
+#### 5.2.3.8. Team Collaboration Insights during Sprint
 
-Cada miembro del equipo asumió la responsabilidad de desarrollar una o más boundeds del Backend. Se realizaron commits frecuentes, registrando avances de manera continua y detallada. Las funcionalidades desarrolladas se integraron mediante Pull Requests hacia la rama develop. Se mantuvo una comunicación constante mediante la plataforma Discord para coordinar avances y resolver dudas en tiempo real. Se aplicaron buenas prácticas de programación, control de versiones y colaboración en equipo.
+We continue using specific branches for each section or functionality (feature/\[section-name\]), allowing organized parallel work.
+
+Each team member assumed responsibility for developing one or more Backend bounded contexts. Frequent commits were made, recording progress continuously and in detail. The developed functionalities were integrated through Pull Requests to the develop branch. Constant communication was maintained through the Discord platform to coordinate progress and resolve doubts in real time. Good programming practices, version control, and team collaboration were applied.
+
+### 5.2.4. Sprint 4
+
+#### 5.2.4.1. Sprint Planning 4\.
+
+| Sprint \#                       | Sprint 3                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
+|---------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Sprint Planning Background      |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
+| Date                            | 2025-11-29                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
+| Time                            | 06:00 pm (GMT-5)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
+| Location                        | Modalidad remota mediante la plataforma Discord                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
+| Prepared By                     | Howard Robles, Guillermo Arturo                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
+| Attendees (to planning meeting) | .Ever Carlos Lavado / Gerardo Palacín Lazo / Guillermo Arturo Howard / Abraam Acosta Elera / David Vivar Cesar / Myke Guillen Giraldo                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
+| Sprint 3 Review Summary         | Durante el Sprint 3 se logró integrar las funcionalidades esenciales para la gestión de pedidos y ventas de licores, así como la visualización de los pedidos y perfil. Se implementaron flujos completos en frontend y backend para los administradores de dueños de neogios y proveedores. El equipo demostró gran compromiso y coordinación, permitiendo avances notables en la implementación de casos de uso claves. Sin embargo, se identificaron oportunidades de mejora en la automatización de pruebas y en la gestión de errores complejos.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
+| Sprint 3 Retrospective Summary  | El equipo mantuvo una comunicación activa y resolvió bloqueos técnicos con rapidez, destacando el soporte mutuo entre miembros. Se identificó que algunos endpoints requerían mejoras en validación y documentación, lo que motivó a priorizar en este nuevo sprint las tareas técnicas orientadas a robustecer los servicios RESTful, implementar nuevas funcionalidades de cuenta (generación de tablas, eliminación, cambio de contraseña) y finalizar la lógica de notificaciones y feedback. Como mejora clave se acordó dividir mejor las tareas de testing y codificación para asegurar calidad sin comprometer la velocidad de entrega. |
+| Sprint Goal & User Stories      |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
+| Sprint 4 Goal                   | Our focus is on improving the experience of business owners and liquor suppliers, through the complete implementation of key profile functionalities, in addition to finalizing critical flows such as sales management and supplies management. In parallel, providing, through the platform API, access points for frontend developers to implement functionalities related to profiles, supplies management, validated login and registration. We believe this offers a more secure user flow by protecting platform access; streamlines operations for business owners by facilitating supplies creation and management; optimizes operational time for suppliers by allowing tracking of their available supplies.              |
+| Sprint 4 Velocity               | 48                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
+| Sum of Story Points             | 46                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
+
+#### 5.2.4.2. Aspect Leaders and Collaborators.
+
+During Sprint 4, the development and integration of the main modules of the GlassGo internal web application frontend and backend has been defined, covering key functionalities such as product, order, inventory, and purchasing management. These implementations seek to optimize internal processes and improve inventory traceability, providing greater efficiency to restaurant administrators and their staff.
+
+In order to maintain effective coordination and fluid communication between team members, the leadership and collaboration matrix (LACX) was structured, where a leader (L) in charge of each functionality and collaborators (C) who provide support in its implementation were assigned.
+
+| Team Member (Last Name, First Name) | GitHub Username | Profile & References  | Paymets & Subscriptions  | Loyalty & Engagerment  | Service Planning  | System Administration  |
+| ----- | ----- | :---- | :---- | :---- | :---- | :---- |
+| Carlos Lavado Ever Giusephi | sephi-dev05 | C | L | L | C | C |
+| Palacín Lazo Gerardo Valentín  | GeraldP03 | C | C | C | C | C |
+| Howard Robles Guillermo Arturo | GuillermoPromac | C | C | C | C | C |
+| Acosta Elera Abraham Bernabe | abraam16 | L | C | C | C | C |
+| Vivar Cesar David Ignacio | DarkBeider20 | C | C | C | C | L |
+| Guillen Giraldo Mike Dylan | FulLHous | C | C | C | L | C |
+
+#### 5.2.4.3. Sprint Backlog 4\.
+
+The main objective of this Sprint is to consolidate a complete functional experience for the different user profiles within the GlassGo platform. Priority is given to improving the landing page to effectively communicate the value proposition to new visitors, as well as enabling key modules such as sales, recipe, and order management for restaurant administrators, and order management for suppliers.
+
+Likewise, work will be done on integrating the subscription payment flow and providing documented REST APIs, allowing the frontend team to efficiently consume endpoints to build the required views. This comprehensive approach seeks to improve usability, operability, and cohesion between frontend and backend, facilitating functional validation of the platform and advancing towards its adoption by end users.
+
+Trello: [https://trello.com/invite/b/68ffe30942dcb480aedf84d2/ATTI14ff021bc259e9ac94812c42ae4680e22318D9BD/sprint-backlog-3](https://trello.com/invite/b/68ffe30942dcb480aedf84d2/ATTI14ff021bc259e9ac94812c42ae4680e22318D9BD/sprint-backlog-3)
+
+#### 5.2.4.4. Development Evidence for Sprint Review.
+
+Web Services (Backend):
+
+In the platform backend, important advances were made focused on order, supply, and batch management. Detailed handling for supplies was implemented, in addition to validating and reinforcing data integrity through specific value objects. Configurations for development and production environments were also added, and database column definitions were improved to optimize date, price, and quantity handling. Services and controllers were developed that facilitate interaction with resources, allowing efficient and secure management of data related to inventory and system operations.
+
+#### 5.2.4.5. Execution Evidence for Sprint Review.
+
+Below is a video showing the progress made during Sprint 3, in which work was done on the landing page, as well as frontend and backend development.
+
+https://youtu.be/fgSdkh02vZo
+
+#### 5.2.4.6. Services Documentation Evidence for Sprint Review.
+
+During this sprint, the development of the system Landing Page was completed 100%, consolidating its visual structure, responsive design, multilanguage translation, and navigation functionalities. Likewise, significant progress was made in the construction of the system frontend, including key components such as the side menu, initial dashboard, supplies management module, and modular architecture in Angular under DDD (Domain-Driven Design).
+
+Although REST endpoints were not deployed yet, the relevant resources and advances of the sprint are documented below, along with deployment evidence and code repository.
+
+Achievement Description:
+
+Completion of Landing Page (100%).  
+Complete implementation of responsive design, i18n, and functional redirects.  
+Modular frontend structure initiated (sidebar menu, dashboard, and base components).  
+Application of good organizational practices by bounded contexts in Angular.  
+Visual integration based on Vue with VuePrime and Primeflex.
+
+#### 5.2.4.7. Software Deployment Evidence for Sprint Review.
+
+Web Services (Backend):
+
+En el backend de la plataforma se realizaron importantes avances enfocados en la gestión de pedios, suministros y lotes. Se implementaron un manejo detallado para los insumos, además de validar y reforzar la integridad de datos mediante objetos de valor específicos. También se añadieron configuraciones para ambientes de desarrollo y producción, y se mejoraron las definiciones de columnas en la base de datos para optimizar el manejo de fechas, precios y cantidades. Se desarrollaron servicios y controladores que facilitan la interacción con los recursos, permitiendo una gestión eficiente y segura de los datos relacionados con el inventario y las operaciones del sistema.
+
+#### 5.2.4.8. Team Collaboration Insights during Sprint.
+
+We continue using specific branches for each section or functionality (feature/\[section-name\]), allowing organized parallel work.
+
+Each team member assumed responsibility for developing one or more Backend bounded contexts. Frequent commits were made, recording progress continuously and in detail. The developed functionalities were integrated through Pull Requests to the develop branch. Constant communication was maintained through the Discord platform to coordinate progress and resolve doubts in real time. Good programming practices, version control, and team collaboration were applied.
+
+## 5.3. Validation Interviews.
+
+### 5.3.1. Diseño de Entrevistas.
+
+To ensure that the application meets the real needs of end users, a validation interview process was designed focused on two key target segments: **business owners** and **liquor suppliers**. Each validation session will include interaction with the **Landing Page** and the **web application** (desktop and mobile), following specific user flows that cover critical system functionalities.
+
+**General Objective**
+
+To validate the usability, comprehension, and usefulness of the system's functionalities through controlled interaction sessions, applying heuristic evaluation principles and collecting qualitative observations.
+
+**Segment 1: Liquor Suppliers**
+
+Elements to validate:
+
+- Purchase order creation.
+- Order tracking.
+- Supplies inventory management.
+- Product table creation.
+- History recording.
+
+User Flows to evaluate:
+
+- **Desktop & Mobile User Flow 1:** Registration and supplies management.
+- **Desktop & Mobile User Flow 4:** Product Overview.
+- **Desktop & Mobile User Flow 5:** Order Viewing.
+- **Desktop & Mobile User Flow 6:** Order Tracking.
+- **Desktop & Mobile User Flow 7:** Supplier Claims.
+
+Activities during the session:
+
+1. Explore the Landing Page and describe their understanding of the product.
+2. Simulate the registration process.
+3. Log into the system and register products in their catalog.
+4. Review received orders.
+5. Comment on the usefulness of the order interface and feedback.
+
+**Validation Tools and Resources**
+
+- **Heuristic Evaluation Format:** Nielsen's 10 heuristic principles will be applied in each session.
+- **Observation instrument:** Checklist + open notes section.
+- **Screen and voice recording:** with prior authorization, for later analysis.
+
+**Segment 3: Business Owners**
+
+Elements to validate:
+
+- Purchase order creation.
+- Order tracking.
+- Supplies inventory management.
+- Product table creation.
+- History recording.
+
+User Flows to evaluate:
+
+- **Desktop & Mobile User Flow 1:** Registration and supplies management.
+- **Desktop & Mobile User Flow 4:** Product Overview.
+- **Desktop & Mobile User Flow 5:** Order Viewing.
+- **Desktop & Mobile User Flow 6:** Order Tracking.
+- **Desktop & Mobile User Flow 7:** Supplier Claims.
+- 
+Activities during the session:
+
+1. Explore the Landing Page and describe their understanding of the product.
+2. Simulate the registration process.
+3. Log into the system and register products in their catalog.
+4. Review received orders.
+5. Comment on the usefulness of the order interface and feedback.
+
+### 5.3.2. Registro de Entrevistas.
+
+Segment 3: Business Owners
+
+**Interview 1:**
+
+* **Name:** Alejandro Rodriguez
+* **Age:** 37 years old
+* **District:** Lima Metropolitana
+* **Timing:** (00:00- 12:39 min)
+
+**![cap5](../src/assets/chapter5/Entrevista1.1.png)**
+
+View interview: https://tinyurl.com/3vn4bcyw
+
+**Summary:**
+
+Alejandro Rodríguez, 37 years old, is the owner of a medium-sized bar located in Lima, with several years of operation. His business targets a young and young adult audience. Alejandro projects an organized, analytical personality with an interest in maintaining operational control, although he delegates part of the management to his team. He shows a predisposition to using technology, although he prefers to maintain direct supervision of administrative processes.
+
+### 5.3.3. Evaluación según heurísticas.
+
+**Major:** Software Engineering
+**Course:** Open Source Applications Development
+**Section:** 7327
+**Professor:** Angel Velasquez
+**Auditor:** Guillermo Arturo Howard Robles
+**Client(s):** Alejandro Rodriguez
+
+**Site or App to evaluate:** GlassGo
+
+**Tasks evaluated:**
+
+1. Purchase order creation
+2. Order tracking
+3. Supplies inventory management
+4. Product table creation
+5. History recording
+
+---
+
+**SEVERITY SCALE:**
+
+Errors will be scored taking into account the following severity scale
+
+<table>
+    <tr>
+        <td>Level</td>
+        <td>Description</td>
+    </tr>
+    <tr>
+        <td>1</td>
+        <td>Superficial problem: can be easily overcome by the user or occurs very infrequently. It does not need to be fixed unless time is available.</td>
+    </tr>
+    <tr>
+        <td>2</td>
+        <td>Minor problem: may occur a bit more frequently or is somewhat more difficult for the user to overcome. It should be assigned a low priority to be resolved for the next release.</td>
+    </tr>
+    <tr>
+        <td>3</td>
+        <td>Major problem: occurs frequently or users are unable to resolve it. It is important that they be corrected and should be assigned a high priority.</td>
+    </tr>
+    <tr>
+        <td>4</td>
+        <td>Very serious problem: a high-impact error that prevents the user from continuing to use the tool. It is imperative that it be corrected before launch.</td>
+    </tr>
+</table>
+
+---
+
+**SUMMARY TABLE**
+
+| #  | Problem                                                | Severity Scale | Heuristic / Principle Violated |
+| -- |--------------------------------------------------------|----------------|--------------------------------|
+| 1  | No existen filtros para los productos en el inventario | 3              | Usabilidad: Flexibilidad y eficiencia de uso                  |
+| 2  | Flujo de creacion de reclamos mas concistente          | 3              | Usabilidad: Libertad y control del usuario                  |
+
+---
+
+**PROBLEM DESCRIPTION**
+
+**PROBLEM #1: No existen filtros para los productos en el inventario**
+**Severity:** 3
+**Violated Heuristic:** Usabilidad - Flexibilidad y eficiencia de uso
+**Problem:** Actualmente, el sistema no ofrece opciones de filtrado para los productos en el inventario, lo que dificulta la localización rápida de artículos específicos, especialmente cuando el inventario es extenso.
+**Evidence:** EL usuario indicó: "Para encontrar un producto específico, tengo que desplazarme por toda la lista, lo que consume mucho tiempo y es frustrante."
+**Recommendation:** Implementar funcionalidades de filtrado y búsqueda en la sección de inventario, permitiendo a los usuarios filtrar productos por categorías, nombres, fechas de ingreso, entre otros criterios relevantes. Esto mejorará significativamente la eficiencia en la gestión del inventario.
+
+---
+
+**PROBLEM #2: More consistent claims creation flow**
+**Severity:** 3
+**Violated Heuristic:** Usability - User freedom and control
+**Problem:** The current flow for creating claims is not intuitive or consistent, which generates confusion among users and makes it difficult to submit claims effectively.
+**Evidence:** The user indicated: "To create a claim for a specific order, it would be better to add an option to generate the claim."
+**Recommendation:** Redesign the claims creation flow to be more intuitive and consistent. This could include adding a direct button in the orders section to initiate a claim, as well as providing clear instructions and guided steps during the process.
+
+---
+
+## 5.4. Video About-the-Product.
+
+The following video, "About the Product," showcases GlassGo, a technology solution developed to digitize and automate inventory and order management for bars. This video is primarily aimed at visitors to the landing page who want to learn about the business model and key features of the platform, as well as potential users of the applications interested in performing tasks related to the processes supported by the solution.
+
+The video clearly and dynamically communicates the product's purpose, demonstrating how GlassGo helps reduce waste, improve operational efficiency, and strengthen the relationship between business owners and liquor suppliers. It uses a tone consistent with the product's visual and communication style, combining narration, usage demonstrations, and real-world scenarios.
+
+As part of the product validation, a testimonial from a business owner interviewed during the discovery phase is also included.
+
+Below, you will find a screenshot of the video, along with links to the published version on Microsoft Stream and YouTube.
+
+
+https://youtu.be/fgSdkh02vZo
+
+https://tinyurl.com/2nj6czbv
