@@ -1,2 +1,0 @@
-# **Content**
-## **Table of contents**

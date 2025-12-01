@@ -1,58 +1,236 @@
-# RPG-Report
-This repository contains the official project report for **GlassGo**, developed by the **RPG Startup** as part of the course *1ASI0730 – Web Applications* at UPC.
-s
-## Repository Structures
-- **docs/** → Report divided into sections and chapters (Markdown).  
-  - Includes cover, version history, collaboration insights, student outcome, chapters I–V, conclusions, bibliography and annexes.  
-- **src/images/chapterN** → Screenshots, mockups, figures, organized by chapter.  
-- **src/diagrams/** → Technical diagrams (UML, C4 Model, EventStorming).  
-- **versions/** → Official exported reports in PDF (TB1, TP1, TB2, TF1).  
-- **README.md** → Repository overview (this file).  
-- **CONTRIBUTING.md** → Contribution guidelines for team members.  
-- **.gitignore** → Ignore rules for temporary files.  
-- **LICENSE** → Project license.  
+<img src="src/assets/cover/upc-logo.png" alt="Logo UPC" style="width: 150px; height: auto;" />
 
-## Workflow
-We use **GitFlow branching model**:
-- **main** → Stable releases only (deliverables TB1, TP1, TB2, TF1).  
-- **develop** → Integration branch for ongoing work.  
-- **feature/** → Feature branches for chapters or subsections.  
-- **release/** → Branches for preparing official submissions.  
+**Universidad Peruana de Ciencias Aplicadas**
 
-## Commit Convention
-We follow **Conventional Commits**:
-- `feat:` → New content or major addition.  
-- `docs:` → Documentation updates.  
-- `fix:` → Corrections or bug fixes.  
-- `chore:` → Maintenance or reorganization.  
+**Facultad:** _Ingeniería_
 
-## Versioning
-Releases follow **Semantic Versioning**:
-- `v1.0.0` → TB1  
-- `v1.1.0` → TP1  
-- `v1.2.0` → TB2  
-- `v2.0.0` → TF1  
+**Carrera:** _Ingeniería de Software_
 
-## Documentation
-- [Cover](docs/cover.md)  
-- [Version History](docs/versions.md)  
-- [Collaboration Insights](docs/collaboration.md)  
-- [Table of Contents](docs/toc.md)  
-- [Student Outcome](docs/student-outcome.md)  
-- [Chapter I – Introduction](docs/01-introduction.md)  
-- [Chapter II – Requirements Elicitation & Analysis](docs/02-requirements-elicitation-analysis.md)  
-- [Chapter III – Requirements Specification](docs/03-requirements-specification.md)  
-- [Chapter IV – Product Design](docs/04-product-design.md)  
-- [Chapter V – Product Implementation, Validation & Deployment](docs/05-product-implementation-validation-deployment.md)  
-- [Conclusions](docs/conclusions.md)  
-- [Bibliography](docs/bibliography.md)  
-- [Annexes](docs/annexes.md)  
+**Ciclo:** _202520_
 
-## Authors
-Team **RPG Startup**  
-- Ever Giusephi Carlos Lavado - u202224867
-- Gerardo Valentín Palacín Lazo - u20211c201
-- Guillermo Arturo Howard Robles - u202222275
-- Abraam Bernabe Acosta Elera - u202219199
-- David Ignacio Vivar Cesar - u202414424
-- Mike Dylan Guillen Giraldo - u202211881
+**Codigo del curso:** _1ASI0730_
+
+**Nombre del curso:** _Aplicaciones Web_
+
+**NRC:** _7469_
+
+**DOCENTE:** Angel Augusto Velasquez Nuñez
+
+**Informe de Trabajo Final**
+
+## Nombre del Startup
+
+**Nombre:** _RPG_
+
+## Nombre del Producto
+
+**Producto:** _GlassGo_
+
+## Relacion de integrantes
+
+| Código     | Apellidos | Nombres |
+|:-----------| :---- | :---- |
+| U202222275 | Howard Robles | Guillermo Arturo |
+| U202414424 | Vivar Cesar | David Ignacio |
+| U202211881 | Guillen Giraldo | Myke Dylan |
+| U202224867 | Lavado Quispe | Ever Giusephi |
+| U202219199 | Acosta Elera | Abraam Bernabe |
+| U20211C201 | Palacín Lazo | Gerardo Valentin |
+
+**Mes y Año**  
+_Diciembre 2025_
+
+---
+
+# Registro de Versiones del Informe
+
+<table style="width:100%; border-collapse: collapse;">
+  <!-- BLOCK 1 -->
+  <tr>
+    <th style="text-align:center;">Version</th>
+    <th style="text-align:center;">Date</th>
+    <th style="text-align:center;">Author</th>
+    <th style="text-align:center;">Description</th>
+  </tr>
+  <tr>
+    <td style="text-align:center;">1.1.0</td>
+    <td style="text-align:center;">18/09/2025</td>
+    <td style="text-align:center;">Ever Giusephi Carlos Lavado</td>
+    <td style="text-align:justify;">Development of section 4.7 and contribution to section 1.3 (Target Segments).</td>
+  </tr>
+  <tr>
+    <td style="text-align:center;">1.1.0</td>
+    <td style="text-align:center;">18/09/2025</td>
+    <td style="text-align:center;">Gerardo Valentín Palacín Lazo</td>
+    <td style="text-align:justify;">Development from section 2.2.2 to 2.3.1. Contribution to Chapter 4 from 4.1 to 4.2.5.</td>
+  </tr>
+  <tr>
+    <td style="text-align:center;">1.1.0</td>
+    <td style="text-align:center;">18/09/2025</td>
+    <td style="text-align:center;">Guillermo Arturo Howard Robles</td>
+    <td style="text-align:justify;">Development of sections 2.1, 2.2, and contributions to Chapter IV.</td>
+  </tr>
+  <tr>
+    <td style="text-align:center;">1.1.0</td>
+    <td style="text-align:center;">18/09/2025</td>
+    <td style="text-align:center;">Abraam Bernabe Acosta Elera</td>
+    <td style="text-align:justify;">Development of Chapter 3 and landing page.</td>
+  </tr>
+  <tr>
+    <td style="text-align:center;">1.1.0</td>
+    <td style="text-align:center;">18/09/2025</td>
+    <td style="text-align:center;">David Ignacio Vivar Cesar</td>
+    <td style="text-align:justify;">Development of sections 2.2.2, 2.3, and completion of Chapter 3.</td>
+  </tr>
+  <tr>
+    <td style="text-align:center;">1.1.0</td>
+    <td style="text-align:center;">18/09/2025</td>
+    <td style="text-align:center;">Mike Dylan Guillen Giraldo</td>
+    <td style="text-align:justify;">Development of sections 4.3 to 4.6 (website UX/UI design) and contributions to sections 1.1 to 1.2.2.</td>
+  </tr>
+  <!-- BLOCK 2 -->
+  <tr>
+    <td style="text-align:center;">2.0.0</td>
+    <td style="text-align:center;">09/10/2025</td>
+    <td style="text-align:center;">Ever Giusephi Carlos Lavado</td>
+    <td style="text-align:justify;">Improvements to sections 4.7, 4.8, 4.9 and section 1.3 based on feedback.</td>
+  </tr>
+  <tr>
+    <td style="text-align:center;">2.0.0</td>
+    <td style="text-align:center;">09/10/2025</td>
+    <td style="text-align:center;">Gerardo Valentín Palacín Lazo</td>
+    <td style="text-align:justify;">Improvements to previously developed sections and division of the “Service Execution & Monitoring” bounded context.</td>
+  </tr>
+  <tr>
+    <td style="text-align:center;">2.0.0</td>
+    <td style="text-align:center;">09/10/2025</td>
+    <td style="text-align:center;">Guillermo Arturo Howard Robles</td>
+    <td style="text-align:justify;">Development of interview sections, 3.2 empathy mapping, and corrections in section 2.3.</td>
+  </tr>
+  <tr>
+    <td style="text-align:center;">2.0.0</td>
+    <td style="text-align:center;">09/10/2025</td>
+    <td style="text-align:center;">Abraam Bernabe Acosta Elera</td>
+    <td style="text-align:justify;">Development of two bounded contexts and corrections in the report.</td>
+  </tr>
+  <tr>
+    <td style="text-align:center;">2.0.0</td>
+    <td style="text-align:center;">09/10/2025</td>
+    <td style="text-align:center;">David Ignacio Vivar Cesar</td>
+    <td style="text-align:justify;">Corrections in Chapters 2 and 3.</td>
+  </tr>
+  <tr>
+    <td style="text-align:center;">2.0.0</td>
+    <td style="text-align:center;">09/10/2025</td>
+    <td style="text-align:center;">Mike Dylan Guillen Giraldo</td>
+    <td style="text-align:justify;">Update of sections in Chapters 1 and 4.</td>
+  </tr>
+  <!-- BLOCK 3 -->
+  <tr>
+    <td style="text-align:center;">3.0.0</td>
+    <td style="text-align:center;">13/11/2025</td>
+    <td style="text-align:center;">Ever Giusephi Carlos Lavado</td>
+    <td style="text-align:justify;">Development of two backend bounded contexts: Payments and Loyalty.</td>
+  </tr>
+  <tr>
+    <td style="text-align:center;">3.0.0</td>
+    <td style="text-align:center;">13/11/2025</td>
+    <td style="text-align:center;">Gerardo Valentín Palacín Lazo</td>
+    <td style="text-align:justify;">Development of the Service Execution & Monitoring bounded context for the backend.</td>
+  </tr>
+  <tr>
+    <td style="text-align:center;">3.0.0</td>
+    <td style="text-align:center;">13/11/2025</td>
+    <td style="text-align:center;">Guillermo Arturo Howard Robles</td>
+    <td style="text-align:justify;">Development of the Dashboard & Analytics bounded context in the backend.</td>
+  </tr>
+  <tr>
+    <td style="text-align:center;">3.0.0</td>
+    <td style="text-align:center;">13/11/2025</td>
+    <td style="text-align:center;">Abraam Bernabe Acosta Elera</td>
+    <td style="text-align:justify;">Development of two backend bounded contexts: Identity Access and Profile Preferences.</td>
+  </tr>
+  <tr>
+    <td style="text-align:center;">3.0.0</td>
+    <td style="text-align:center;">13/11/2025</td>
+    <td style="text-align:center;">David Ignacio Vivar Cesar</td>
+    <td style="text-align:justify;">Development of the System Administration bounded context.</td>
+  </tr>
+  <tr>
+    <td style="text-align:center;">3.0.0</td>
+    <td style="text-align:center;">13/11/2025</td>
+    <td style="text-align:center;">Mike Dylan Guillen Giraldo</td>
+    <td style="text-align:justify;">Development of the Service Planning bounded context in the backend.</td>
+  </tr>
+  <!-- BLOCK 4 -->
+  <tr>
+    <td style="text-align:center;">4.0.0</td>
+    <td style="text-align:center;">01/12/2025</td>
+    <td style="text-align:center;">Ever Giusephi Carlos Lavado</td>
+    <td style="text-align:justify;">Content</td>
+  </tr>
+  <tr>
+    <td style="text-align:center;">4.0.0</td>
+    <td style="text-align:center;">01/12/2025</td>
+    <td style="text-align:center;">Gerardo Valentín Palacín Lazo</td>
+    <td style="text-align:justify;">Content</td>
+  </tr>
+  <tr>
+    <td style="text-align:center;">4.0.0</td>
+    <td style="text-align:center;">01/12/2025</td>
+    <td style="text-align:center;">Guillermo Arturo Howard Robles</td>
+    <td style="text-align:justify;">Content</td>
+  </tr>
+  <tr>
+    <td style="text-align:center;">4.0.0</td>
+    <td style="text-align:center;">01/12/2025</td>
+    <td style="text-align:center;">Abraam Bernabe Acosta Elera</td>
+    <td style="text-align:justify;">Content</td>
+  </tr>
+  <tr>
+    <td style="text-align:center;">4.0.0</td>
+    <td style="text-align:center;">01/12/2025</td>
+    <td style="text-align:center;">David Ignacio Vivar Cesar</td>
+    <td style="text-align:justify;">Content</td>
+  </tr>
+  <tr>
+    <td style="text-align:center;">4.0.0</td>
+    <td style="text-align:center;">01/12/2025</td>
+    <td style="text-align:center;">Mike Dylan Guillen Giraldo</td>
+    <td style="text-align:justify;">Content</td>
+  </tr>
+</table>
+
+---
+
+# Project Report Collaboration Insights
+
+Para el desarrollo del **Project Report**, se utilizó un repositorio dentro de la organización del equipo en GitHub. A continuación, se presenta la evidencia de colaboración correspondiente, en coherencia con el Registro de Versiones del Informe.
+
+Link Github: https://github.com/RPG-Aplicaciones-Web-1ASI0730-2520-7469
+
+<img src="src/assets/cover/upc-logo.png" alt="Logo UPC" style="width: 150px; height: auto;" />
+
+- **Total de commits:**
+- **Autores contribuyentes:**
+    - Guillermo Howard (`GuillermoPromac`)
+    - Vivar David (`DarkBeider20`)
+    - Guillen Mike (`FulLHous`)
+    - Abraam Acosta (`abraam16`)
+    - Ever Carlos (`sephi-dev05`)
+    - Gerardo Palacin (`GeraldP03`)
+- Actividad distribuida por ramas correspondientes a cada sección del informe.
+- Todos los miembros participaron activamente en la redacción y revisión del contenido.
+
+---
+
+# Cotenido
+**Tabla de contenidos**
+
+---
+
+# **Student Outcome**
+
+---
+
+
