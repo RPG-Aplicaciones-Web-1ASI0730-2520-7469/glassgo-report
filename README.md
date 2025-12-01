@@ -34,19 +34,19 @@ Releases follow **Semantic Versioning**:
 - `v2.0.0` → TF1  
 
 ## Documentation
-- [Cover](docs/cover.md)  
-- [Version History](docs/versions.md)  
-- [Collaboration Insights](docs/collaboration.md)  
-- [Table of Contents](docs/toc.md)  
-- [Student Outcome](docs/student-outcome.md)  
-- [Chapter I – Introduction](docs/01-introduction.md)  
-- [Chapter II – Requirements Elicitation & Analysis](docs/02-requirements-elicitation-analysis.md)  
-- [Chapter III – Requirements Specification](docs/03-requirements-specification.md)  
-- [Chapter IV – Product Design](docs/04-product-design.md)  
-- [Chapter V – Product Implementation, Validation & Deployment](docs/05-product-implementation-validation-deployment.md)  
-- [Conclusions](docs/conclusions.md)  
-- [Bibliography](docs/bibliography.md)  
-- [Annexes](docs/annexes.md)  
+- [Cover](docs/cover.md)
+- [Version History](docs/v-registration.md)
+- [Collaboration Insights](docs/insights.md)
+- [Content](docs/content.md)
+- [Student Outcome](docs/outcome.md)
+- [Chapter I – Introduction](docs/chapter1.md)
+- [Chapter II – Requirements Elicitation & Analysis](docs/chapter2.md)
+- [Chapter III – Requirements Specification](docs/chapter3.md)
+- [Chapter IV – Product Design](docs/chapter4.md)
+- [Chapter V – Product Implementation, Validation & Deployment](docs/chapter5.md)
+- [Conclusions](docs/conclusions.md)
+- [Bibliography](docs/bibliography.md)
+- [Annexes](docs/annexes.md)
 
 ## Authors
 Team **RPG Startup**  
