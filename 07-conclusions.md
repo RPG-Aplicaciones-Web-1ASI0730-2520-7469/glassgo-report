@@ -40,3 +40,6 @@
 10. **Mejora Continua Basada en Datos:** Implementar un sistema robusto de analytics y feedback de usuarios que permita iteraciones rápidas del producto. Establecer KPIs claros como tasa de reducción de roturas, tiempo promedio de entrega, satisfacción del cliente (NPS) y tasa de renovación de suscripciones para guiar decisiones de desarrollo futuro.
 
 ## **Video About-the-Team**
+
+Below, you will find a screenshot of the video, along with links to the published version on Microsoft Stream and YouTube.
+
