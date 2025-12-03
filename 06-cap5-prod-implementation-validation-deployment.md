@@ -1,9 +1,8 @@
 <div style="page-break-after: always;"></div>
 
 # Chapter V: Product Implementation, Validation & Deployment
-## 5.1. Software Configuration Management
 
-Software configuration management is crucial for our work, as it allows us to maintain precise control over the elements of our project, such as source code, design documents, and digital assets. This ensures that all team members are working with the same version of the files and facilitates collaboration among developers, designers, and other professionals involved in the project.
+## 5.1. Software Configuration Management
 
 ### 5.1.1. Software Development Environment Configuration
 
@@ -11,16 +10,26 @@ The following are the tools and standards adopted by the team for collaborative 
 
 | Activity | Tool / Guide | Purpose | Access Type / Link |
 | :---- | :---- | :---- | :---- |
-| Requirements Management | Gherkin Conventions | Readable requirement writing in Given/When/Then format. | [https://cucumber.io/docs/gherkin/](https://cucumber.io/docs/gherkin/) |
-| Product UX/UI Design | Figma | Prototyping and responsive design. | [https://figma.com/](https://figma.com/) |
-| Frontend Dev | HTML, CSS, JavaScript, Vue | Building the web interface. | [https://vuejs.org/guide/introduction.html](https://vuejs.org/guide/introduction.html) |
-| Backend Dev | C# + ASP.NET Core | Implementation of services and backend logic. | [https://learn.microsoft.com/en-us/aspnet/core](https://learn.microsoft.com/en-us/aspnet/core) |
-| IDE | Rider + WebStorm | Development, testing, and debugging. | [https://www.jetbrains.com/rider](https://www.jetbrains.com/rider) [https://www.jetbrains.com/webstorm](https://www.jetbrains.com/webstorm) |
-| Code Standards | Google HTML/CSS Style Guide, Vue Style Guide, MDN Guidelines, W3C JavaScript Style Guide, Google JavaScript Style Guide, C# Coding Conventions, Microsoft ASP.NET Core Guidelines | Application of best development practices in frontend and backend. | [https://developer.mozilla.org/](https://developer.mozilla.org/) [https://learn.microsoft.com/en-us/dotnet/csharp/fundamentals/coding-style](https://learn.microsoft.com/en-us/dotnet/csharp/fundamentals/coding-style) |
-| Version Control | Git + GitHub | Version control and collaborative work. | [https://github.com/](https://github.com/) |
-| Software Deployment | GitHub Pages | Continuous deployment of the application for testing and validation environments. | [https://render.com/](https://render.com/) |
+| Project Management      | Trello Software                                                                                                                                                                   | Seguimiento de backlog, tareas y sprints.                                     | SaaS –[https://trello.com/](https://trello.com/software/jira)                                                                                                                                                         |
+| Requirements Management | Gherkin Conventions                                                                                                                                                               | Escritura legible de requisitos con formato Given/When/Then.                  | [https://cucumber.io/docs/gherkin/](https://cucumber.io/docs/gherkin/)                                                                                                                                                 |
+| Product UX/UI Design    | Figma                                                                                                                                                                             | Prototipos y diseño responsive.                                              | SaaS –[https://figma.com](https://figma.com)                                                                                                                                                                          |
+| Frontend Dev            | HTML, CSS, JavaScript, Vue                                                                                                                                                        | Construcción de la interfaz web.                                             | [https://vuejs.org/guide/introduction.html](https://vuejs.org/guide/introduction.html)                                                                                                                                 |
+| Backend Dev             | C# + ASP.NET Core                                                                                                                                                                 | Implementación de servicios y lógica del backend.                           | [https://learn.microsoft.com/en-us/aspnet/core](https://learn.microsoft.com/en-us/aspnet/core)                                                                                                                         |
+| IDE                     | Rider + WebStorm                                                                                                                                                                  | Desarrollo, testing y depuración.                                            | [https://www.jetbrains.com/rider](https://www.jetbrains.com/rider) / [https://www.jetbrains.com/webstorm](https://www.jetbrains.com/webstorm)                                                                             |
+| Code Standards          | Google HTML/CSS Style Guide, Vue Style Guide, MDN Guidelines, W3C JavaScript Style Guide, Google JavaScript Style Guide, C# Coding Conventions, Microsoft ASP.NET Core Guidelines | Aplicación de buenas prácticas de desarrollo en frontend y backend.         | [https://developer.mozilla.org/](https://developer.mozilla.org/) / [https://learn.microsoft.com/en-us/dotnet/csharp/fundamentals/coding-style](https://learn.microsoft.com/en-us/dotnet/csharp/fundamentals/coding-style) |
+| Version Control         | Git + GitHub                                                                                                                                                                      | Control de versiones y trabajo colaborativo.                                  | SaaS –[https://github.com](https://github.com)                                                                                                                                                                        |
+| Software Deployment     | Github pages                                                                                                                                                                      | Despliegue continuo de la aplicación para ambientes de prueba y validación. | SaaS –[https://railway.app](https://railway.app) / [https://render.com](https://render.com)                                                                                                                              |
+| Software Documentation  | Swagger                                                                                                                                                                           | Documentación técnica del sistema y pruebas de API.                         | SaaS –[https://swagger.io/](https://swagger.io/)                                                                                                                                                                      |
 
 ### 5.1.2. Source Code Management
+
+In this section, the team establishes the methods and organizational structure that will be used for tracking changes. **GitHub** will be used as the platform and version control system.
+
+The following are the URLs of the GitHub repositories for each product:
+
+- **Business Web Page**: https://tinyurl.com/4nvrx32h
+- **Frontend Web Application**: https://tinyurl.com/44kyhyud
+- **Backend Web Service**: https://tinyurl.com/53m8565y
 
 * **GitFlow Workflow**
 
@@ -78,29 +87,32 @@ The following are the tools and standards adopted by the team for collaborative 
 
 ### 5.1.4. Software Deployment Configuration
 
-This section details the necessary steps to successfully deploy the digital products that make up the solution: the landing page, the web application (frontend), and the Web Services (backend), starting from their respective source code repositories.  
-* **Frontend (Landing Page - HTML, CSS, JavaScript)**  
+This section details the necessary steps to successfully deploy the digital products that make up the solution: the Business Web Page, the web application (frontend), and the Web Services (backend), starting from their respective source code repositories.  
+* **1. Business Web Page (HTML, CSS, JavaScript)**  
   * **Base Technology:**  
     * **Languages:** HTML5, CSS3, JavaScript  
     * **Hosting:** GitHub Pages
 
   * **Configuration and Deployment:**
 
-    *Source Code Repository:* The Landing Page is developed using pure HTML, CSS, and JavaScript. All project files must be uploaded to a public repository on GitHub. It is mandatory for the index.html file to be located at the root of the repository (/) for GitHub Pages to correctly detect it as the entry point of the site. Deployment steps on GitHub Pages:
+    *Source Code Repository:* The Business Web Page is developed using pure HTML, CSS, and JavaScript. All project files must be uploaded to a public repository on GitHub. It is mandatory for the index.html file to be located at the root of the repository (/) for GitHub Pages to correctly detect it as the entry point of the site. Deployment steps on GitHub Pages:
 
     * Access the repository on GitHub.  
     * Go to the repository's Settings section.  
+
+    <img src="assets/chapter5/Deploy-Landing.jpg" alt=“Descargar” >
+    
     * In the sidebar menu, select Pages.  
     * In the Source field, choose:  
       * **Branch:** main  
       * **Folder:** / (root)  
     * Save the changes.
 
-      *Publication:* GitHub will automatically generate a public URL where the Landing Page will be available, in the format: https://\<username\>.github.io/\<repository\>/
+      *Publication:* GitHub will automatically generate a public URL where the Business Web Page will be available, in the format: https://\<username\>.github.io/\<repository\>/
 
       Updates: Any new commit to the main branch will be automatically deployed by GitHub Pages, without the need for additional actions.
 
-* **Frontend Web App (Vue.js + JavaScript)**  
+* **2. Frontend Web App (Vue.js + JavaScript)**  
   * **Base Technology:**  
     * **Framework:** Vue 3  
     * **Build Tool:** Vite / Vue CLI (npm run build)  
@@ -125,6 +137,36 @@ This section details the necessary steps to successfully deploy the digital prod
       *Publication:* GitHub will automatically generate a public URL where the Landing Page will be available, in the format: *https://\<username\>.[github.io/](http://github.io/)\<repository\>/*
 
       *Updates:* Any new commit to the main branch will be automatically deployed by GitHub Pages, without the need for additional actions.
+
+* **3. Web Services – C# ASP.NET 9.0**
+
+    **Underlying Technology**
+
+     - Framework: ASP.NET Core 9.0
+     - Language: C#
+     - Build Tool: `dotnet build`
+     - Containerization: Docker
+     - Database: MySQL (freesqldatabase.com)
+     - Hosting: Render
+
+    **Configuration and Deployment**
+ 
+    *Containerization:*
+       The backend project contains a `Dockerfile` that defines the Docker image to be built. This image is used in Render to run the application as a container.
+    
+    <img src="assets/chapter5/Deploy-Backend-1.jpg" alt=“Descargar” >
+    <img src="assets/chapter5/Deploy-Backend-2.jpg" alt=“Descargar” >
+    <img src="assets/chapter5/Deploy-Backend-3.jpg" alt=“Descargar” >
+  
+    *Deployment on Render:*
+       - Access the Render platform and create a new Web Service.
+       - Connect your GitHub repository containing the backend code.
+       - Configure the build and start commands:
+         - **Build Command:** `dotnet build`
+         - **Start Command:** `dotnet YourProjectName.dll`
+       - Set environment variables for database connection and other configurations.
+       - Deploy the service.
+
 
 ## 5.2. Landing Page, Services & Applications Implementation
 
@@ -375,20 +417,20 @@ Each team member assumed responsibility for developing one or more Backend bound
 
 #### 5.2.4.1. Sprint Planning 4\.
 
-| Sprint \#                       | Sprint 3                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
-|---------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Sprint Planning Background      |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
-| Date                            | 2025-11-29                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
-| Time                            | 06:00 pm (GMT-5)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
-| Location                        | Modalidad remota mediante la plataforma Discord                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
-| Prepared By                     | Howard Robles, Guillermo Arturo                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
-| Attendees (to planning meeting) | .Ever Carlos Lavado / Gerardo Palacín Lazo / Guillermo Arturo Howard / Abraam Acosta Elera / David Vivar Cesar / Myke Guillen Giraldo                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
-| Sprint 3 Review Summary         | Durante el Sprint 3 se logró integrar las funcionalidades esenciales para la gestión de pedidos y ventas de licores, así como la visualización de los pedidos y perfil. Se implementaron flujos completos en frontend y backend para los administradores de dueños de neogios y proveedores. El equipo demostró gran compromiso y coordinación, permitiendo avances notables en la implementación de casos de uso claves. Sin embargo, se identificaron oportunidades de mejora en la automatización de pruebas y en la gestión de errores complejos.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
-| Sprint 3 Retrospective Summary  | El equipo mantuvo una comunicación activa y resolvió bloqueos técnicos con rapidez, destacando el soporte mutuo entre miembros. Se identificó que algunos endpoints requerían mejoras en validación y documentación, lo que motivó a priorizar en este nuevo sprint las tareas técnicas orientadas a robustecer los servicios RESTful, implementar nuevas funcionalidades de cuenta (generación de tablas, eliminación, cambio de contraseña) y finalizar la lógica de notificaciones y feedback. Como mejora clave se acordó dividir mejor las tareas de testing y codificación para asegurar calidad sin comprometer la velocidad de entrega. |
-| Sprint Goal & User Stories      |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
-| Sprint 4 Goal                   | Our focus is on improving the experience of business owners and liquor suppliers, through the complete implementation of key profile functionalities, in addition to finalizing critical flows such as sales management and supplies management. In parallel, providing, through the platform API, access points for frontend developers to implement functionalities related to profiles, supplies management, validated login and registration. We believe this offers a more secure user flow by protecting platform access; streamlines operations for business owners by facilitating supplies creation and management; optimizes operational time for suppliers by allowing tracking of their available supplies.              |
-| Sprint 4 Velocity               | 48                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
-| Sum of Story Points             | 46                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
+| Sprint \#                       | Sprint 4                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
+|---------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Sprint Planning Background      |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
+| Date                            | 2025-11-29                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
+| Time                            | 06:00 pm (GMT-5)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
+| Location                        | Modalidad remota mediante la plataforma Discord                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
+| Prepared By                     | Howard Robles, Guillermo Arturo                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
+| Attendees (to planning meeting) | .Ever Carlos Lavado / Gerardo Palacín Lazo / Guillermo Arturo Howard / Abraam Acosta Elera / David Vivar Cesar / Myke Guillen Giraldo                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+| Sprint 3 Review Summary         | Durante el Sprint 3 se logró integrar las funcionalidades esenciales para la gestión de pedidos y ventas de licores, así como la visualización de los pedidos y perfil. Se implementaron flujos completos en frontend y backend para los administradores de dueños de neogios y proveedores. El equipo demostró gran compromiso y coordinación, permitiendo avances notables en la implementación de casos de uso claves. Sin embargo, se identificaron oportunidades de mejora en la automatización de pruebas y en la gestión de errores complejos.                                                                                                                                                                   |
+| Sprint 3 Retrospective Summary  | El equipo mantuvo una comunicación activa y resolvió bloqueos técnicos con rapidez, destacando el soporte mutuo entre miembros. Se identificó que algunos endpoints requerían mejoras en validación y documentación, lo que motivó a priorizar en este nuevo sprint las tareas técnicas orientadas a robustecer los servicios RESTful, implementar nuevas funcionalidades de cuenta (generación de tablas, eliminación, cambio de contraseña) y finalizar la lógica de notificaciones y feedback. Como mejora clave se acordó dividir mejor las tareas de testing y codificación para asegurar calidad sin comprometer la velocidad de entrega.                                                                         |
+| Sprint Goal & User Stories      |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
+| Sprint 4 Goal                   | Our focus is on improving the experience of business owners and liquor suppliers, through the complete implementation of key profile functionalities, in addition to finalizing critical flows such as sales management and supplies management. In parallel, providing, through the platform API, access points for frontend developers to implement functionalities related to profiles, supplies management, validated login and registration. We believe this offers a more secure user flow by protecting platform access; streamlines operations for business owners by facilitating supplies creation and management; optimizes operational time for suppliers by allowing tracking of their available supplies. |
+| Sprint 4 Velocity               | 48                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
+| Sum of Story Points             | 46                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
 
 #### 5.2.4.2. Aspect Leaders and Collaborators.
 
@@ -411,17 +453,177 @@ The main objective of this Sprint is to consolidate a complete functional experi
 
 Likewise, work will be done on integrating the subscription payment flow and providing documented REST APIs, allowing the frontend team to efficiently consume endpoints to build the required views. This comprehensive approach seeks to improve usability, operability, and cohesion between frontend and backend, facilitating functional validation of the platform and advancing towards its adoption by end users.
 
-Trello: [https://trello.com/invite/b/68ffe30942dcb480aedf84d2/ATTI14ff021bc259e9ac94812c42ae4680e22318D9BD/sprint-backlog-3](https://trello.com/invite/b/68ffe30942dcb480aedf84d2/ATTI14ff021bc259e9ac94812c42ae4680e22318D9BD/sprint-backlog-3)
+<img src="assets/chapter5/Trello-Sprint4.png" alt=“Descargar” >
+
+<table>
+<thead>
+         <!-- Fila 1: Sprint # y Sprint n -->
+        <tr>
+            <th>Sprint #</th>
+            <th>Sprint n</th>
+            <th></th>
+            <th></th>
+            <th></th>
+            <th></th>
+            <th></th>
+            <th></th>
+        </tr>
+        <tr>
+            <th>User Story</th>
+            <th></th>
+            <th>Work-item / Task</th>
+            <th></th>
+            <th></th>
+            <th></th>
+            <th></th>
+            <th></th>
+        </tr>
+        <tr>
+            <th>Id</th>
+            <th>Title</th>
+            <th>Id</th>
+            <th>Title</th>
+            <th>Description</th>
+            <th>Estimation (hours)</th>
+            <th>Assigned To</th>
+            <th>Status (To-do / In-Process / To-Review / Done)</th>
+        </tr>
+    </thead>
+    <tbody>
+    <tr>
+        <td>US-02</td>
+        <td>Creación de comando de verificacion</td>
+        <td>TASK03</td>
+        <td>Implementar comando de verigicación de los campos del pedido</td>
+        <td>Crear la implementación del comando de verificación de los campos del pedido que se pueden actualizar </td>
+        <td>2h</td>
+        <td>Ever Lavado</td>
+        <td>Done</td>
+    </tr>
+<tr>
+    <td>US-03</td>
+    <td>Devolver respuesta JSON</td>
+    <td>TASK04</td>
+    <td>Devolver respuesta JSON indicando éxito o fallo</td>
+    <td>Implementar la lógica para enviar respuesta JSON con estado de la operación</td>
+    <td>2h</td>
+    <td>Ever Lavado</td>
+    <td>Done</td>
+</tr>
+
+<tr>
+    <td>US-61</td>
+    <td>Implementación ProfileRepository</td>
+    <td>TASK07</td>
+    <td>Implementar el ProfileRepository</td>
+    <td>Crear la implementación del repositorio para gestionar perfiles de usuario</td>
+    <td>3h</td>
+    <td>Abraam Acosta</td>
+    <td>Done</td>
+</tr>
+
+<tr>
+    <td>US-61</td>
+    <td>Registro de usuarios</td>
+    <td>TASK09</td>
+    <td>Implementar registro de usuarios (API)</td>
+    <td>Crear el endpoint y lógica para registrar usuarios desde la API</td>
+    <td>4h</td>
+    <td>Myke Guillen</td>
+    <td>Done</td>
+</tr>
+
+<tr>
+    <td>US-03</td>
+    <td>Eliminar pedido cancelado</td>
+    <td>TASK02</td>
+    <td>Desarrollar handler que elimine un pedido cancelado</td>
+    <td>Crear el handler encargado de eliminar pedidos con estado cancelado</td>
+    <td>2h</td>
+    <td>David Vivar</td>
+    <td>Done</td>
+</tr>
+
+<tr>
+    <td>US-63</td>
+    <td>Aggregate Order</td>
+    <td>TASK23</td>
+    <td>Implementar aggregate y handlers</td>
+    <td>Crear aggregate para órdenes y desarrollar handlers de updates y queries</td>
+    <td>5h</td>
+    <td>Abraam Acosta</td>
+    <td>Done</td>
+</tr>
+
+<tr>
+    <td>US-61</td>
+    <td>Retornar ID de usuario</td>
+    <td>TASK06</td>
+    <td>Retornar respuesta JSON con ID del usuario</td>
+    <td>Implementar lógica para devolver el ID del usuario en formato JSON</td>
+    <td>2h</td>
+    <td>Ever Lavado</td>
+    <td>Done</td>
+</tr>
+
+<tr>
+    <td>US-61</td>
+    <td>Endpoint /users</td>
+    <td>TASK08</td>
+    <td>Implementar endpoint /users con validación</td>
+    <td>Crear el endpoint /users e integrar validaciones de datos de entrada</td>
+    <td>4h</td>
+    <td>Guillermo Howard</td>
+    <td>Done</td>
+</tr>
+    </tbody>
+</table>
+
+Trello: https://tinyurl.com/4mx2dvz8
 
 #### 5.2.4.4. Development Evidence for Sprint Review.
 
-Web Services (Backend):
+**Business Web Page:**
+
+| Repository               | Branch | Author           | Commit Id | Commit Message                 | Commit Message Body                                                                                      | Commited on (Date) |
+|--------------------------|--------|------------------|-----------|--------------------------------| -------------------------------------------------------------------------------------------------------- |--------------------|
+| glassgo-business-website | main   | Guillermo Howard | 1e5c2c6   | feat: add dueno-negocio setup. | The new "business-owner" element was added to the landing page | 03-12-2025         |
+
+**Frontend (Web Application):**
+
+Significant progress was made in developing the platform's frontend, focusing on order creation, user profiles, and inventory management. Visual components were also refined to improve the user experience. These changes aim to strengthen the platform and facilitate its use in various operational contexts.
+
+| Repository       | Branch  | Author        | Commit Id | Commit Message                                                           | Commit Message Body                                                                                      | Commited on (Date) |
+|------------------|---------|---------------|-----------|--------------------------------------------------------------------------| -------------------------------------------------------------------------------------------------------- |--------------------|
+| glassgo-frontend | develop | Ever Lavado   | b7e15b5   | style(comments): update and improve code comments across multiple files. | Comments across multiple files are updated and improved to achieve better code clarity and maintainability. | 01-12-2025         |
+| glassgo-frontend | develop | Ever Lavado   | 16a320f   | Merge branch 'feature/identity-access' into develop                      | The feature/identity-access branch is integrated into develop, incorporating functionalities related to identity and access management. | 01-12-2025         |
+| glassgo-frontend | develop | Ever Lavado   | 28b984d   | chore: update package.json file for dependencies.                        | The dependencies in the package.json file are updated to keep the project aligned with the latest and most stable versions. | 01-12-2025         |
+| glassgo-frontend | develop | Abraam Acosta | 2275ee9   | feat: IAM and profiles update and refactoring | Updates and refactoring are implemented in the IAM and Profiles modules to improve the system's structure, scalability, and maintainability. | 01-12-2025         |
+**Backend (Web Services):**
 
 In the platform backend, important advances were made focused on order, supply, and batch management. Detailed handling for supplies was implemented, in addition to validating and reinforcing data integrity through specific value objects. Configurations for development and production environments were also added, and database column definitions were improved to optimize date, price, and quantity handling. Services and controllers were developed that facilitate interaction with resources, allowing efficient and secure management of data related to inventory and system operations.
 
+| Repository      | Branch  | Author        | Commit Id | Commit Message                                                                 | Commit Message Body                                                                                      | Commited on (Date) |
+|-----------------|---------|---------------|-----------|--------------------------------------------------------------------------------| -------------------------------------------------------------------------------------------------------- |--------------------|
+| glassgo-backend | develop | Abraam Acosta | e8dde16   | feat: update sing in.                                                          | The login flow is updated to improve user experience and the consistency of the authentication module. | 01-12-2025         |
+| glassgo-backend | develop | Abraam Acosta | 2ea0ed7   | fix: update program cs.                                                        | Configurations and settings within the Program.cs file are corrected to resolve problems detected in the application initialization. | 01-12-2025         |
+| glassgo-backend | develop | Abraam Acosta | f352b88   | fix paymentmethods table configuration for mysql auto_increment compatibility. | The PaymentMethods table configuration is corrected to ensure compatibility with MySQL and its handling of AUTO_INCREMENT. | 01-12-2025         |
+| glassgo-backend | develop | Abraam Acosta | c4c49b2   | fix: add totable('users') to ensure table creation in database.                | The ToTable("Users") configuration is added to the entity mapping to ensure that the table is created correctly in the database. | 01-12-2025         |
+| glassgo-backend | develop | Abraam Acosta | 21be8d9   | fix: read database config from environment variables in production.            | The database configuration loading is corrected so that in production environments the values are read correctly from the environment variables. | 01-12-2025         |
+| glassgo-backend | develop | Abraam Acosta | 0891f5b   | feat: configure mysql for production with auto table creation.                 | MySQL is configured for the production environment by enabling the automatic creation of tables when the application starts. | 01-12-2025         |
+| glassgo-backend | develop | Abraam Acosta | 01f460c   | docs: add comprehensive readme.md for backend.                                 | A complete README.md file is added for the backend with detailed information about the project's architecture, configuration, and execution. | 01-12-2025         |
+| glassgo-backend | develop | Abraam Acosta | 8dd0865   | fix: add tokensettings to appsettings.production.json.                         | The production environment configuration is corrected by adding the TokenSettings section to the appsettings.Production.json file. | 01-12-2025         |
+| glassgo-backend | develop | Abraam Acosta | 437bf69   | feat: implement iam and Profiles bounded contexts with full user management.   | IAM bounded contexts and Profiles are implemented with full support for user management. | 01-12-2025         |
+| glassgo-backend | develop | David Vivar   | 0eaf689   | refactor(payments): merge subscriptionscontroller into paymentscontroller.     | The structure of the payments module is refactored by unifying the SubscriptionsController within PaymentsController to simplify the handling of related endpoints. | 01-12-2025         |
+| glassgo-backend | develop | David Vivar   | 77cad60   | feat: implement role-based admin functions.                                    | Role-based administrative functions are implemented to expand management capabilities within the system. | 01-12-2025         |
+
 #### 5.2.4.5. Execution Evidence for Sprint Review.
 
-Below is a video showing the progress made during Sprint 3, in which work was done on the landing page, as well as frontend and backend development.
+Below is a video showing the progress made during Sprint 3, in which work was done on the landing page, as well as on the development of the frontend and backend.
+
+**Video del sprint 3:**
+
+<img src="assets/chapter5/Exuction-evidence.png" alt=“Descargar” >
 
 https://youtu.be/fgSdkh02vZo
 
@@ -445,11 +647,53 @@ Web Services (Backend):
 
 En el backend de la plataforma se realizaron importantes avances enfocados en la gestión de pedios, suministros y lotes. Se implementaron un manejo detallado para los insumos, además de validar y reforzar la integridad de datos mediante objetos de valor específicos. También se añadieron configuraciones para ambientes de desarrollo y producción, y se mejoraron las definiciones de columnas en la base de datos para optimizar el manejo de fechas, precios y cantidades. Se desarrollaron servicios y controladores que facilitan la interacción con los recursos, permitiendo una gestión eficiente y segura de los datos relacionados con el inventario y las operaciones del sistema.
 
+1. Starting a service in Render: A new service was created in Render for the backend and the link to the backend repository was provided.
+<img src="assets/chapter5/Deploy-Backend-1.jpg" alt=“Descargar” >
+
+2. Environment variables: The necessary environment variables for service configuration were added, such as database credentials and API keys.
+<img src="assets/chapter5/Deploy-Backend-2.jpg" alt=“Descargar” >
+
+3. Service deployment: The service deployment was initiated on Render, making the backend available at the provided URL.
+<img src="assets/chapter5/Deploy-Backend-3.jpg" alt=“Descargar” >
+
+4. Deployment verification: The service was verified to be working correctly by accessing the URL provided by Render.
+<img src="assets/chapter5/Deploy-Backend-4.png" alt=“Descargar” >
+
 #### 5.2.4.8. Team Collaboration Insights during Sprint.
 
-We continue using specific branches for each section or functionality (feature/\[section-name\]), allowing organized parallel work.
+We continued using dedicated branches for each section or feature (feature/[section-name]), enabling organized parallel work.
 
-Each team member assumed responsibility for developing one or more Backend bounded contexts. Frequent commits were made, recording progress continuously and in detail. The developed functionalities were integrated through Pull Requests to the develop branch. Constant communication was maintained through the Discord platform to coordinate progress and resolve doubts in real time. Good programming practices, version control, and team collaboration were applied.
+Each team member took responsibility for developing one or more backend branches. Frequent commits were made, with continuous and detailed progress tracking. Developed features were integrated into the develop branch via pull requests. Constant communication was maintained through the Discord platform to coordinate progress and resolve questions in real time. Good programming practices, version control, and team collaboration were implemented.
+
+##### **Analíticos de colaboración**
+
+**1. Business Web Page:**
+
+<img src="assets/chapter5/Comitss-Business-Web.png" alt=“Descargar” >
+
+- Total commits made: **14**
+- Total contributing authors: **3**
+- The graph shows a consistent distribution of activity throughout the sprint
+
+**2. Web Application Frontend:**
+
+-The total number of comics in the repository could not be displayed
+
+<img src="assets/chapter5/Comit-Front.png" alt=“Descargar” >
+
+- Total commits made: **19**
+- Total contributing authors: **5**
+- The graph shows a consistent distribution of activity throughout the sprint
+
+**3. Web Services Backend:**
+
+-The total number of comics in the repository could not be displayed
+
+<img src="assets/chapter5/Comit-Back.png" alt=“Descargar” >
+
+- Total commits made: **15**
+- Total contributing authors: **5**
+- The graph shows a consistent distribution of activity throughout the sprint
 
 ## 5.3. Validation Interviews.
 
