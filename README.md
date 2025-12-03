@@ -215,9 +215,9 @@ Link Github: https://github.com/RPG-Aplicaciones-Web-1ASI0730-2520-7469
 
 - Para la elaboración del informe, se crearon ramas específicas para cada sección del documento, permitiendo a los integrantes trabajar de manera simultánea y organizada, facilitando la integración de los contenidos.
 
-<img src="assets/cover/upc-logo.png" alt="Contributors" style="width: 500px; height: auto;" />
+<img src="assets/cover/Comit-Report.png" alt="Contributors" style="width: 500px; height: auto;" />
 
-- **Total de commits:**
+- **Total de commits: 72**
 - **Autores contribuyentes:**
   - Guillermo Howard (`GuillermoPromac`)
   - Vivar David (`DarkBeider20`)
