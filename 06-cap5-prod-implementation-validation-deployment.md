@@ -185,13 +185,13 @@ During this Sprint, the team made significant progress in the implementation of 
 
 #### 5.2.1.5. Execution Evidence for Sprint Review
 
-![EEFSR1](src/assets/chapter5/sprints/sprint1/execution-evidence-for-sprint-review1.png)
+![EEFSR1](assets/chapter5/sprints/sprint1/execution-evidence-for-sprint-review1.png)
 
-![EEFSR2](src/assets/chapter5/sprints/sprint1/execution-evidence-for-sprint-review2.png)
+![EEFSR2](assets/chapter5/sprints/sprint1/execution-evidence-for-sprint-review2.png)
 
-![EEFSR3](src/assets/chapter5/sprints/sprint1/execution-evidence-for-sprint-review3.png)
+![EEFSR3](assets/chapter5/sprints/sprint1/execution-evidence-for-sprint-review3.png)
 
-![EEFSR4](src/assets/chapter5/sprints/sprint1/execution-evidence-for-sprint-review4.png)
+![EEFSR4](assets/chapter5/sprints/sprint1/execution-evidence-for-sprint-review4.png)
 
 #### 5.2.1.6. Services Documentation Evidence for Sprint Review
 
@@ -201,9 +201,9 @@ For this delivery, no APIs were used, so documentation on services implemented d
 
 During this Sprint, the team successfully deployed the landing page using the GitHub Pages platform. The goal was to ensure that the solution was available online for review and validation, complying with continuous delivery standards and visibility of project progress.
 
-![SDEFSR1](src/assets/chapter5/sprints/sprint1/software-deployment-evidence-for-sprint-review1.png)
+![SDEFSR1](assets/chapter5/sprints/sprint1/software-deployment-evidence-for-sprint-review1.png)
 
-![SDEFSR2](src/assets/chapter5/sprints/sprint1/software-deployment-evidence-for-sprint-review2.png)
+![SDEFSR2](assets/chapter5/sprints/sprint1/software-deployment-evidence-for-sprint-review2.png)
 
 #### 5.2.1.8. Team Collaboration Insights during Sprint
 
@@ -211,7 +211,7 @@ During this Sprint, the implementation activities were carried out collaborative
 
 Cross-review of progress, detailed commit logging, and documentation of changes made were promoted. Periodic meetings allowed for resolving doubts, adjusting priorities, and ensuring that all members were aligned with the Sprint objectives. This dynamic facilitated continuous integration and timely delivery of expected results.
 
-![TCIDS](src/assets/chapter5/sprints/sprint1/team-collaboration-insights-during-sprint.png)
+![TCIDS](assets/chapter5/sprints/sprint1/team-collaboration-insights-during-sprint.png)
 
 ### 5.2.2 Sprint 2
 
@@ -530,7 +530,7 @@ Segment 3: Business Owners
 * **District:** Lima Metropolitana
 * **Timing:** (00:00- 12:39 min)
 
-**![cap5](src/assets/chapter5/Entrevista1.1.png)**
+**![cap5](assets/chapter5/Entrevista1.1.png)**
 
 View interview: https://tinyurl.com/3vn4bcyw
 
@@ -626,7 +626,6 @@ The video clearly and dynamically communicates the product's purpose, demonstrat
 As part of the product validation, a testimonial from a business owner interviewed during the discovery phase is also included.
 
 Below, you will find a screenshot of the video, along with links to the published version on Microsoft Stream and YouTube.
-
 
 https://youtu.be/fgSdkh02vZo
 

@@ -1,44 +1,74 @@
-<img src="src/assets/cover/upc-logo.png" alt="Logo UPC" style="width: 150px; height: auto;" />
+<div align="center">
+<img src="assets/cover/upc-logo.png" alt="Logo UPC" style="width: 150px; height: auto;" />
 
-**Universidad Peruana de Ciencias Aplicadas**
+<p align="center">UNIVERSIDAD PERUANA DE CIENCIAS APLICADAS</p>
 
-**Facultad:** _Ingeniería_
+<p align="center">Facultad de Ingeniería</p>
 
-**Carrera:** _Ingeniería de Software_
+<p align="center">Carrera de Ingeniería de Software</p>
 
-**Ciclo:** _202520_
+<p align="center">Ciclo: 202520</p>
 
-**Codigo del curso:** _1ASI0730_
+<p align="center">Código del curso: 1ASI0730</p>
 
-**Nombre del curso:** _Aplicaciones Web_
+<p align="center">Nombre del curso: Aplicaciones Web</p>
 
-**NRC:** _7469_
+<p align="center">NRC: 7469</p>
 
-**DOCENTE:** Angel Augusto Velasquez Nuñez
+<p align="center">DOCENTE: Ángel Augusto Velásquez Nuñez</p>
 
-**Informe de Trabajo Final**
+<p align="center">Informe de Trabajo Final</p>
 
-## Nombre del Startup
+<p align="center">Nombre del Startup</p>
+<p align="center">Nombre: RPG</p>
 
-**Nombre:** _RPG_
+<p align="center">Nombre del Producto</p>
+<p align="center">Producto: GlassGo</p>
 
-## Nombre del Producto
+<p align="center">Relación de integrantes</p>
 
-**Producto:** _GlassGo_
 
-## Relacion de integrantes
+<div align="center">
+<table>
+  <thead>
+    <tr>
+      <th style="background-color: #333; color: #fff;">Apellidos y Nombres</th>
+      <th style="background-color: #333; color: #fff;">Código de Alumno</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Howard Robles, Guillermo Arturo</td>
+      <td>U202222275</td>
+    </tr>
+    <tr>
+      <td>Lavado Quispe, Ever Giusephi</td>
+      <td>U202224867</td>
+    </tr>
+    <tr>
+      <td>Vivar Cesar, David Ignacio</td>
+      <td>U202414424</td>
+    </tr>
+    <tr>
+      <td>Guillen Giraldo, Myke Dylan</td>
+      <td>U202211881</td>
+    </tr>
+    <tr>
+      <td>Acosta Elera, Abraam Bernabe</td>
+      <td>U202219199</td>
+    </tr>
+    <tr>
+      <td>Palacín Lazo, Gerardo Valentin</td>
+      <td>U20211C201</td>
+    </tr>
+  </tbody>
+</table>
 
-| Código     | Apellidos | Nombres |
-|:-----------| :---- | :---- |
-| U202222275 | Howard Robles | Guillermo Arturo |
-| U202414424 | Vivar Cesar | David Ignacio |
-| U202211881 | Guillen Giraldo | Myke Dylan |
-| U202224867 | Lavado Quispe | Ever Giusephi |
-| U202219199 | Acosta Elera | Abraam Bernabe |
-| U20211C201 | Palacín Lazo | Gerardo Valentin |
+<p align="center">MES Y AÑO</p>
 
-**Mes y Año**  
-_Diciembre 2025_
+<p align="center">Diciembre 2025</p>
+
+</div>
 
 ---
 
@@ -179,7 +209,9 @@ Para el desarrollo del **Project Report**, se utilizó un repositorio dentro de 
 
 Link Github: https://github.com/RPG-Aplicaciones-Web-1ASI0730-2520-7469
 
-<img src="src/assets/cover/upc-logo.png" alt="Logo UPC" style="width: 150px; height: auto;" />
+- Para la elaboración del informe, se crearon ramas específicas para cada sección del documento, permitiendo a los integrantes trabajar de manera simultánea y organizada, facilitando la integración de los contenidos.
+
+<img src="assets/cover/upc-logo.png" alt="Contributors" style="width: 500px; height: auto;" />
 
 - **Total de commits:**
 - **Autores contribuyentes:**

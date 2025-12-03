@@ -1,3 +1,5 @@
+<div style="page-break-after: always;"></div>
+
 # **Chapter I: Introduction**
 ## **1.1. Startup Profile**
 ### **1.1.1. Startup Description**
@@ -41,7 +43,7 @@
 <table style="width: 100%; border-collapse: collapse; text-align: center;">
   <tr>
     <td style="width: 180px;">
-      <img src="src/assets/chapter1/startup-profile/team-member-profiles/giusephi.png" 
+      <img src="assets/chapter1/startup-profile/team-member-profiles/giusephi.png" 
            style="width: 100px;">
     </td>
     <td style="text-align: justify;">
@@ -51,7 +53,7 @@
   </tr>
   <tr>
     <td>
-      <img src="src/assets/chapter1/startup-profile/team-member-profiles/gerardo.png" 
+      <img src="assets/chapter1/startup-profile/team-member-profiles/gerardo.png" 
            style="width: 100px;">
     </td>
     <td style="text-align: justify;">
@@ -61,7 +63,7 @@
   </tr>
   <tr>
     <td>
-      <img src="src/assets/chapter1/startup-profile/team-member-profiles/guillermo.png" 
+      <img src="assets/chapter1/startup-profile/team-member-profiles/guillermo.png" 
            style="width: 100px;">
     </td>
     <td style="text-align: justify;">
@@ -71,7 +73,7 @@
   </tr>
   <tr>
     <td>
-      <img src="src/assets/chapter1/startup-profile/team-member-profiles/abraam.png" 
+      <img src="assets/chapter1/startup-profile/team-member-profiles/abraam.png" 
            style="width: 100px;">
     </td>
     <td style="text-align: justify;">
@@ -81,7 +83,7 @@
   </tr>
   <tr>
     <td>
-      <img src="src/assets/chapter1/startup-profile/team-member-profiles/david.png" 
+      <img src="assets/chapter1/startup-profile/team-member-profiles/david.png" 
            style="width: 100px;">
     </td>
     <td style="text-align: justify;">
@@ -91,7 +93,7 @@
   </tr>
   <tr>
     <td>
-      <img src="src/assets/chapter1/startup-profile/team-member-profiles/dylan.png" 
+      <img src="assets/chapter1/startup-profile/team-member-profiles/dylan.png" 
            style="width: 100px;">
     </td>
     <td style="text-align: justify;">

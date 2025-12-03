@@ -1,3 +1,5 @@
+<div style="page-break-after: always;"></div>
+
 # **Chapter III: Requirements Specification**
 ## **3.1. User Stories**
 
@@ -757,7 +759,7 @@
 </p>
 
 <p align="center">
-    <img src="src/assets/chapter3/impact-mapping/impact-mapping.png" width="50%">
+    <img src="assets/chapter3/impact-mapping/impact-mapping.png" width="50%">
 </p>
 
 <div style="page-break-after: always;"></div>
