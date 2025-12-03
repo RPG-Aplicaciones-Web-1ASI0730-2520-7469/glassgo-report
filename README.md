@@ -72,6 +72,8 @@
 
 ---
 
+<div style="page-break-after: always;"></div>
+
 # Registro de Versiones del Informe
 
 <table style="width:100%; border-collapse: collapse;">
@@ -203,6 +205,8 @@
 
 ---
 
+<div style="page-break-after: always;"></div>
+
 # Project Report Collaboration Insights
 
 Para el desarrollo del **Project Report**, se utilizó un repositorio dentro de la organización del equipo en GitHub. A continuación, se presenta la evidencia de colaboración correspondiente, en coherencia con el Registro de Versiones del Informe.
@@ -225,6 +229,8 @@ Link Github: https://github.com/RPG-Aplicaciones-Web-1ASI0730-2520-7469
 - Todos los miembros participaron activamente en la redacción y revisión del contenido.
 
 ---
+
+<div style="page-break-after: always;"></div>
 
 # Cotenido
 **Tabla de contenidos**
@@ -345,6 +351,8 @@ Link Github: https://github.com/RPG-Aplicaciones-Web-1ASI0730-2520-7469
 - [Anexos](#anexos)
 
 ---
+
+<div style="page-break-after: always;"></div>
 
 # **Student Outcome 5**
 

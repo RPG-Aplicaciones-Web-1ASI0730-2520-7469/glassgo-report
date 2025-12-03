@@ -45,3 +45,7 @@
 
 Below, you will find a screenshot of the video, along with links to the published version on Microsoft Stream and YouTube.
 
+https://tinyurl.com/57w582nc
+
+https://youtu.be/kPyVVjTkTlA
+

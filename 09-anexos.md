@@ -32,25 +32,26 @@
 
 <div class="page"></div>
 
-## Anexo D. About The Team
+## Anexo D. About The Product
 
-- Link del video: 
-
-<img src="assets/annexes/AnexoC.png" alt=“Descargar” >
-
-<div class="page"></div>
-
-## Anexo E. About The Product
-
-- Link del video: https://www.youtube.com/watch?v=fgSdkh02vZo
+- Link del video: https://tinyurl.com/44h3s3un
 
 <img src="assets/annexes/AnexoD.png" alt=“Descargar” >
 
 <div class="page"></div>
 
+## Anexo E. About The Team
+
+- Link del video: https://tinyurl.com/57w582nc
+
+<img src="assets/annexes/About-The-Team.png" alt=“Descargar” >
+
+<div class="page"></div>
+
+
 ## Anexo F. TF1
 
-- Link del video: https://youtu.be/7YxS5O5DGGY 
+- Link del video: https://tinyurl.com/bdz9m68x 
 
 <img src="assets/annexes/AnexoF.png" alt=“Descargar” >
 
