@@ -500,7 +500,7 @@ Likewise, work will be done on integrating the subscription payment flow and pro
         <td>Ever Lavado</td>
         <td>Done</td>
     </tr>
-<tr>
+    <tr>
     <td>US-03</td>
     <td>Devolver respuesta JSON</td>
     <td>TASK04</td>
@@ -509,9 +509,8 @@ Likewise, work will be done on integrating the subscription payment flow and pro
     <td>2h</td>
     <td>Ever Lavado</td>
     <td>Done</td>
-</tr>
-
-<tr>
+    </tr>
+    <tr>
     <td>US-61</td>
     <td>Implementación ProfileRepository</td>
     <td>TASK07</td>
@@ -520,9 +519,8 @@ Likewise, work will be done on integrating the subscription payment flow and pro
     <td>3h</td>
     <td>Abraam Acosta</td>
     <td>Done</td>
-</tr>
-
-<tr>
+    </tr>
+    <tr>
     <td>US-61</td>
     <td>Registro de usuarios</td>
     <td>TASK09</td>
@@ -531,9 +529,8 @@ Likewise, work will be done on integrating the subscription payment flow and pro
     <td>4h</td>
     <td>Myke Guillen</td>
     <td>Done</td>
-</tr>
-
-<tr>
+    </tr>
+    <tr>
     <td>US-03</td>
     <td>Eliminar pedido cancelado</td>
     <td>TASK02</td>
@@ -542,9 +539,8 @@ Likewise, work will be done on integrating the subscription payment flow and pro
     <td>2h</td>
     <td>David Vivar</td>
     <td>Done</td>
-</tr>
-
-<tr>
+    </tr>
+    <tr>
     <td>US-63</td>
     <td>Aggregate Order</td>
     <td>TASK23</td>
@@ -553,9 +549,8 @@ Likewise, work will be done on integrating the subscription payment flow and pro
     <td>5h</td>
     <td>Abraam Acosta</td>
     <td>Done</td>
-</tr>
-
-<tr>
+    </tr>
+    <tr>
     <td>US-61</td>
     <td>Retornar ID de usuario</td>
     <td>TASK06</td>
@@ -564,9 +559,8 @@ Likewise, work will be done on integrating the subscription payment flow and pro
     <td>2h</td>
     <td>Ever Lavado</td>
     <td>Done</td>
-</tr>
-
-<tr>
+    </tr>
+    <tr>
     <td>US-61</td>
     <td>Endpoint /users</td>
     <td>TASK08</td>
@@ -575,7 +569,7 @@ Likewise, work will be done on integrating the subscription payment flow and pro
     <td>4h</td>
     <td>Guillermo Howard</td>
     <td>Done</td>
-</tr>
+    </tr>
     </tbody>
 </table>
 
