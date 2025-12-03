@@ -26,7 +26,7 @@
 
 ## Anexo C. Organización Github
 
-- Link del repositorio Github del proyecto: https://github.com/RPG-Aplicaciones-Web-1ASI0730-2520-7469
+- Link del repositorio Github del proyecto: https://tinyurl.com/ykpjpukh
 
 <img src="assets/annexes/Github.png" alt=“Descargar” >
 
@@ -48,12 +48,12 @@
 
 <div class="page"></div>
 
+## Videos de Exposiciones
 
-## Anexo F. TF1
+**TF1**
 
 - Link del video: https://tinyurl.com/bdz9m68x 
 
 <img src="assets/annexes/AnexoF.png" alt=“Descargar” >
 
-<div class="page"></div>
 
